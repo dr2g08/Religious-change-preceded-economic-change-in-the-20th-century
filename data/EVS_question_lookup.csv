@@ -1,0 +1,893 @@
+EVS LdF 1981-2008 Variable name (ZA4804),EVS LdF 1981-2008 variable label (ZA4804),EVS 1981             ,EVS 1990        ,EVS 1999  ,EVS 2008 ,Thematic categories
+S001,Study,,,,,Archive/ID Variables and Interview Characteristics
+S002EVS,EVS-wave,,,,,Archive/ID Variables and Interview Characteristics
+S002VS,EVS/WVS-wave,,,,,Archive/ID Variables and Interview Characteristics
+S003,Country/region,country,country ,country,country,Archive/ID Variables and Interview Characteristics
+S003A,Country/regions [with split ups],,country1,country1,country1,Archive/ID Variables and Interview Characteristics
+S006,Original respondent number,caseno,caseno,caseno,caseno,Archive/ID Variables and Interview Characteristics
+S007,Unified respondent number,id_cocas,id_cocas,id_cocas,id_cocas,Archive/ID Variables and Interview Characteristics
+S007_01,Unified respondent number (EVS/WVS LF),,,,,Archive/ID Variables and Interview Characteristics
+S008,Interviewer number,,,intno,intno,Archive/ID Variables and Interview Characteristics
+S009,Country abbreviation,c_abrv,c_abrv,c_abrv,c_abrv,Archive/ID Variables and Interview Characteristics
+S009A,Country abbreviation [with split ups],,c_abrv1,c_abrv1,c_abrv1,Archive/ID Variables and Interview Characteristics
+S010,Total length of interview,,q739,o52_r,v374,Archive/ID Variables and Interview Characteristics
+S010_01,Time of interview: start hour,,,,v373a,Archive/ID Variables and Interview Characteristics
+S010_02,Time of interview: start minute,,,,v373b,Archive/ID Variables and Interview Characteristics
+S010_03,Time of interview: end hour,,,,v374a,Archive/ID Variables and Interview Characteristics
+S010_04,Time of interview: end minute,,,,v374b,Archive/ID Variables and Interview Characteristics
+S011,Time at the end of interview,,,,v374c,Archive/ID Variables and Interview Characteristics
+S012,Date interview,,,o50,v372,Archive/ID Variables and Interview Characteristics
+S013,Respondent interested during the interview,,q741,o53,v375,Archive/ID Variables and Interview Characteristics
+S014,Confidence respondent during the interview,v573,,,,Archive/ID Variables and Interview Characteristics
+S015,On the whole respondent looked,v574,,,,Archive/ID Variables and Interview Characteristics
+S016,Language in which interview was conducted,,language,language,v376,Archive/ID Variables and Interview Characteristics
+S017,Weight,weight_g,weight_g,weight_g,weight_g ,Archive/ID Variables and Interview Characteristics
+S017A,Weight [with split ups],,weight_s,weight_s,weight_s,Archive/ID Variables and Interview Characteristics
+S020,Year survey,year,year,year,year,Archive/ID Variables and Interview Characteristics
+S021,Country - wave - study - set - year,,,,,Archive/ID Variables and Interview Characteristics
+S021A,Country - wave - study - set - year [with split ups],,,,,Archive/ID Variables and Interview Characteristics
+S022,Year/month of start-fieldwork,v575,q744,v324,v377,Archive/ID Variables and Interview Characteristics
+S023,Year/month of end-fieldwork,v576,q745,v325,v378,Archive/ID Variables and Interview Characteristics
+S024,Country - wave,,,,,Archive/ID Variables and Interview Characteristics
+S024A,Country - wave [with split ups],,,,,Archive/ID Variables and Interview Characteristics
+S025,Country - year,cntry_y,cntry_y,cntry_y,cntry_y,Archive/ID Variables and Interview Characteristics
+S025A,Country - year [with split ups],,cntry1_y,cntry1_y,cntry1_y,Archive/ID Variables and Interview Characteristics
+S029,GESIS study number,,,,,Archive/ID Variables and Interview Characteristics
+S030,GESIS Archive Version,version,version,version,version,Archive/ID Variables and Interview Characteristics
+S031,Digital Object Identifier,,,,,Archive/ID Variables and Interview Characteristics
+S032,GESIS study number (EVS wave),studyno,studyno,studyno ,studyno,Archive/ID Variables and Interview Characteristics
+S033,GESIS archive version (EVS wave),,,,,Archive/ID Variables and Interview Characteristics
+S034,GESIS study number (EVS national datasets),studynoc,studynoc,studynoc,studynoc,Archive/ID Variables and Interview Characteristics
+S035,GESIS archive version (EVS national datasets),versionc,versionc,versionc,versionc,Archive/ID Variables and Interview Characteristics
+S036,Flag variable: Duplicate Cases,,,,,Archive/ID Variables and Interview Characteristics
+A001,Important in life: Family,,q117b,v2,v2,Perceptions of Life
+A002,Important in life: Friends,,q118c,v3,v3,Perceptions of Life
+A003,Important in life: Leisure time,,q119d,v4,v4,Perceptions of Life
+A004,Important in life: Politics,,q120e,v5,v5,Perceptions of Life
+A005,Important in life: Work,,q116a,v1,v1,Perceptions of Life
+A006,Important in life: Religion,,q121f,v6,v6,Perceptions of Life
+A007,Service to others important in life,,,v6_se,,Perceptions of Life
+A008,Feeling of happiness,v212,q130,v11,v8,Perceptions of Life
+A009,State of health (subjective),v156,q230,,v9,Perceptions of Life
+A010,Ever felt very excited or interested,v157,q231a,,,Perceptions of Life
+A011,Ever felt restless,v158,q232b,,,Perceptions of Life
+A012,Ever felt proud because someone complimented you,v159,q233c,,,Perceptions of Life
+A013,Ever felt very lonely or remote from other people,v160,q234d,,,Perceptions of Life
+A014,Ever felt pleased about having accomplished something,v161,q235e,,,Perceptions of Life
+A015,Ever felt bored,v162,q236f,,,Perceptions of Life
+A016,Ever felt on top of the world,v163,q237g,,,Perceptions of Life
+A017,Ever felt depressed or very unhappy,v164,q238h,,,Perceptions of Life
+A018,Ever felt that things were going your way,v165,q239i,,,Perceptions of Life
+A019,Ever felt upset because somebody criticized you,v166,q240j,,,Perceptions of Life
+A020,"When you are home, do you feel relaxed",v349,,,,Perceptions of Life
+A021,"When you are home, do you feel anxious",v350,,,,Perceptions of Life
+A022,"When you are home, do you feel happy",v351,,,,Perceptions of Life
+A023,"When you are home, do you feel aggressive",v352,,,,Perceptions of Life
+A024,"When you are home, do you feel secure",v353,,,,Perceptions of Life
+A025,Respect and love for parents,v427,q451,v162,v167,Perceptions of Life
+A026,Parents responsibilities to their children,v428,q452,v163,v168,Perceptions of Life
+A026_01,Children responsibilities to their parents in need at expense of/not sacrifice own well-being,,,,v169,Perceptions of Life
+A027,Important child qualities: good manners,v430,q453a,v164,v170,Perceptions of Life
+A028,Important child qualities: politeness and neatness,v431,,,,Perceptions of Life
+A029,Important child qualities: independence,v432,q454b,v165,v171,Perceptions of Life
+A030,Important child qualities: hard work,v433,q455c,v166,v172,Perceptions of Life
+A031,Important child qualities: honesty,v434,,,,Perceptions of Life
+A032,Important child qualities: feeling of responsibility,v435,q456d,v167,v173,Perceptions of Life
+A033,Important child qualities: patience,v436,,,,Perceptions of Life
+A034,Important child qualities: imagination,v437,q457e,v168,v174,Perceptions of Life
+A035,Important child qualities: tolerance and respect for other people,v438,q458f,v169,v175,Perceptions of Life
+A036,Important child qualities: leadership,v439,,,,Perceptions of Life
+A037,Important child qualities: self-control,v440,,,,Perceptions of Life
+A038,Important child qualities: thrift saving money and things,v441,q459g,v170,v176,Perceptions of Life
+A039,Important child qualities: determination perseverance,v442,q460h,v171,v177,Perceptions of Life
+A040,Important child qualities: religious faith,v443,q461i,v172,v178,Perceptions of Life
+A041,Important child qualities: unselfishness,v444,q462j,v173,v179,Perceptions of Life
+A042,Important child qualities: obedience,v445,q463k,v174,v180,Perceptions of Life
+A043,Important child qualities: loyalty,v446,,,,Perceptions of Life
+A043_01,Important child qualities: none,,,,v181,Perceptions of Life
+A043_01F,Flag variable: Important child qualities: none,,,,f181,Perceptions of Life
+A043_F,Flag variable: Important child qualities,f446,f463,f174,f180,Perceptions of Life
+A046,Abortion when the mothers health is at risk,v523,q465a,,,Perceptions of Life
+A047,Abortion when child physically handicapped,v524,q466b,,,Perceptions of Life
+A048,Abortion when woman not married,v525,q467c,v177,v184,Perceptions of Life
+A049,Abortion if not wanting more children,v526,q468d,v178,v185,Perceptions of Life
+A050,Way of spending leisure time,v111,,,,Perceptions of Life
+A050_01,Leisure time: meeting nice people,,,,v97,Perceptions of Life
+A050_02,Leisure time: relaxing,,,,v98,Perceptions of Life
+A050_03,Leisure time: doing as I want,,,,v99,Perceptions of Life
+A050_04,Leisure time: learning something new,,,,v100,Perceptions of Life
+A051,Spend leisure time: alone,v112,,,,Perceptions of Life
+A052,Spend leisure time: with family,v113,,,,Perceptions of Life
+A053,Spend leisure time: with friends,v114,,,,Perceptions of Life
+A054,Spend leisure time: in a lively place,v115,,,,Perceptions of Life
+A055,Spend leisure time: all equally,v116,,,,Perceptions of Life
+A056,Spend leisure time with: don’t know,v117,,,,Perceptions of Life
+A058,Spend time with friends,,,v48,,Perceptions of Life
+A059,Spend time with colleagues from work,,,v49,,Perceptions of Life
+A060,"Spend time with people at your church, mosque or synagogue",,,v50,,Perceptions of Life
+A061,"Spend time with people at sport, culture, communal organization",,,v51,,Perceptions of Life
+A062,How often discusses political matters with friends,v530,q122,v7,v7,Perceptions of Life
+A063,"Persuading friends, relatives or fellow workers",v529,q123,,,Perceptions of Life
+A064,Member: Belong to social welfare service,v118,q131a,v12,v10,Perceptions of Life
+A065,Member: Belong to religious organization,v119,q132a,v13,v11,Perceptions of Life
+A066,Member: Belong to cultural activities,v120,q133a,v14,v12,Perceptions of Life
+A067,Member: Belong to labour unions,v121,q134a,v15,v13,Perceptions of Life
+A068,Member: Belong to political parties,v122,q135a,v16,v14,Perceptions of Life
+A069,Member: Belong to local political actions,,q136a,v17,v15,Perceptions of Life
+A070,Member: Belong to human rights,v123,q137a,v18,v16,Perceptions of Life
+A071,"Member: Belong to conservation, the environment, animal rights",v124,,v19,v17,Perceptions of Life
+A071B,"Member: Belong to conservation, the environment",,q138a,,,Perceptions of Life
+A071C,Member: Belong to animal rights,,q144a,,,Perceptions of Life
+A072,Member: Belong to professional associations,v127,q139a,v20,v18,Perceptions of Life
+A073,Member: Belong to youth work,v125,q140a,v21,v19,Perceptions of Life
+A074,Member: Belong to sports or recreation,,q141a,v22,v20,Perceptions of Life
+A075,Member: Belong to women´s group,,q142a,v23,v21,Perceptions of Life
+A076,Member: Belong to peace movement,,q143a,v24,v22,Perceptions of Life
+A077,Member: Belong to organization concerned with health,,q145a,v25,v23,Perceptions of Life
+A078,Belong: Consumer groups,v126,,,,Perceptions of Life
+A079,Member: Belong to other groups,,q146a,v26,v24,Perceptions of Life
+A080,Member: Belong to none,v128,q147,v27,v25,Perceptions of Life
+A080_F,Flag variable: do you belong to: none,f128,,,f25,Perceptions of Life
+A081,Voluntary work: Unpaid work social welfare service,v129,q149b,v30,v28,Perceptions of Life
+A082,Voluntary work: Unpaid work religious or church organization,v130,q150b,v31,v29,Perceptions of Life
+A083, Voluntary work: Unpaid work education or cultural activities,v131,q151b,v32,v30,Perceptions of Life
+A084,Voluntary work: Unpaid work labour unions,v132,q152b,v33,v31,Perceptions of Life
+A085,Voluntary work: Unpaid work political parties or groups,v133,q153b,v34,v32,Perceptions of Life
+A086,Voluntary work: Unpaid work local political action groups,,q154b,v35,v33,Perceptions of Life
+A087,Voluntary work: Unpaid work human rights,v134,q155b,v36,v34,Perceptions of Life
+A088,"Voluntary work: Unpaid work environment, conservation, animal rights",v135,,v37,v35,Perceptions of Life
+A088B,"Voluntary work: Unpaid work environment, conservation, ecology",,q156b,,,Perceptions of Life
+A088C,Voluntary work: Unpaid work animal rights,,q162b,,,Perceptions of Life
+A089,Voluntary work: Unpaid work professional associations,v138,q157b,v38,v36,Perceptions of Life
+A090,Voluntary work: Unpaid work youth work,v136,q158b,v39,v37,Perceptions of Life
+A091,Voluntary work: Unpaid work sports or recreation,,q159b,v40,v38,Perceptions of Life
+A092,Voluntary work: Unpaid work women´s group,,q160b,v41,v39,Perceptions of Life
+A093,Voluntary work: Unpaid work peace movement,,q161b,v42,v40,Perceptions of Life
+A094,Voluntary work: Unpaid work organization concerned with health,,q163b,v43,v41,Perceptions of Life
+A095,Voluntary work: Unpaid work consumer groups,v137,,,,Perceptions of Life
+A096,Voluntary work: Unpaid work other groups,,q164b,v44,v42,Perceptions of Life
+A097,Voluntary work: Unpaid work none,v139,q165,v45,v43,Perceptions of Life
+A097_F,Flag variable: do you work unpaid for: none,f139,,,f43,Perceptions of Life
+A107,Reasons voluntary work: Solidarity with the poor and disadvantaged,,q167a,,,Perceptions of Life
+A108,Reasons voluntary work: Compassion for those in need,,q168b,,,Perceptions of Life
+A109,Reasons voluntary work: Opportunity to repay something,,q169c,,,Perceptions of Life
+A110,"Reasons voluntary work: Sense of duty, moral, obligation",,q170d,,,Perceptions of Life
+A111,Reasons voluntary work: Identifying with people who suffer,,q171e,,,Perceptions of Life
+A112,Reasons voluntary work: Time on my hands,,q172f,,,Perceptions of Life
+A113,Reasons voluntary work: Personal satisfaction,,q173g,,,Perceptions of Life
+A114,Reasons voluntary work: Religious belief,,q174h,,,Perceptions of Life
+A115,Reasons voluntary work: Help disadvantaged people,,q175i,,,Perceptions of Life
+A116,Reasons voluntary work: Make a contribution to my local community,,q176j,,,Perceptions of Life
+A117,Reasons voluntary work: Bring about social or political change,,q177k,,,Perceptions of Life
+A118,Reasons voluntary work: For social reasons,,q178l,,,Perceptions of Life
+A119,Reasons voluntary work: Gain new skills and useful experience,,q179m,,,Perceptions of Life
+A120,"Reasons voluntary work: Did not want to, but could not refuse",,q180n,,,Perceptions of Life
+A121,Dislike being with people with different ideas,v142,,,,Perceptions of Life
+A122,Do you ever feel very lonely,v143,,,,Perceptions of Life
+A123,People´s will to help each other today,v144,,,,Perceptions of Life
+A124_01,Neighbours: People with a criminal record,v145,q216a,v52,v46,Perceptions of Life
+A124_02,Neighbours: People of a different race,v146,q217b,v53,v47,Perceptions of Life
+A124_03,Neighbours: Heavy drinkers,v150,q219d,v55,v49,Perceptions of Life
+A124_04,Neighbours: Emotionally unstable people,v153,q222g,v58,v52,Perceptions of Life
+A124_05,Neighbours: Muslims,,q223h,v59,v53,Perceptions of Life
+A124_06,Neighbours: Immigrants/foreign workers,v155,q224i,v60,v54,Perceptions of Life
+A124_07,Neighbours: People who have AIDS,,q225j,v61,v55,Perceptions of Life
+A124_08,Neighbours: Drug addicts,,q226k,v62,v56,Perceptions of Life
+A124_09,Neighbours: Homosexuals,,q227l,v63,v57,Perceptions of Life
+A124_10,Neighbours: Jews,,q228m,v64,v58,Perceptions of Life
+A124_17,Neighbours: Gypsies,,,v65,v59,Perceptions of Life
+A124_24,Neighbours: Christians,,,v59_tr,v60,Perceptions of Life
+A124_26,Neighbours: Left wing extremists,v148,q218c,v54,v48,Perceptions of Life
+A124_27,Neighbours: Right wing extremists,v151,q220e,v56,v50,Perceptions of Life
+A124_28,Neighbours: People with large families,v152,q221f,v57,v51,Perceptions of Life
+A124_29,Neighbours: Hindus,,q229n,o1,,Perceptions of Life
+A124_39,Neighbours: Students,v147,,,,Perceptions of Life
+A124_40,Neighbours: Unmarried mothers,v149,,,,Perceptions of Life
+A124_41,Neighbours: Members of minority religious sects or cults,v154,,,,Perceptions of Life
+A165,Most people can be trusted,v208,q241,v66,v62,Perceptions of Life
+A166,Young peoples trust in older people,v209,,,,Perceptions of Life
+A167,Older peoples trust in young people,v210,,,,Perceptions of Life
+A168,Do you think most people try to take advantage of you,,,v66_se,,Perceptions of Life
+A168_01,Most of the time people try to be helpful or mostly looking out for themselves,,,,v64,Perceptions of Life
+A168A,Do you think most people try to take advantage of you (10 point scale),,,,v63,Perceptions of Life
+A169,Good human relationships,,,v282_se ,,Perceptions of Life
+A170,Satisfaction with your life,v213,q244,v68,v66,Perceptions of Life
+A171,Satisfaction with your life 5 years ago,v214,,,,Perceptions of Life
+A172,Expected satisfaction with your life in 5 years,v215,,,,Perceptions of Life
+A173,How much freedom of choice and control,v211,q242,v67,v65,Perceptions of Life
+B001,Would give part of my income for the environment,,q124a,v8,v295,Environment
+B002,Increase in taxes if used to prevent environmental pollution,,q125b,v9,,Environment
+B003,Government should reduce environmental pollution,,q126c,v10,,Environment
+B005,All talk about the environment make people anxious,,q127d,,,Environment
+B006,"Combatting unemployment, we have to accept environmental problems",,q128e,,,Environment
+B007,Protecting environment and fighting pollution is less urgent than suggested,,q129f,,,Environment
+B008,Protecting environment vs. Economic growth,,,v280_se,,Environment
+B009,Human & nature,,,v281_se ,,Environment
+B024,Environment: approaching the limit of people,,,,v296,Environment
+B025,Environment: interference produces disastrous consequences,,,,v297,Environment
+B026,Environment: human ingenuity insures earth remaining fit,,,,v298,Environment
+B027,Environment: nature is strong enough to cope with impacts of industry,,,,v299,Environment
+B028,Environment: humans were meant to rule over nature,,,,v300,Environment
+B029,Environment: if things continue we will experience a catastrophe,,,,v301,Environment
+C001,Jobs scarce: Men should have more right to a job than women,,q316a,v99,v103,Work
+C002,Jobs scarce: Employers should give priority to (nation) people than immigrants,,q318c,v98,v102,Work
+C003,Jobs scarce: Jobs to local people,,,o5,,Work
+C004,Jobs scarce: older people should be forced to retire,,q317b,,,Work
+C005,Unfair to give work to handicapped people when able bodied people can´t find jobs,,q319d,,,Work
+C006,Satisfaction with financial situation of household,v247,q320,,,Work
+C007,Financial situation of household in 12months,v248,,,,Work
+C011,Important in a job: good pay,v216,q248a,v71,v69,Work
+C012,Important in a job: not too much pressure,v218,q250c,v73,v71,Work
+C013,Important in a job: good job security,v219,q251d,v74,v72,Work
+C014,Important in a job: a respected job,v221,q253f,v76,,Work
+C015,Important in a job: good hours,v222,q254g,v77,v73,Work
+C016,Important in a job: an opportunity to use initiative,v223,q255h,v78,v74,Work
+C017,Important in a job: generous holidays,v225,q257j,v80,v76,Work
+C018,Important in a job: that you can achieve something,v227,q259l,v82,v78,Work
+C019,Important in a job: a responsible job,v228,q260m,v83,v79,Work
+C020,Important in a job: a job that is interesting,v229,q261n,v84,v80,Work
+C021,Important in a job: a job that meets one´s abilities,v230,q262o,v85,v81,Work
+C022,Important in a job: pleasant people to work with,v217,q249b,v72,v70,Work
+C023,Important in a job: good chances for promotion,v220,q252e,v75,,Work
+C024,Important in a job: a useful job for society,v224,q256i,v79,v75,Work
+C025,Important in a job: meeting people,v226,q258k,v81,v77,Work
+C026,Important in a job: good physical working conditions,,,o2,,Work
+C027,Important in a job: to have time off at the weekends,,,o3,,Work
+C027_1,Important in a job: learning new skills,,,,v82,Work
+C027_2,Important in a job: family friendly,,,,v83,Work
+C027_3,Important in a job: have a say,,,,v84,Work
+C027_4,Important in a job: people treated equally,,,,v85,Work
+C028,Important in a job: none of these,v231,q263,v86,v86,Work
+C028_F,Flag variable: important in a job: none of these,f231,,f86,f86,Work
+C029,Employed,,,v87,v89,Work
+C030,Look forward to work after weekend,v232,,,,Work
+C031,Degree of pride in your work,v233,q265,,,Work
+C032,Often exploited in your job,v234,,,,Work
+C033,Job satisfaction,v246,q266,v88,v90,Work
+C034,Freedom decision taking in job,v235,q268,v89,v91,Work
+C035,Satisfaction job security,,,o4,,Work
+C036,To develop talents you need to have a job,,,v90,v92,Work
+C037,Humiliating to receive money without having to work for it,,,v91,v93,Work
+C038,People who don´t work turn lazy,,,v92,v94,Work
+C039,Work is a duty towards society,,,v93,v95,Work
+C040,People should not have to work if they don´t want to,,,v94,,Work
+C041,Work should come first even if it means less spare time,,,v95,v96,Work
+C042B1,Why people work: work is like a business transaction,,q270,,,Work
+C042B2,Why people work: I do the best I can regardless of pay,,q271,,,Work
+C042B3,Why people work: I wouldn’t work if I didn’t have to,,q272,,,Work
+C042B4,Why people work: I wouldn´t work if work interfered my life,,q273,,,Work
+C042B5,Why people work: work most important in my life,,q274,,,Work
+C042B6,Why people work: I never had a paid job,,q275,,,Work
+C042B7,Why people work: don’t know,,q276,,,Work
+C049,Paid free days: find extra work for money,v236,,,,Work
+C050,Paid free days: use spare time to study,v237,,,,Work
+C051,Paid free days: spend time with family and friends,v238,,,,Work
+C052,Paid free days: find additional work to avoid boredom,v239,,,,Work
+C053,Paid free days: use spare time for voluntary work,v240,,,,Work
+C054,Paid free days: spend time on hobbies,v241,,,,Work
+C055,Paid free days: run own business in spare time,v242,,,,Work
+C056,Paid free days: spend the time relaxing,v243,,,,Work
+C057,Paid free days: none of these,v244,,,,Work
+C057_F,Flag variable: paid free days: none,f244,,,,Work
+C058,Paid free days: don’t know,v245,,,,Work
+C059,Fairness: One secretary is paid more,v249,q277,v96,,Work
+C060,How business and industry should be managed,v250,q278,,,Work
+C061,Following instructions at work,v251,q279,v97,v101,Work
+D001,How much do you trust your family (5 categories),,q671a,,,Family
+D002,Satisfaction with home life,v354,q370,,,Family
+D003,Sharing with partner: attitudes towards religion,v356,q374,,,Family
+D004,Sharing with partner: moral standards,v357,q375,,,Family
+D005,Sharing with partner: social attitudes,v358,q376,,,Family
+D006,Sharing with partner: political views,v359,q377,,,Family
+D007,Sharing with partner: sexual attitudes,v360,q378,,,Family
+D008,Sharing with partner: no sharing attitudes,v361,q379,,,Family
+D008_F,Flag variable: share with partner: none of these,f361,f379,,,Family
+D009,Sharing with partner: don´t know or missing,v362,,,,Family
+D010,Sharing with parents: attitudes towards religion,v363,q416,,,Family
+D011,Sharing with parents: moral standards,v364,q417,,,Family
+D012,Sharing with parents: social attitudes,v365,q418,,,Family
+D013,Sharing with parents: political views,v366,q419,,,Family
+D014,Sharing with parents: sexual attitudes,v367,q420,,,Family
+D015,Sharing with parents: no sharing attitudes,v368,q421,,,Family
+D015_F,Flag variable: share with parents: none of these,f368,f421,,,Family
+D016,Sharing with parents: don´t know or missing,v369,,,,Family
+D017,Ideal number of children,v412,q439,v302_se,,Family
+D018,Child needs a home with father and mother,v424,q441,v148,v148,Family
+D019,A woman has to have children to be fulfilled,v425,q442,v149,v149,Family
+D020,A man has to have children to be fulfilled,,,v152,v152,Family
+D021,Sex cannot entirely be left to individual choice,v426,,,,Family
+D022,Marriage is an out-dated institution,v370,q443,v150,v150,Family
+D023,Woman as a single parent,v429,q444,v151,v151,Family
+D024,Enjoy sexual freedom,v371,q423,,,Family
+D026,Long-term relationship is necessary to be happy,,,v153,v153,Family
+D026_01,Homosexual couples - adopt children,,,,v154,Family
+D026_02,It is alright to live together without getting married,,,,v155,Family
+D026_03,Duty towards society to have children,,,,v156,Family
+D026_04,People should decide themselves to have children,,,,v157,Family
+D026_05,It is childs duty to take care of ill parent,,,,v158,Family
+D027,Important for successful marriage: Faithfulness,v372,q424a,v133,v136,Family
+D028,Important for successful marriage: Adequate income,v373,q425b,v134,v137,Family
+D029,Important for successful marriage: Same social background,v374,q426c,v135,v138,Family
+D030,Important for successful marriage: Respect and appreciation,v375,q427d,v136,,Family
+D031,Important for successful marriage: Religious beliefs,v376,q428e,v137,v139,Family
+D032,Important for successful marriage: Good housing,v377,q429f,v138,v140,Family
+D033,Important for successful marriage: Agreement on politics,v378,q430g,v139,v141,Family
+D034,Important in successful marriage: Understanding and tolerance,v379,q431h,v140,,Family
+D035,Important for successful marriage: Apart from in-laws,v380,q432i,v141,v142,Family
+D036,Important for successful marriage: Happy sexual relationship,v408,q433j,v142,v143,Family
+D037,Important for successful marriage: Sharing household chores,v409,q434k,v143,v144,Family
+D038,Important for successful marriage: Children,v410,q435l,v144,v145,Family
+D039,Important in successful marriage: Discussing problems,,,v145,v146,Family
+D040,Important for successful marriage: Spending time together,,,v146,,Family
+D041,Important in successful marriage: Talking,,,v147,,Family
+D042,Important for successful marriage: Same ethnic background,,,o16,,Family
+D043,Important for successful marriage: Tastes and interests in common,v411,q436m,,,Family
+D043_01,Important for successful marriage: Time for friends and personal hobbies,,,,v147,Family
+D044,Divorce: when financially broke,v414,,,,Family
+D044A,Divorce: when partner ill for a long time,v413,,,,Family
+D045,Divorce: when partner is a heavy drinker,v415,,,,Family
+D046,Divorce: when partner is violent,v416,,,,Family
+D047,Divorce: when partner is unfaithful,v417,,,,Family
+D048,Divorce: when sexual relationship is not satisfactory,v418,,,,Family
+D049,Divorce: when partner has ceased to love,v419,,,,Family
+D050,Divorce: when can not stand relatives,v420,,,,Family
+D051,Divorce: when can not have children,v421,,,,Family
+D052,Divorce: when personalities do not watch,v422,,,,Family
+D053,Divorce: none of these,v423,,,,Family
+D053_F,Flag variable: divorce: none of these,f423,,,,Family
+D054,One of main goals in life has been to make my parents proud,,,v163_se,,Family
+D056,Relationship working mother,,q445a,v154,v159,Family
+D057,Being a housewife just as fulfilling,,q448d,v157,v162,Family
+D058,Husband and wife should both contribute to income,,q450f,v159,v164,Family
+D059,Men make better political leaders than women do,,,v161_se,,Family
+D060,University is more important for a boy than for a girl,,,v162_se,,Family
+D061,Pre-school child suffers with working mother,,q446b,v155,v160,Family
+D062,Women want a home and children,,q447c,v156,v161,Family
+D063,Job best way for women to be independent (4 categories),,q449e,v158,v163,Family
+D064,Fathers are well suited for looking after children,,,v160,v165,Family
+D064_01,Men should take as much responsibility as women for home and children,,,,v166,Family
+D065,Men are less able to handle emotions,,,v161,,Family
+E001,Aims of country: first choice,,q530a,v191_se,,Politics and Society
+E001_F,Flag variable: aims of this country - most /second important,,f530a,f192_se,,Politics and Society
+E002,Aims of country: second choice,,q531b,v192_se,,Politics and Society
+E003,Aims of respondent: first choice,v460,q532a,v190,v201,Politics and Society
+E003_F,Flag variable: aims of respondent: first/second choice,f460,f532a,,f201,Politics and Society
+E004,Aims of respondent: second choice,v461,q533b,v191,v202,Politics and Society
+E005,Most important: first choice,,q534a,v193_se,,Politics and Society
+E005_F,Flag variable:aims of respondent II: first choice/second choice,,f534a,f194_se,,Politics and Society
+E006,Most important: second choice,,q535b,v194_se,,Politics and Society
+E011,The main aim of imprisonment,v462,,,,Politics and Society
+E012,Willingness to fight for country,v267,q536,o24,,Politics and Society
+E013,Will there be war in your country in the next 5 years,v268,,,,Politics and Society
+E014,Future changes: Less emphasis on money and material possessions,v463,q537a,v192,v203,Politics and Society
+E015,Future changes: Less importance placed on work,v464,q538b,v193,,Politics and Society
+E016,Future changes: More emphasis on technology,v465,q539c,v194,,Politics and Society
+E017,Future changes: More emphasis on individual,v466,q540d,v195,,Politics and Society
+E018,Future changes: Greater respect for authority,v467,q541e,v196,v204,Politics and Society
+E019,Future changes: More emphasis on family life,v468,q542f,v197,,Politics and Society
+E020,Future changes: A simple and more natural lifestyle,v469,q543g,v198,,Politics and Society
+E021,Future changes: More power to local authorities,,,v199,,Politics and Society
+E022,Opinion about scientific advances,v252,q544,o25,,Politics and Society
+E023,Interest in politics,,q471,o17,v186,Politics and Society
+E024,Interest in politics (ii),v449,,,,Politics and Society
+E025,Political action: signing a petition,v450,q472a,v179,v187,Politics and Society
+E026,Political action: joining in boycotts,v451,q473b,v180,v188,Politics and Society
+E027,Political action: attending lawful demonstrations,v452,q474c,v181,v189,Politics and Society
+E028,Political action: joining unofficial strikes,v453,q475d,v182,v190,Politics and Society
+E029,Political action: occupying buildings or factories,v454,q476e,v183,v191,Politics and Society
+E030,"Political action: damaging things, breaking windows, street violence",v455,,,,Politics and Society
+E031,Political action: personal violence,v456,,,,Politics and Society
+E032,Freedom or equality,v457,q477,v184,v192,Politics and Society
+E033,Self positioning in political scale,v458,q478,v185,v193,Politics and Society
+E034,Basic kinds of attitudes concerning society,v459,q480,o23,v200,Politics and Society
+E035,Income equality,,q516a,o18,v198,Politics and Society
+E036,Private vs state ownership of business,,q518b,o19,v199,Politics and Society
+E037,Government responsibility,,q520c,v186,v194,Politics and Society
+E038,Job taking of the unemployed,,q522d,v187,v195,Politics and Society
+E039,Competition good or harmful,,q524e,v188,v196,Politics and Society
+E040,Hard work brings success,,q526f,,,Politics and Society
+E041,Wealth accumulation,,q528g,,,Politics and Society
+E042,Firms and freedom,,,v189,v197,Politics and Society
+E043,Responsibility pension,,,o20,,Politics and Society
+E044,Responsibility housing,,,o21,,Politics and Society
+E045,Major changes in life,,q651a,o22,,Politics and Society
+E046,New and old ideas,,q653b,,,Politics and Society
+E047,"Personal characteristics: Changes, worry or welcome possibility",,q655c,,,Politics and Society
+E048,Personal characteristics: I usually count on being successful in everything I do,,q657a,,,Politics and Society
+E049,Personal characteristics: I enjoy convincing others of my opinion,,q658b,,,Politics and Society
+E050,Personal characteristics: I serve as a model for others,,q659c,,,Politics and Society
+E051,Personal characteristics: I am good at getting what I want,,q660d,,,Politics and Society
+E052,Personal characteristics: I own many things others envy me for,,q661e,,,Politics and Society
+E053,Personal characteristics: I like to assume responsibility,,q662f,,,Politics and Society
+E054,Personal characteristics: I am rarely unsure about how I should behave,,q663g,,,Politics and Society
+E055,Personal characteristics: I often give others advice,,q664h,,,Politics and Society
+E056,Personal characteristics: None of the above,,q665,,,Politics and Society
+E056_F,Flag variable: personal characteristics: none of the above,,f665,,,Politics and Society
+E057,The economic system needs fundamental changes,,q666a,,,Politics and Society
+E058,Our government should be made much more open to the public,,q667b,,,Politics and Society
+E059,Allow more freedom for individuals,,q668c,,,Politics and Society
+E060,I could do nothing about an unjust law,,q669d,,,Politics and Society
+E061,Political reform is moving too rapidly,,q670e,,,Politics and Society
+E069_01,Confidence: Churches,v538,q545a,v200,v205,Politics and Society
+E069_02,Confidence: Armed Forces,v539,q546b,v201,v206,Politics and Society
+E069_03,Confidence: Education System,v540,q547c,v202,v207,Politics and Society
+E069_04,Confidence: The Press,v542,q549e,v203,v208,Politics and Society
+E069_05,Confidence: Labour Unions,v543,q550f,v204,v209,Politics and Society
+E069_06,Confidence: The Police,v544,q551g,v205,v210,Politics and Society
+E069_07,Confidence: Parliament,v545,q552h,v206,v211,Politics and Society
+E069_08,Confidence: The Civil Services,v546,q553i,v207,v212,Politics and Society
+E069_09,Confidence: Social Security System,,q555k,v208,v213,Politics and Society
+E069_11,Confidence: The Government,,,,v222,Politics and Society
+E069_12,Confidence: The Political Parties,,,,v221,Politics and Society
+E069_13,Confidence: Major Companies,v547,q554j,o27,v219,Politics and Society
+E069_14,Confidence in: environmental organizations,,,,v220,Politics and Society
+E069_16,Confidence: Health Care System,,,v211,v217,Politics and Society
+E069_17,Confidence: Justice System,v541,q548d,v212,v218,Politics and Society
+E069_18,Confidence: The European Union,,q556l,v209,v214,Politics and Society
+E069_19,Confidence: NATO,,q557m,o26,v215,Politics and Society
+E069_20,Confidence: The United Nations,,,v210,v216,Politics and Society
+E104,Approval: Ecology movement or nature protection,,q559a,,,Politics and Society
+E105,Approval: Anti-nuclear energy movement,,q560b,,,Politics and Society
+E106,Approval: Disarmament movement,,q561c,,,Politics and Society
+E107,Approval: Human rights movement,,q562d,,,Politics and Society
+E108,Approval: Women’s movement,,q563e,,,Politics and Society
+E109,Approval: Anti-apartheid movement,,q564f,,,Politics and Society
+E110,Satisfaction with the way democracy develops,,,v213,v223,Politics and Society
+E111,Rate political system for governing country,,,v214,v224,Politics and Society
+E112,Rate political system as it was before,,,v215,,Politics and Society
+E114,Political system: Having a strong leader,,,v216,v225,Politics and Society
+E115,Political system: Having experts make decisions,,,v217,v226,Politics and Society
+E116,Political system: Having the army rule,,,v218,v227,Politics and Society
+E117,Political system: Having a democratic political system,,,v219,v228,Politics and Society
+E118,Firm party leader vs. Cooperating party leader,,,o31,,Politics and Society
+E119,Government order vs. freedom,,,o32,,Politics and Society
+E120,"In democracy, the economic system runs badly",,,v221,v230,Politics and Society
+E121,Democracies are indecisive and have too much squabbling,,,v222,v231,Politics and Society
+E122,Democracies aren´t good at maintaining order,,,v223,v232,Politics and Society
+E123,Democracy may have problems but is better,,,v220,v229,Politics and Society
+E124,Respect for individual human rights nowadays,,,v224,,Politics and Society
+E125,Satisfaction with the people in national office,,,v218_se,,Politics and Society
+E129,Economic aid to poorer countries,,,v217_se ,,Politics and Society
+E135,Who should decide: international peacekeeping,,,v212_se,,Politics and Society
+E136,Who should decide: protection of the environment,,,v213_se,,Politics and Society
+E137,Who should decide: aid to developing countries,,,v214_se,,Politics and Society
+E138,Who should decide: refugees,,,v215_se,,Politics and Society
+E139,Who should decide: human rights,,,v216_se,,Politics and Society
+E140,Country cannot solve environmental problems by itself,,,o28,,Politics and Society
+E141,Country cannot solve crime problems by itself,,,o29,,Politics and Society
+E142,Country cannot solve employment problems by itself,,,o30,,Politics and Society
+E143,Immigrant policy,,,v258,v266,Politics and Society
+E144,Living day to day because of uncertain future,v548,,o47,,Politics and Society
+E145,Immigrants and their customs and traditions,,,v259,,Politics and Society
+E146,Importance of eliminating big income inequalities,,,v260,,Politics and Society
+E147,Importance of guaranteeing basic needs for all,,,v261,,Politics and Society
+E148,Importance of recognizing people on their merits,,,v262,,Politics and Society
+E149,Importance of equalizing chances for education,,,o48,,Politics and Society
+E150,How often follows politics in the news,,,v263,v281,Politics and Society
+E151,Give authorities information to help justice,,,v264,v282,Politics and Society
+E152,Stick to own affairs,,,v265,v283,Politics and Society
+E153,Feel concerned about: Immediate family,,,v266,v284,Politics and Society
+E154,Feel concerned about: People in the neighbourhood,,,v267,v285,Politics and Society
+E155,Feel concerned about: People in the region,,,v268,v286,Politics and Society
+E156,Feel concerned about: Fellow countrymen,,,v269,v287,Politics and Society
+E157,Feel concerned about: Europeans,,,v270,v288,Politics and Society
+E158,Feel concerned about: Human kind,,,v271,v289,Politics and Society
+E159,Feel concerned about: Elderly people,,,v272,v290,Politics and Society
+E160,Feel concerned about: Unemployed people,,,v273,v291,Politics and Society
+E161,Feel concerned about: Immigrants,,,v274,v292,Politics and Society
+E162,Feel concerned about: Sick and disabled people,,,v275,v293,Politics and Society
+E162_01,Feel concerned about: Poor children,,,,v294,Politics and Society
+E163,Prepared to help immediate family,,,v276,,Politics and Society
+E164,Prepared to help people in the neighbourhood,,,v277,,Politics and Society
+E165,Prepared to help elderly people,,,v278,,Politics and Society
+E166,Prepared to help immigrants,,,v279,,Politics and Society
+E167,Prepared to help sick and disabled people,,,v280,,Politics and Society
+E168,Reason to help: Moral duty to help elderly people,,,v281,,Politics and Society
+E169,Reason to help: Sympathise with old people,,,v282,,Politics and Society
+E170,Reason to help: In the interest of society,,,v283,,Politics and Society
+E171,Reason to help: Own interest,,,v284,,Politics and Society
+E172,Reason to help: Do something in return for old people,,,v285,,Politics and Society
+E173,Reason to help: Moral duty to help immigrants,,,v286,,Politics and Society
+E174,Reason to help: Sympathise with immigrants,,,v287,,Politics and Society
+E175,Reason to help: In the interest of society,,,v288,,Politics and Society
+E176,Reason to help: Own interest,,,v289,,Politics and Society
+E177,Reason to help: Do something in return for immigrants,,,v290,,Politics and Society
+E178,Close to any particular party,v531,,,,Politics and Society
+E178_01,Would you vote at a general election tomorrow,,,,v263,Politics and Society
+E179,Which political party would you vote for: First choice (EVS),v532,q674a,v256,v264,Politics and Society
+E179_01,Which political party would you vote for - left/right scale,,,,v264_LR,Politics and Society
+E179_F,Flag variable: which political party would you vote for,,f674a,,,Politics and Society
+E180,Which political party would you vote for: Second choice (EVS),,q676b,,,Politics and Society
+E181,"If don´t know, which party appeals to you most",,q678c,v257,v265,Politics and Society
+E181_01,Which political party appeals to you most - left/right scale,,,,v265_LR,Politics and Society
+E183,Are you close to this party,v533,,,,Politics and Society
+E187,Regularly read a daily newspaper,v140,,,,Politics and Society
+E188,Frequency watches TV,v141,,,,Politics and Society
+E189,TV most important entertainment,,,v99_se,,Politics and Society
+E190,Why are there people living in need: first,,q246a,v69,v67,Politics and Society
+E191,Why are there people living in need: second,,q247b,v70,v68,Politics and Society
+E191_F,Flag variable: why do people live in need - most/second important,,f246a,f69,f67,Politics and Society
+E197,Opinion on terrorism,v537,,,v267,Politics and Society
+F001,Thinking about meaning and purpose of life,v253,q322,o6,,Religion and Morale
+F002,Feeling that life is meaningless,v254,,,,Religion and Morale
+F003,Thinking about death,v255,q323,,,Religion and Morale
+F004,Life is meaningful because God exits,,q324a,,,Religion and Morale
+F005,Try to get the best out of life,,q325b,,,Religion and Morale
+F006,Death is inevitable,,q326c,,,Religion and Morale
+F007,Death has meaning if you believe in God,,q327d,,,Religion and Morale
+F008,Death is a natural resting point,,q328e,,,Religion and Morale
+F009,Sorrow has meaning if you believe in God,,q329f,,,Religion and Morale
+F010,Life has no meaning,,q330g,,,Religion and Morale
+F011,Is there good and evil in everyone,v256,,,,Religion and Morale
+F012,Do you ever regret having done something,v257,,,,Religion and Morale
+F014,Worth risking life for: my country,v259,,,,Religion and Morale
+F015,Worth risking life for: another’s life,v260,,,,Religion and Morale
+F016,Worth risking life for: justice,v261,,,,Religion and Morale
+F017,Worth risking life for: freedom,v262,,,,Religion and Morale
+F018,Worth risking life for: peace,v263,,,,Religion and Morale
+F019,Worth risking life for: religion,v264,,,,Religion and Morale
+F020,Worth risking life for: other,v265,,,,Religion and Morale
+F021,Worth risking life for: don’t know,v266,,,,Religion and Morale
+F022,Statement: good and evil,v269,q331,v100,,Religion and Morale
+F022_01,"Statement: good/evil, clear/no clear guidelines",,,,v104,Religion and Morale
+F023,Statement: religion and truth,v270,,,,Religion and Morale
+F024,Belong to religious denomination,v271_01,q332a,v101,v105,Religion and Morale
+F025,Religious denomination,v271,q333b,v102,v106,Religion and Morale
+F025_01,Which religious denomination (country specific),,,,v106_cs,Religion and Morale
+F026,Former religious denomination,,,v103 v103r_gb,v107,Religion and Morale
+F027,Which former religious denomination,,q334c,v104 v104r_gb,v108,Religion and Morale
+F027_01,which former religious denomination (country specific),,,,v108_cs,Religion and Morale
+F028,How often do you attend religious services,v272,q336,v105,v109,Religion and Morale
+F029,Raised religiously,,q335,,,Religion and Morale
+F030,Attendance religious services 12 years old,,,v106,v110,Religion and Morale
+F031,Important: Religious service birth,,q337a,v107,v111,Religion and Morale
+F032,Important: Religious service marriage,,q338b,v108,v112,Religion and Morale
+F033,Important: Religious service death,,q339c,v109,v113,Religion and Morale
+F034,Religious person,v273,q340,v110,v114,Religion and Morale
+F035,Churches give answers: moral problems,v274,q341a,v111,v115,Religion and Morale
+F036,Churches give answers: the problems of family life,v275,q342b,v112,v116,Religion and Morale
+F037,Churches give answers: people´s spiritual needs,v276,q343c,v113,v117,Religion and Morale
+F038,Churches give answers: the social problems,,q344d,v114,v118,Religion and Morale
+F039,Importance of religion in the future,v277,,,,Religion and Morale
+F040,Churches speak out on: disarmament,,q345a,,,Religion and Morale
+F041,Churches speak out on: abortion,,q346b,,,Religion and Morale
+F042,Churches speak out on: third world problems,,q347c,,,Religion and Morale
+F043,Churches speak out on: extramarital affairs,,q348d,,,Religion and Morale
+F044,Churches speak out on: unemployment,,q349e,,,Religion and Morale
+F045,Churches speak out on: racial discrimination,,q350f,,,Religion and Morale
+F046,Churches speak out on: euthanasia,,q351g,,,Religion and Morale
+F047,Churches speak out on: homosexuality,,q352h,,,Religion and Morale
+F048,Churches speak out on: ecology and environmental issues,,q353i,,,Religion and Morale
+F049,Churches speak out on: government policy,,q354j,,,Religion and Morale
+F050,Believe in: God,v308,q355a,v115,v119,Religion and Morale
+F051,Believe in: life after death,v309,q356b,v116,v120,Religion and Morale
+F052,Believe in: people have a soul,v310,q357c,,,Religion and Morale
+F053,Believe in: hell,v312,q359e,v117,v121,Religion and Morale
+F054,Believe in: heaven,v313,q360f,v118,v122,Religion and Morale
+F055,Believe in: sin,v314,q361g,v119,v123,Religion and Morale
+F056,Believe in: telepathy,,,v120,,Religion and Morale
+F057,Believe in: re-incarnation,v315,q363i,v121,v124,Religion and Morale
+F058,Believe in: angels,,,o8,,Religion and Morale
+F059,Believe in: devil,v311,q358d,,,Religion and Morale
+F060,Believe in: resurrection of the dead,,q362h,,,Religion and Morale
+F061,Stick to religion vs. Explore different traditions,,,o7,,Religion and Morale
+F062,Personal God vs. Spirit or Life Force,v316,q364,v122,v125,Religion and Morale
+F062_01,Own way of connecting with the divine,,,,v126,Religion and Morale
+F062_02,How spiritual are you,,,,v127,Religion and Morale
+F062_03,Only one true religion or no religion offers any truths,,,,v128,Religion and Morale
+F063,How important is God in your life,v317,q365,v123,v129,Religion and Morale
+F064,Get comfort and strength from religion,v318,q367,v124,v130,Religion and Morale
+F065,"Moments of prayer, meditation...",v319,q368,v125,v131,Religion and Morale
+F066,Pray to God outside of religious services (I),,,v126,v132,Religion and Morale
+F067,Pray to God outside of religious services (ii),,q369,v126_si,,Religion and Morale
+F068,1st commandment applies for myself,v320,,,,Religion and Morale
+F069,2nd commandment applies for myself,v321,,,,Religion and Morale
+F070,3rd commandment applies for myself,v322,,,,Religion and Morale
+F071,4th commandment applies for myself,v323,,,,Religion and Morale
+F072,5th commandment applies for myself,v324,,,,Religion and Morale
+F073,6th commandment applies for myself,v325,,,,Religion and Morale
+F074,7th commandment applies for myself,v326,,,,Religion and Morale
+F075,8th commandment applies for myself,v327,,,,Religion and Morale
+F076,9th commandment applies for myself,v328,,,,Religion and Morale
+F077,10th commandment applies for myself,v329,,,,Religion and Morale
+F078,1st commandment applies to most people,v330,,,,Religion and Morale
+F079,2nd commandment applies to most people,v331,,,,Religion and Morale
+F080,3rd commandment applies to most people,v332,,,,Religion and Morale
+F081,4th commandment applies to most people,v333,,,,Religion and Morale
+F082,5th commandment applies to most people,v334,,,,Religion and Morale
+F083,6th commandment applies to most people,v335,,,,Religion and Morale
+F084,7th commandment applies to most people,v336,,,,Religion and Morale
+F085,8th commandment applies to most people,v337,,,,Religion and Morale
+F086,9th commandment applies to most people,v338,,,,Religion and Morale
+F087,10th commandment applies to most people,v339,,,,Religion and Morale
+F088,Felt in touch with someone far away,v340,,,,Religion and Morale
+F089,Seen events that happened far away,v341,,,,Religion and Morale
+F090,Felt in touch with someone dead,v342,,,,Religion and Morale
+F091,Felt close to a powerful life force,v343,,,,Religion and Morale
+F092,Experience altered outlook on life,v344,,,,Religion and Morale
+F093,Relationship between your parents,v345,,,,Religion and Morale
+F094,Relationship between you and your mother,v346,,,,Religion and Morale
+F095,Relationship between you and your father,v347,,,,Religion and Morale
+F096,How strict were your parents,v348,,,,Religion and Morale
+F097,Believe in: supernatural forces,,,o9,,Religion and Morale
+F098,Do you have a lucky charm,,,v127,,Religion and Morale
+F099,Lucky charm protects,,,v128,v133,Religion and Morale
+F100,Consult horoscope,,,o10,,Religion and Morale
+F101,Taking horoscope into account in daily life,,,o11,,Religion and Morale
+F102,Politicians who don´t believe in God are unfit for public office,,,v129,v134,Religion and Morale
+F103,Religious leaders should not influence how people vote,,,v130,,Religion and Morale
+F104,Better if more people with strong religious beliefs in public office,,,v131,,Religion and Morale
+F105,Religious leaders should not influence government,,,v132,v135,Religion and Morale
+F106,Nurse refusing legal abortion on religious grounds,,,o12,,Religion and Morale
+F107,Time for prayer and meditation in all schools,,,o13,,Religion and Morale
+F112,Prohibiting or allowing books that attack religion,,,o14,,Religion and Morale
+F113,Church(es) influence on national politics,,,o15,,Religion and Morale
+F114,Justifiable: claiming government benefits,v470,q565a,v225,v233,Religion and Morale
+F115,Justifiable: avoiding a fare on public transport,v471,q567b,o33,v247,Religion and Morale
+F116,Justifiable: cheating on taxes,v472,q569c,v226,v234,Religion and Morale
+F117,Justifiable: someone accepting a bribe,v480,q620k,v231,v239,Religion and Morale
+F118,Justifiable: homosexuality,v508,q622l,v232,v240,Religion and Morale
+F119,Justifiable: prostitution,v509,q624m,o35,v248,Religion and Morale
+F120,Justifiable: abortion,v510,q626n,v233,v241,Religion and Morale
+F121,Justifiable: divorce,v511,q628o,v234,v242,Religion and Morale
+F122,Justifiable: euthanasia,v513,q632q,v235,v243,Religion and Morale
+F123,Justifiable: suicide,v514,q634r,v236,v244,Religion and Morale
+F125,Justifiable: joyriding,v474,q573e,v227,v235,Religion and Morale
+F126,Justifiable: taking soft drugs,v475,q575f,v228,v236,Religion and Morale
+F127,Justifiable: lying,v477,q579h,v229,v237,Religion and Morale
+F128,Justifiable: adultery,v478,q616i,v230,v238,Religion and Morale
+F129,Justifiable: throwing away litter,,q644w,v237,,Religion and Morale
+F130,Justifiable: driving under influence of alcohol,,q646x,v238,,Religion and Morale
+F131,Justifiable: paying cash,,,v239,v245,Religion and Morale
+F132,Justifiable: having casual sex,,,v240,v246,Religion and Morale
+F133,Justifiable: smoking in public places,,,v241,,Religion and Morale
+F134,Justifiable: speeding over the limit,,,v242,,Religion and Morale
+F135,Justifiable: sex under the legal age of consent,v479,q618j,o34,,Religion and Morale
+F136,Justifiable: political assassination,v518,q642v,o36,,Religion and Morale
+F137,Justifiable: experiments with human embryos,,,o37,v249,Religion and Morale
+F138,Justifiable: manipulation of food,,,o38,v250,Religion and Morale
+F139,Justifiable: buy stolen goods,v473,q571d,,,Religion and Morale
+F140,Justifiable: keeping money that you have found,v476,q577g,,,Religion and Morale
+F141,Justifiable: fighting with the police,v512,q630p,,,Religion and Morale
+F142,Justifiable: failing to report damage you’ve done accidentally to a parked vehicle,v515,q636s,,,Religion and Morale
+F143,Justifiable: threatening workers who refuse to join a strike,v516,q638t,,,Religion and Morale
+F144,Justifiable: killing in self-defence,v517,q640u,,,Religion and Morale
+F144_01,Justifiable: invitro fertilization,,,,v251,Religion and Morale
+F144_02,Justifiable: death penalty,,,,v252,Religion and Morale
+F145,Compatriots do: claiming  state benefits,,,v243,,Religion and Morale
+F146,Compatriots do: cheating on taxes,,,v244,,Religion and Morale
+F147,Compatriots do: paying  in cash,,,v245,,Religion and Morale
+F148,Compatriots do: taking soft drugs,,,v246,,Religion and Morale
+F149,Compatriots do: throwing  away litter,,,v247,,Religion and Morale
+F150,Compatriots do: speeding over the limit in build up areas,,,v248,,Religion and Morale
+F151,Compatriots do: driving under the influence of alcohol,,,v249,,Religion and Morale
+F152,Compatriots do: having  casual sex,,,v250,,Religion and Morale
+F153,Compatriots do: avoiding a fare on public transport,,,o39,,Religion and Morale
+F154,Compatriots do: lying in own interest,,,o40,,Religion and Morale
+F155,Compatriots do: accepting a bribe,,,o41,,Religion and Morale
+F156,How often do you drink alcohol,v519,,,,Religion and Morale
+F157,Do you drink more or less than others,v520,,,,Religion and Morale
+F158,How serious is illegal drug-taking,v521,,,,Religion and Morale
+F159,How serious is alcoholism,v522,,,,Religion and Morale
+F160,Stealing food punished less: young thief,,,o42,,Religion and Morale
+F161,Stealing food punished less: poor thief,,,o43,,Religion and Morale
+F163,Stealing food punished less: shop part of a supermarket chain,,,o44,,Religion and Morale
+G001,Geographical groups belonging to first,v534,q648a,v251,v253,National Identity
+G001_F,Flag variable: belong to geographic group - most/second,f534,f648a,,f253,National Identity
+G001CS,Geographical groups belonging to first (country specific),v534_us,q648a_de,v251_mt,,National Identity
+G001CS_F,Flag variable: belong to geographic group: most (6 answer categories) (country specific),,f648a_de,,,National Identity
+G002,Geographical groups belonging to second,v535,q649b,v252,v254,National Identity
+G002CS,Geographical groups belonging to second  (country specific),v535_us,q649b_de,v252_mt,,National Identity
+G003,Geographical groups belonging to least of all,,,v253,,National Identity
+G003CS,Geographical groups belonging to least of all (country specific),,,v253_mt,,National Identity
+G005,Citizen of [country],,,v254,v255,National Identity
+G006,How proud of nationality,v536,q650,v255,v256,National Identity
+G007_01,Trust: Other people in country,,q672b,o45,,National Identity
+G014,Opinion European union,,q673,o46,,National Identity
+G033,Important: to have been born in [country],,,,v276,National Identity
+G034,Important: to respect [country nationality] political institutions and laws,,,,v277,National Identity
+G035,Important: to have [country nationality] ancestry,,,,v278,National Identity
+G036,Important: to be able to speak [country language],,,,v279,National Identity
+G037,Important: to have lived in [country] for a long time,,,,v280,National Identity
+G038,Immigrants take away jobs from [nationality],,,,v268,National Identity
+G039,Immigrants undermine countrys cultural life,,,,v269,National Identity
+G040,Immigrants increase crime problems,,,,v270,National Identity
+G041,Immigrants are a strain on welfare system,,,,v271,National Identity
+G042,Immigrants will become a threat to society,,,,v272,National Identity
+G043,Immigrants maintain own/take over customs,,,,v273,National Identity
+G044,Immigrants living in your country: feels like a stranger,,,,v274,National Identity
+G045,Immigrants living in your country: there are too many,,,,v275,National Identity
+G046,EU fears: loss of social security,,,,v257,National Identity
+G047,EU fears: lose national identity/culture,,,,v258,National Identity
+G048,EU fears: own country pays,,,,v259,National Identity
+G049,EU fears: loss of power,,,,v260,National Identity
+G050,EU fears: loss of jobs,,,,v261,National Identity
+G051,European Union enlargement,,,,v262,National Identity
+U001A,Experienced: death of own children,,,,v329a,Life experiences
+U001B,Age experienced: death of own children,,,,v329b,Life experiences
+U002A,Experienced: divorce of own children,,,,v330a,Life experiences
+U002B,Age experienced: divorce of own children,,,,v330b,Life experiences
+U003A,Experienced: divorce of parents,,,,v331a,Life experiences
+U003B,Age experienced: divorce of parents,,,,v331b,Life experiences
+U004A,Experienced: divorce of relative,,,,v332a,Life experiences
+U004B,Age experienced: divorce of relative,,,,v332b,Life experiences
+U005A,Experienced: death of father,,,,v333a,Life experiences
+U005B,Age experienced: death of father,,,,v333b,Life experiences
+U006A,Experienced: death of mother,,,,v334a,Life experiences
+U006B,Age experienced: death of mother,,,,v334b,Life experiences
+V001,Father born in [country],,,,v309,Respondent's parents
+V001A,Fathers country of birth - ISO 3166-1 code,,,,v310b,Respondent's parents
+V002,Mother born in [country],,,,v311,Respondent's parents
+V002A,Mothers country of birth - ISO 3166-1 code,,,,v312b,Respondent's parents
+V003,Lived with parents at the age of 14,,,,v354,Respondent's parents
+V004A,Educational level father [mother]: ISCED-code one digit,,,,v355,Respondent's parents
+V004B,Educational level father [mother]: ISCED-code two digits,,,,v355_2,Respondent's parents
+V004C,Educational level father [mother]: ISCED-code three digits,,,,v355_3,Respondent's parents
+V004D,Educational level father [mother]: Country specific,,,,v355_cs,Respondent's parents
+V004E,Highest educational level attained father/mother (8 categories),,,,v355_4,Respondent's parents
+V004R,Educational level father [mother] (recoded),,,,v355_r,Respondent's parents
+V005,Father/mother employed at respondents age of 14,,,,v356,Respondent's parents
+V006_2,Kind of job father/mother - 2 digit ISCO88 code,,,,v357_2,Respondent's parents
+V006_3,Kind of job father/mother - 3 digit ISCO88 code,,,,v357_3,Respondent's parents
+V006_4,Kind of job father/mother - 4 digit ISCO88 code,,,,v357ISCO,Respondent's parents
+V007A,Occupational status father/mother - SIOPS,,,,v357SIOPS,Respondent's parents
+V007B,Occupational status father/mother - ISEI,,,,v357ISEI,Respondent's parents
+V007C,Occupational status father/mother - European ESeC,,,,v357ESeC,Respondent's parents
+V007D,Occupational status father/mother - egp11,,,,v357egp,Respondent's parents
+V008,Father/mother had how many employees,,,,v358,Respondent's parents
+V009,Did father/mother supervise someone,,,,v359,Respondent's parents
+V010,How many people did she/he supervise,,,,v359a,Respondent's parents
+V011,Mother liked to read books,,,,v360,Respondent's parents
+V012,Discussed politics with mother,,,,v361,Respondent's parents
+V013,Mother liked to follow the news,,,,v362,Respondent's parents
+V014,Parent(s) had problems making ends meet,,,,v363,Respondent's parents
+V015,Father liked to read books,,,,v364,Respondent's parents
+V016,Discussed politics with father,,,,v365,Respondent's parents
+V017,Father liked to follow the news,,,,v366,Respondent's parents
+V018,Parent(s) had problems replacing broken things,,,,v367,Respondent's parents
+W001,Partner/spouse born in [country],,,,v342,Respondent's partner
+W001A,Spouse/partners country of birth - ISO 3166-1code,,,,v343b,Respondent's partner
+W002A,Educational level partner: ISCED-code one digit,,,,v344,Respondent's partner
+W002B,Educational level partner: ISCED-code two digits,,,,v344_2,Respondent's partner
+W002C,Educational level partner: ISCED-code three digits,,,,v344_3,Respondent's partner
+W002D,Educational level partner: Country specific,,,,v344_cs,Respondent's partner
+W002E,Highest educational level attained spouse partner (8 categories),,,,v344_4,Respondent's partner
+W002R,Educational level partner (recoded),,,,v344_r,Respondent's partner
+W003,Paid employment/no paid employment spouse/partner,,,,v345,Respondent's partner
+W004,Employment/self-employment: last job,,,,v345a,Respondent's partner
+W005_2,Kind of job spouse/partner - 2 digit ISCO88 code,,,,v346_2,Respondent's partner
+W005_3,Kind of job spouse/partner - 3 digit ISCO88 code,,,,v346_3,Respondent's partner
+W005_4,Kind of job spouse/partner - 4 digit ISCO88 code,,,,v346ISCO,Respondent's partner
+W006A,Occupational status spouse/partner - SIOPS,,,,v346SIOPS,Respondent's partner
+W006B,Occupational status spouse/partner - ISEI,,,,v346ISEI,Respondent's partner
+W006C,Occupational status spouse/partner - European ESeC,,,,v346ESeC,Respondent's partner
+W006D,Occupational status spouse/partner - egp11,,,,v346egp,Respondent's partner
+W007,Spouse/partner had/has how many employees,,,,v347,Respondent's partner
+W008,Does spouse/partner supervise someone,,,,v348,Respondent's partner
+W009,How many people does she/he supervise,,,,v348a,Respondent's partner
+W010,Spouse/partner experienced unemployment longer than 3 months,,,,v350,Respondent's partner
+W011,Dependency on social security during last 5 years spouse/partner,,,,v352,Respondent's partner
+X001,Sex,v567,q716,v291,v302,Socio demographics
+X002,Year of birth,birthy,q717a,v292,v303,Socio demographics
+X002_01,Having [countrys] nationality,,,,v304,Socio demographics
+X002_01A,Respondents nationality - ISO 3166-1 code,,,,v305b,Socio demographics
+X002_02,Respondent born in [country],,,,v306,Socio demographics
+X002_02A,Respondents country of birth - ISO 3166-1 code,,,,v307b,Socio demographics
+X002_03,Year in which respondent came to live in [country],,,,v308,Socio demographics
+X003,Age,age,q719b,age,age,Socio demographics
+X003R,Age recoded,age_r,q719b_r,age_r,age_r,Socio demographics
+X003R2,Age recoded (3 intervals),age_r2,q719b_r2,age_r2,age_r2,Socio demographics
+X004,Stable relationship,,,v293,v316,Socio demographics
+X005,Legally married to partner,,,v294,,Socio demographics
+X006,Stable relationship before,,,v295,v317,Socio demographics
+X006_01,Married to this partner or in registered partnership,,,,v318,Socio demographics
+X006_02,Lived with this partner before marriage/registration of partnership,,,,v319,Socio demographics
+X007,Marital status,v355,q372,v296,v313,Socio demographics
+X007_01,Lived with partner before marriage,,,,v314,Socio demographics
+X007_02,Living with partner,,,,v315,Socio demographics
+X008,Have you been married before,,q373a,,,Socio demographics
+X009,Been divorced,,,v297,,Socio demographics
+X009_01,End of relationship because of separation or partners death,,,,v320,Socio demographics
+X011,How many children have you ever had,v448,q437,v298,,Socio demographics
+X011_01,How many children do you have - deceased children not included,,,,v321,Socio demographics
+X011_02,Year in which firstborn child was born,,,,v322,Socio demographics
+X011A,Have you had any children,v447,,,,Socio demographics
+X012,How many are still living at home,,q438,,,Socio demographics
+X013,Number of people in household,v552,,,,Socio demographics
+X014,Number of people in household of 18+,,,v299,,Socio demographics
+X015,Number of people in household aged 13-17,,,v300,,Socio demographics
+X016,Number of people in household aged 5-12,,,v301,,Socio demographics
+X017,Number of people in household under age of 5,,,v302,,Socio demographics
+X018,People in household aged 16-17: yes/no,v554,,,,Socio demographics
+X019,People in household aged 11-15: yes/no,v555,,,,Socio demographics
+X020,People in household aged 5-10: yes/no,v556,,,,Socio demographics
+X021,People in household aged 1-4: yes/no,v557,,,,Socio demographics
+X022,People in household under age of 1: yes/no,v558,,,,Socio demographics
+X022_01,"Living in household: partner, husband or wife",,,,v323,Socio demographics
+X022_02A,Living in household: children,,,,v324a,Socio demographics
+X022_02B,Living in household: number of children,,,,v324b,Socio demographics
+X022_03A,Living in household: parents,,,,v325a,Socio demographics
+X022_03B,Living in household: number of parents,,,,v325b,Socio demographics
+X022_04A,Living in household: grandparents,,,,v326a,Socio demographics
+X022_04B,Living in household: number of grandparents,,,,v326b,Socio demographics
+X022_05A,Living in household: relatives,,,,v327a,Socio demographics
+X022_05B,Living in household: number of relatives,,,,v327b,Socio demographics
+X022_06A,Living in household: non relatives,,,,v328a,Socio demographics
+X022_06B,Living in household: number of non relatives,,,,v328b,Socio demographics
+X023,What age did you complete your education,v551_r,q721,v303,v335,Socio demographics
+X023R,What age did you complete your education (recoded in intervals),v551,q721_r,v303_r,v335_r,Socio demographics
+X024,Had formal education,,,v304_se,,Socio demographics
+X025,Highest educational level attained,,,v304,v336_4,Socio demographics
+X025A,Educational level respondent: ISCED- code one digit,,,,v336,Socio demographics
+X025B,Educational level respondent: ISCED-code two digits,,,,v336_2,Socio demographics
+X025C,Educational level respondent: ISCED-code three digits,,,,v336_3,Socio demographics
+X025CS,Educational level respondent: Country specific (EVS),,,v305_se,v336_cs,Socio demographics
+X025R,Education level (recoded),,,v304_r,v336_r,Socio demographics
+X026,Do you live with your parents,v559,q723,v305,,Socio demographics
+X027,House or apartment,v549,,,,Socio demographics
+X028,Employment status,v560,q724,v306,v337,Socio demographics
+X028_01,Employment/self-employment: last job,,,,v338,Socio demographics
+X029,Chief wage earner employed now,v561,,,,Socio demographics
+X030,Do you own your home or rent it,v550,,,,Socio demographics
+X031,Are you supervising someone,,,v307,v341,Socio demographics
+X032,Number of supervised people,,,v308,,Socio demographics
+X032R,Number of supervised people (recoded),,,v308_r,,Socio demographics
+X032R_01,Number of supervised people (3 categories),,,,v341a,Socio demographics
+X033,Number of others working in the organization,,,v309,,Socio demographics
+X033R,Number of others working in the organization (recoded),,,v309_r,,Socio demographics
+X034,Number of employees,,,v310,,Socio demographics
+X034R,Number of employees (recoded),,,v310_r,,Socio demographics
+X034R_01,Number of employees (4 categories)(recoded),,,v310_r2,v340,Socio demographics
+X035_2,Job profession/industry (2 digit isco88),,,v311_2,v339_2,Socio demographics
+X035_3,Job profession/industry (3 digit isco88),,,v311_3,v339_3,Socio demographics
+X035_4,Job profession/industry (4 digit isco88),,,v311,v339ISCO,Socio demographics
+X036,Profession/job,v562,q725,v312,,Socio demographics
+X036A,Occupational status respondent - SIOPS (constructed),,,,v339SIOPS,Socio demographics
+X036B,Occupational status respondent - ISEI (constructed),,,,v339ISEI,Socio demographics
+X036C,Occupational status respondent - egp11 (constructed),,,,v339egp,Socio demographics
+X036D,Occupational status respondent - European ESeC (constructed),,,,v339ESeC,Socio demographics
+X037,How long unemployed,,,v314,,Socio demographics
+X037_01,Respondent experienced unemployment longer than 3 months,,,,v349,Socio demographics
+X037_02,Dependency on social security during last 5 years respondent,,,,v351,Socio demographics
+X038,How many people work in your department-organization,v565,,,,Socio demographics
+X039,Do you or your spouse belong to a labour union,v566,,,,Socio demographics
+X040,Are you the chief wage earner in your house,v564,q727,v315,,Socio demographics
+X041,Is the chief wage earner employed now,,q728a,v316,,Socio demographics
+X042_2,Profession/industry (2 digit isco88),,,v317_2,,Socio demographics
+X042_3,Profession/industry (3 digit isco88),,,v317_3,,Socio demographics
+X042_4,Profession/industry (4 digit isco88),,,v317,,Socio demographics
+X043,Chief wage earner profession/job,v563,q729,v318,,Socio demographics
+X044,Family savings during past year,,,v320_se,,Socio demographics
+X045,Social class (subjective),,,v321_se,,Socio demographics
+X046,Socio-economic status of respondent,v572,q733,o49,,Socio demographics
+X047,Scale of incomes,v570,q731,v320,,Socio demographics
+X047A,Weekly household income,,,,v353WK,Socio demographics
+X047A_01,Weekly household income (country specific),,,,v353W_cs,Socio demographics
+X047B,Monthly household income,,,,v353MM,Socio demographics
+X047B_01,Monthly household income (country specific),,,,v353M_cs,Socio demographics
+X047C,Annual household income,,,,v353YR,Socio demographics
+X047C_01,Annual household income (country specific),,,,v353Y_cs,Socio demographics
+X047CS,Income (country specific),v570_cs,q731_cs,v320_cs,,Socio demographics
+X047D,"Monthly household income (x1000), corrected for ppp in euros",,,v320_ppp,v353M_ppp,Socio demographics
+X047R,Income level,v570_r,q731_r,v320_r,v353_r,Socio demographics
+X048,Region where the interview was conducted,v569,q743,v323,,Socio demographics
+X048A,Region where interview was conducted: NUTS-1 code (EVS code),,,,v371b_N1,Socio demographics
+X048A_N1,Region where interview was conducted: NUTS-1 code (official code),,,,,Socio demographics
+X048B,Region where interview was conducted: NUTS-2 code (EVS code),,,,v371b_N2,Socio demographics
+X048B_N2,Region where interview was conducted: NUTS-2 code (official code),,,,,Socio demographics
+X048C,Region where interview was conducted: NUTS-3 code (EVS code),,,,v371b_N3,Socio demographics
+X048C_N3,Region where interview was conducted: NUTS-3 code (official code),,,,,Socio demographics
+X048D,Region at age 14: country,,,,v368b_CC,Socio demographics
+X048E,Region at age 14: NUTS-1 code (EVS code),,,,v368b_N1,Socio demographics
+X048E_N1,Region at age 14: NUTS-1 code (official code ),,,,,Socio demographics
+X048F,Region at age 14: NUTS-2 code (EVS code),,,,v368b_N2,Socio demographics
+X048F_N2,Region at age 14: NUTS-2 code (official code),,,,,Socio demographics
+X048G,Region at age 14: NUTS-3 code (EVS code),,,,v368b_N3,Socio demographics
+X048G_N3,Region at age 14: NUTS-3 code (official code ),,,,,Socio demographics
+X049,Size of town,,q742b,v322,v370,Socio demographics
+X049A,Size of town where interview was conducted (EVS2008 recoded),,,,,Socio demographics
+X049CS,Size of town (country specific),v653_us,q742b_fi,,,Socio demographics
+X050,Type of habitat,v568,,,,Socio demographics
+X051,Ethnic group,v571_cs,,,,Socio demographics
+Y001,Post-Materialist index 12-item,,q535b_12,v195_se,,Politics and Society
+Y002,Post-Materialist index 4-item,v461_4,q533b_4,v191_4,v202_4,Politics and Society

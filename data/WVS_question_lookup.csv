@@ -1,0 +1,1972 @@
+,,,,,,,,
+,,SUMMARY OF INTEGRATED VARIABLES BY COUNTRY,,,,,,
+,,,,,,,,
+INDEX,VARIABLE,LABEL,World Values Survey wave 1 (1981-1984),World Values Survey wave 2 (1990-1994),World Values Survey Wave 3 (1995-1998),World Values Survey wave 4 (1999-2004),World Values Survey wave 5 (2005-2008),World Values Survey wave 6 (2010-2012)
+001,,"Perceptions of life 
+", , , ,, , 
+001_001,A001,"Important in life: Family 
+", ,v5 Important in life: Family,V4 Importance in life: Family,v4 Family important,V4 Family important,V4 Important in life: Family
+001_001_001,A001_CO,"Family important 
+", , , , ,V4_CO Family important (Colombia), 
+001_002,A002,"Important in life: Friends 
+", ,v6 Important in life: Friends,V5 Importance in life: Friends,v5 Friends important,V5 Friends important,V5 Important in life: Friends
+001_002_001,A002_CO,"Friends important 
+", , , , ,V5_CO Friends important (Colombia), 
+001_003,A003,"Important in life: Leisure time 
+", ,v7 Important in life: Leisure time,V6 Importance in life: Leisure time,v6 Leisure time,V6 Leisure time,V6 Important in life: Leisure time
+001_003_001,A003_CO,"Leisure time 
+", , , , ,V6_CO Leisure time (Colombia), 
+001_004,A004,"Important in life: Politics 
+", ,v8 Important in life: Politics,V7 Importance in life: Politics,v7 Politics important,V7 Politics important,V7 Important in life: Politics
+001_004_001,A004_CO,"Politics important 
+", , , , ,V7_CO Politics important (Colombia), 
+001_005,A005,"Important in life: Work 
+", ,v4 Important in life: Work,V8 Importance in life: Work,v8 Work important,V8 Work important,V8 Important in life: Work
+001_005_001,A005_CO,"Work important 
+", , , , ,V8_CO Work important (Colombia), 
+001_006,A006,"Important in life: Religion 
+", ,v9 Important in life: Religion,V9 Importance in life: Religion,v9 Religion important,V9 Religion important,V9 Important in life: Religion
+001_006_001,A006_CO,"Religion important 
+", , , , ,V9_CO Religion important (Colombia), 
+001_007,A007,"Service to others important in life 
+", , , ,v10 Service to others, , 
+001_008,A008,"Feeling of happiness 
+",v10 Feeling of happiness,v18 Feeling of happiness,V10 Feeling of happiness,v11 State of mind,V10 Feeling of happiness,V10 Feeling of happiness
+001_009,A009,"State of health (subjective) 
+",v11 State of health (subjective),v83 State of health (subjective),V11 State of health,v12 State of health,V11 State of health (subjective),V11 State of health (subjective)
+001_010,A010,"Ever felt very excited or interested 
+", ,v84 Ever felt very excited or interested, , , , 
+001_011,A011,"Ever felt restless 
+", ,v85 Ever felt restless, , , , 
+001_012,A012,"Ever felt proud because someone complimented you 
+", ,v86 Ever felt proud because someone complimented you, , , , 
+001_013,A013,"Ever felt very lonely or remote from other people 
+", ,v87 Ever felt very lonely or remote from other people, , , , 
+001_014,A014,"Ever felt pleased about having accomplished something 
+", ,v88 Ever felt pleased about having accomplished something, , , , 
+001_015,A015,"Ever felt bored 
+", ,v89 Ever felt bored, , , , 
+001_016,A016,"Ever felt on top of the world 
+", ,v90 Ever felt on top of the world, , , , 
+001_017,A017,"Ever felt depressed or very unhappy 
+", ,v91 Ever felt depressed or very unhappy, , , , 
+001_018,A018,"Ever felt that things were going your way 
+", ,v92 Ever felt that things were going your way, , , , 
+001_019,A019,"Ever felt upset because somebody criticized you 
+", ,v93 Ever felt upset because somebody criticized you, , , , 
+001_025,A025,"Respect and love for parents 
+",v12 Respect and love for parents,v224 Respect and love for parents,V12 Respect and love for parents,v13 Respect parents, , 
+001_026,A026,"Parents responsibilities to their children 
+",v13 Parents responsibilities to their children,v225 Parents responsibilities to their children,V13 Parents responsibilities to their children,v14 Parents responsibilities, , 
+001_027,A027,"Important child qualities: good manners 
+",v14 Important child qualities: good manners,v226 Important child qualities: good manners,V14 Children qualities: Good manners,iv15 Child qual: Good manners, , 
+001_029,A029,"Important child qualities: independence 
+",v15 Important child qualities: independence,v227 Important child qualities: independence,V15 Children qualities: Independence,v15 Child qual: Independence,V12 Child qualities: independence,V12 Important child qualities: independence
+001_030,A030,"Important child qualities: hard work 
+",v16 Important child qualities: hard work,v228 Important child qualities: hard work,V16 Children qualities: Hard work,v16 Child qual: Hard work,V13 Child qualities: hard work,V13 Important child qualities: Hard work
+001_032,A032,"Important child qualities: feeling of responsibility 
+",v17 Important child qualities: feeling of responsibility,v229 Important child qualities: feeling of responsibility,V17 Children qualities: Responsibility,v17 Child qual: Feeling of responsibility,V14 Child qualities: feeling of responsibility,V14 Important child qualities: Feeling of responsibility
+001_034,A034,"Important child qualities: imagination 
+",v18 Important child qualities: imagination,v230 Important child qualities: imagination,V18 Children qualities: Imagination,v18 Child qual: Imagination,V15 Child qualities: imagination,V15 Important child qualities: Imagination
+001_035,A035,"Important child qualities: tolerance and respect for other people 
+",v19 Important child qualities: tolerance and respect for other people,v231 Important child qualities: tolerance and respect for other people,V19 Children qualities: Tolerance and respect for other people,v19 Child qual: Tolerance and respect for other people,V16 Child qualities: tolerance and respect for other people,V16 Important child qualities: Tolerance and respect for other people
+001_038,A038,"Important child qualities: thrift saving money and things 
+",v20 Important child qualities: thrift saving money and things,v232 Important child qualities: thrift saving money and things,"V20 Children qualities: Thrift, saving money and things",v20 Child qual: Thrift saving money and things,V17 Child qualities: thrift saving money and things,V17 Important child qualities: Thrift saving money and things
+001_039,A039,"Important child qualities: determination perseverance 
+",v21 Important child qualities: determination perseverance,v233 Important child qualities: determination perseverance,"V21 Children qualities: Determination, perseverance",v21 Child qual: Determination perseverance,V18 Child qualities: determination perseverance,"V18 Important child qualities: Determination, perseverance"
+001_040,A040,"Important child qualities: religious faith 
+",v22 Important child qualities: religious faith,v234 Important child qualities: religious faith,V22 Children qualities: Religious faith,v22 Child qual: Religious faith,V19 Child qualities: religious faith,V19 Important child qualities: Religious faith
+001_041,A041,"Important child qualities: unselfishness 
+",v23 Important child qualities: unselfishness,v235 Important child qualities: unselfishness,V23 Children qualities: Unselfishness,v23 Child qual: Unselfishness,V20 Child qualities: unselfishness,V20 Important child qualities: Unselfishness
+001_042,A042,"Important child qualities: obedience 
+",v24 Important child qualities: obedience,v236 Important child qualities: obedience,V24 Children qualities: Obedience,v24 Child qual: Obedience,V21 Child qualities: obedience,V21 Important child qualities: Obedience
+001_044,A043B,"Important child qualities: Self-expression 
+", , , , , ,V22 Important child qualities: Self-expression
+001_045,A044,"What children should learn 1 
+", , ,V25 What children should learn 1, , , 
+001_046,A045,"What children should learn 2 
+", , ,V26 What children should learn 2, , , 
+001_047,A046,"Abortion when the mothers health is at risk 
+", ,v237 Abortion when the mothers health is at risk, , , , 
+001_048,A047,"Abortion when child physically handicapped 
+", ,v238 Abortion when child physically handicapped, , , , 
+001_049,A048,"Abortion when woman not married 
+", ,v239 Abortion when woman not married, , , , 
+001_050,A049,"Abortion if not wanting more children 
+", ,v240 Abortion if not wanting more children, , , , 
+001_058,A057,"Spend time with parents or other relatives 
+", , , ,v27 Spend time with the parents, , 
+001_059,A058,"Spend time with friends 
+", , , ,v28 Spend time with friends, , 
+001_060,A059,"Spend time with colleagues from work 
+", , , ,v29 Spend time with colleagues from work, , 
+001_061,A060,"Spend time with people at your church, mosque or synagogue 
+", , , ,v30 Spend time with people at your church, , 
+001_062,A061,"Spend time with people at sport, culture, communal organization 
+", , , ,v31 Spend time with people at sport, , 
+001_063,A062,"How often discusses political matters with friends 
+",v37 How often discusses political matters with friends,v10 How often discusses political matters with friends,V37 Discuss political matters,v32 Discuss political matters, , 
+001_064,A063,"Persuading friends, relatives or fellow workers 
+", ,"v11 Persuading friends, relatives or fellow workers", , , , 
+001_065,A064,"Member: Belong to social welfare service for elderly 
+", ,v19 Member: Belong to social welfare service for elderly, ,v39 Belong social welfare service for elderly, , 
+001_066,A065,"Member: Belong to religious organization 
+", ,v20 Member: Belong to religious organization, ,v40 Belong church organization, , 
+001_067,A066,"Member: Belong to education, arts, music or cultural activities 
+", ,"v21 Member: Belong to education, arts, music or cultural activities", ,v41 Belong cultural activities, , 
+001_068,A067,"Member: Belong to labour unions 
+", ,v22 Member: Belong to labour unions, ,v42 Belong labor unions, , 
+001_069,A068,"Member: Belong to political parties 
+", ,v23 Member: Belong to political parties, ,v43 Belong political parties, , 
+001_070,A069,"Member: Belong to local political actions 
+", ,v24 Member: Belong to local political actions, ,v44 Belong local political, , 
+001_071,A070,"Member: Belong to human rights 
+", ,v25 Member: Belong to human rights, ,v45 Human rights, , 
+001_072,A071,"Member: Belong to conservation, the environment, ecology, animal rights 
+", , , ,v46 Animal rights, , 
+001_073,A071B,"Member: Belong to conservation, the environment, ecology 
+", ,"v26 Member: Belong to conservation, the environment, ecology", , , , 
+001_074,A071C,"Member: Belong to animal rights 
+", ,v32 Member: Belong to animal rights, , , , 
+001_075,A072,"Member: Belong to professional associations 
+", ,v27 Member: Belong to professional associations, ,v47 Professional associations, , 
+001_076,A073,"Member: Belong to youth work 
+", ,v28 Member: Belong to youth work, ,v48 Youth work, , 
+001_077,A074,"Member: Belong to sports or recreation 
+", ,v29 Member: Belong to sports or recreation, ,v49 Sports or recreation, , 
+001_078,A075,"Member: Belong to women´s group 
+", ,v30 Member: Belong to women´s group, ,v50 Women´s groups, , 
+001_079,A076,"Member: Belong to peace movement 
+", ,v31 Member: Belong to peace movement, ,v51 Peace movement, , 
+001_080,A077,"Member: Belong to organization concerned with health 
+", ,v33 Member: Belong to organization concerned with health, ,v52 Concerned with health, , 
+001_082,A079,"Member: Belong to other groups 
+", ,v34 Member: Belong to other groups, ,v53 Other groups, , 
+001_083,A080,"Member: Belong to none 
+", ,v35 Member: Belong to none, , , , 
+001_084,A081,"Voluntary work: Unpaid work social welfare service for elderly, handicapped or deprived people 
+", ,"v37 Voluntary work: Unpaid work social welfare service for elderly, handicapped or deprived people", ,v54 Voluntary org: Social welfare, , 
+001_085,A082,"Voluntary work: Unpaid work religious or church organization 
+", ,v38 Voluntary work: Unpaid work religious or church organization, ,v55 Voluntary org: Church organization, , 
+001_086,A083,"Voluntary work: Unpaid work education, arts, music or cultural activities 
+", ,"v39 Voluntary work: Unpaid work education, arts, music or cultural activities", ,v56 Voluntary org: Cultural activities, , 
+001_087,A084,"Voluntary work: Unpaid work labour unions 
+", ,v40 Voluntary work: Unpaid work labour unions, ,v57 Voluntary org: Labor unions, , 
+001_088,A085,"Voluntary work: Unpaid work political parties or groups 
+", ,v41 Voluntary work: Unpaid work political parties or groups, ,v58 Voluntary org: Political parties, , 
+001_089,A086,"Voluntary work: Unpaid work local political action groups 
+", ,v42 Voluntary work: Unpaid work local political action groups, ,v59 Voluntary org: Local community action, , 
+001_090,A087,"Voluntary work: Unpaid work human rights 
+", ,v43 Voluntary work: Unpaid work human rights, ,v60 Voluntary org: Third world human rights, , 
+001_091,A088,"Voluntary work: Unpaid work environment, conservation, animal rights 
+", , , ,"v61 Voluntary org: Conservation, environmental, animal rights", , 
+001_092,A088B,"Voluntary work: Unpaid work environment, conservation, ecology 
+", ,"v44 Voluntary work: Unpaid work environment, conservation, ecology", , , , 
+001_093,A088C,"Voluntary work: Unpaid work animal rights 
+", ,v50 Voluntary work: Unpaid work animal rights, , , , 
+001_094,A089,"Voluntary work: Unpaid work professional associations 
+", ,v45 Voluntary work: Unpaid work professional associations, ,v62 Voluntary org: Professional Associations, , 
+001_095,A090,"Voluntary work: Unpaid work youth work 
+", ,v46 Voluntary work: Unpaid work youth work, ,v63 Voluntary org:  Youth work, , 
+001_096,A091,"Voluntary work: Unpaid work sports or recreation 
+", ,v47 Voluntary work: Unpaid work sports or recreation, ,v64 Voluntary org: Sport or recreation, , 
+001_097,A092,"Voluntary work: Unpaid work women´s group 
+", ,v48 Voluntary work: Unpaid work women´s group, ,v65 Voluntary org: Women´s groups, , 
+001_098,A093,"Voluntary work: Unpaid work peace movement 
+", ,v49 Voluntary work: Unpaid work peace movement, ,v66 Voluntary org: Peace movement, , 
+001_099,A094,"Voluntary work: Unpaid work organization concerned with health 
+", ,v51 Voluntary work: Unpaid work organization concerned with health, ,v67 Voluntary org: Concerned with health, , 
+001_101,A096,"Voluntary work: Unpaid work other groups 
+", ,v52 Voluntary work: Unpaid work other groups, ,v67b Voluntary org: Other social groups, , 
+001_102,A097,"Voluntary work: Unpaid work none 
+", ,V53 Voluntary work: Unpaid work none, , , , 
+001_103,A098,"Active/Inactive membership of church or religious organization 
+",v28 Active/Inactive membership of church or religious organization, ,V28 Membership of voluntary organisations: Church or religious organization, ,V24 Membership of church or religious organization,V25 Active/Inactive membership: Church or religious organization
+001_104,A099,"Active/Inactive membership of sport or recreation 
+", , ,V29 Membership of voluntary organisations: Sport or recreation, ,V25 Membership of sport or recreation,V26 Active/Inactive membership: Sport or recreational organization
+001_105,A100,"Active/Inactive membership of art, music, educational 
+","v30 Active/Inactive membership of art, music, educational", ,"V30 Membership of voluntary organisations: Art, music or educational", ,"V26 Membership of art, music, educational","V27 Active/Inactive membership: Art, music or educational organization"
+001_106,A101,"Active/Inactive membership of labour unions 
+",v31 Active/Inactive membership of labour unions, ,V31 Membership of voluntary organisations: Labor union, ,V27 Membership of labour unions,V28 Active/Inactive membership: Labor Union
+001_107,A102,"Active/Inactive membership of political party 
+",v32 Active/Inactive membership of political party, ,V32 Membership of voluntary organisations: Political party, ,V28 Membership of political party,V29 Active/Inactive membership: Political party
+001_108,A103,"Active/Inactive membership of environmental organization 
+",v33 Active/Inactive membership of environmental organization, ,V33 Membership of voluntary organisations: Environmental organization, ,V29 Membership of environmental organization,V30 Active/Inactive membership: Environmental organization
+001_109,A104,"Active/Inactive membership of professional organization 
+",v34 Active/Inactive membership of professional organization, ,V34 Membership of voluntary organisations: Professional association, ,V30 Membership of professional organization,V31 Active/Inactive membership: Professional association
+001_110,A105,"Active/Inactive membership of charitable/humanitarian organization 
+",v35 Active/Inactive membership of charitable/humanitarian organization, ,V35 Membership of voluntary organisations: Charitable organization, ,V31 Membership of charitable/humanitarian organization,V32 Active/Inactive membership: Humanitarian or charitable organization
+001_111,A106,"Active/Inactive membership of any other organization 
+", , ,V36 Membership of voluntary organisations: Any other voluntary organization, ,V33 Membership of any other organization,V35 Active/Inactive membership: Other organization
+001_112,A106B,"Active/Inactive membership: Consumer organization 
+", , , , , ,V33 Active/Inactive membership: Consumer organization
+001_113,A106C,"Active/Inactive membership: Self-help group, mutual aid group 
+", , , , , ,"V34 Active/Inactive membership: Self-help group, mutual aid group"
+001_114,A107,"Reasons voluntary work: Solidarity with the poor and disadvantaged 
+", ,v55 Reasons voluntary work: Solidarity with the poor and disadvantaged, , , , 
+001_115,A108,"Reasons voluntary work: Compassion for those in need 
+", ,v56 Reasons voluntary work: Compassion for those in need, , , , 
+001_116,A109,"Reasons voluntary work: Opportunity to repay something 
+", ,v57 Reasons voluntary work: Opportunity to repay something, , , , 
+001_117,A110,"Reasons voluntary work: Sense of duty, moral, obligation 
+", ,"v58 Reasons voluntary work: Sense of duty, moral, obligation", , , , 
+001_118,A111,"Reasons voluntary work: Identifying with people who suffer 
+", ,v59 Reasons voluntary work: Identifying with people who suffer, , , , 
+001_119,A112,"Reasons voluntary work: Time on my hands 
+", ,v60 Reasons voluntary work: Time on my hands, , , , 
+001_120,A113,"Reasons voluntary work: Personal satisfaction 
+", ,v61 Reasons voluntary work: Personal satisfaction, , , , 
+001_121,A114,"Reasons voluntary work: Religious belief 
+", ,v62 Reasons voluntary work: Religious belief, , , , 
+001_122,A115,"Reasons voluntary work: Help disadvantaged people 
+", ,v63 Reasons voluntary work: Help disadvantaged people, , , , 
+001_123,A116,"Reasons voluntary work: Make a contribution to my local community 
+", ,v64 Reasons voluntary work: Make a contribution to my local community, , , , 
+001_124,A117,"Reasons voluntary work: Bring about social or political change 
+", ,v65 Reasons voluntary work: Bring about social or political change, , , , 
+001_125,A118,"Reasons voluntary work: For social reasons 
+", ,v66 Reasons voluntary work: For social reasons, , , , 
+001_126,A119,"Reasons voluntary work: Gain new skills and useful experience 
+", ,v67 Reasons voluntary work: Gain new skills and useful experience, , , , 
+001_127,A120,"Reasons voluntary work: Did not want to, but could not refuse 
+", ,"v68 Reasons voluntary work: Did not want to, but could not refuse", , , , 
+001_131_001,A124_01,"Neighbours: People with a criminal record 
+",v51 Neighbours: People with a criminal record,v69 Neighbours: People with a criminal record,V51 Neighbors: Criminals,v68 Neighbors: People with a criminal record,V43_01 Neighbours: People with a criminal record, 
+001_131_002,A124_02,"Neighbours: People of a different race 
+",v52 Neighbours: People of a different race,v70 Neighbours: People of a different race,V52 Neighbors: People of different race,v69 Neighbors: People of a different race,V35 Neighbours: People of a different race,V37 Would not like to have as neighbors: People of a different race
+001_131_003,A124_03,"Neighbours: Heavy drinkers 
+",v54 Neighbours: Heavy drinkers,v72 Neighbours: Heavy drinkers,V54 Neighbors: Heavy drinkers,v70 Neighbors: Heavy drinkers,V40 Neighbours: Heavy drinkers,V42 Would not like to have as neighbors: Heavy drinkers
+001_131_004,A124_04,"Neighbours: Emotionally unstable people 
+",v55 Neighbours: Emotionally unstable people,v75 Neighbours: Emotionally unstable people,V55 Neighbors: Emotionally unstable,v71 Neighbors: Emotionally unstable people,V43_02 Neighbours: Emotionally unstable people, 
+001_131_005,A124_05,"Neighbours: Muslims 
+",v56 Neighbours: Muslims,v76 Neighbours: Muslims,V56_01 Neighbors: Muslims,v72 Neighbors: Muslims,V43_03 Neighbours: Muslims, 
+001_131_006,A124_06,"Neighbours: Immigrants/foreign workers 
+",v57 Neighbours: Immigrants/foreign workers,v77 Neighbours: Immigrants/foreign workers,V57 Neighbors: Immigrants/Foreign workers,v73 Neighbors: Immigrants/Foreign workers,V37 Neighbours: Immigrants/foreign workers,V39 Would not like to have as neighbors: Immigrants/foreign workers
+001_131_007,A124_07,"Neighbours: People who have AIDS 
+", ,v78 Neighbours: People who have AIDS,V58 Neighbors: have AIDS,v74 Neighbors: People who have AIDS,V36 Neighbours: People who have a AIDS,V38 Would not like to have as neighbors: People who have AIDS
+001_131_008,A124_08,"Neighbours: Drug addicts 
+", ,v79 Neighbours: Drug addicts,V59 Neighbors: drug addicts,v75 Neighbors: Drug addicts,V34 Neighbours: Drug addicts,V36 Would not like to have as neighbors: Drug addicts
+001_131_009,A124_09,"Neighbours: Homosexuals 
+", ,v80 Neighbours: Homosexuals,V60 Neighbors: homosexuals,v76 Neighbors: Homosexuals,V38 Neighbours: Homosexuals,V40 Would not like to have as neighbors: Homosexuals
+001_131_010,A124_10,"Neighbours: Jews 
+", ,v81 Neighbours: Jews,V56_02 Neighbors: Jews,v77_01 Neighbors: Jews,V43_04 Neighbours: Jews, 
+001_131_011,A124_11,"Neighbours: Evangelists 
+", , , ,v77_02 Neighbors: Evangelists,V43_05 Neighbours: Evangelists, 
+001_131_012,A124_12,"Neighbours: People of a different religion 
+", , ,V56_03 Neighbors: People with different religion,v77_03 Neighbors: People of different religion,V39 Neighbours: People of a different religion,V41 Would not like to have as neighbors: People of a different religion
+001_131_013,A124_13,"Neighbours: People of the same religion 
+", , , ,v77_04 Neighbors: People of same religion, , 
+001_131_014,A124_14,"Neighbours: Militant minority 
+", , , ,v77_05 Neighbors: Militant minority,V43 Neighbours: Militant minority, 
+001_131_015,A124_15,"Neighbours: Zoroastrians 
+", , , ,v77_06 Neighbors: Zoroastrians, , 
+001_131_016,A124_16,"Neighbours: People not from country of origin 
+", , , ,v77_07 Neighbors: People not from country of origin,V43_06 Neighbours: People not from country of origin, 
+001_131_017,A124_17,"Neighbours: Gypsies 
+", , ,V56_14 Neighbors: Gypsies,v77_08 Neighbors: Gypsies,"V43_26 Neighbours: Gipsies, Romani, Tziganes",V44_ES Would not like to have as neighbors: Gypsies (ES)
+001_131_018,A124_18,"Neighbours: Political Extremists 
+",v53 Neighbours: Political Extremists,v82a Neighbours: Political Extremists,V53 Neighbors: Political extremists,v77_09 Neighbors: Political extremists,V43_07 Neighbours: Political Extremists, 
+001_131_019,A124_19,"Neighbours: Trafficants 
+", , ,V56_04 Neighbors: Narcotraficants,v77_10 Neighbors: Trafficants, , 
+001_131_020,A124_20,"Neighbours: Indians or Lebanese 
+", , , ,v77_11 Neighbors: Indians or Lebanese, , 
+001_131_021,A124_21,"Neighbours: Chinese or Philippino Chinese 
+", , , ,v77_12 Neighbors: Chinese or Philippino Chinese, , 
+001_131_022,A124_22,"Neighbours: Spiritists 
+", , , ,v77_13 Neighbors: Spiritists, , 
+001_131_023,A124_23,"Neighbours: Protestants 
+", , , ,v77_14 Neighbors: Protestants, , 
+001_131_024,A124_24,"Neighbours: Christians 
+", , ,V56_07 Neighbors: Christians,v77_15 Neighbors: Christians,V43_08 Neighbours: Christians, 
+001_131_025,A124_25,"Neighbours: Witchdoctors and related labels 
+", , , ,v77_16 Neighbors: Witchdoctors and related labels, , 
+001_131_027,A124_27,"Neighbours: Right wing extremists 
+", ,v73 Neighbours: Right wing extremists, , , , 
+001_131_028,A124_28,"Neighbours: People with large families 
+", ,v74 Neighbours: People with large families, , , , 
+001_131_029,A124_29,"Neighbours: Hindus 
+", ,v82 Neighbours: Hindus, , , , 
+001_131_030,A124_30,"Neighbours: North-American persons 
+", , ,V56_05 Neighbors: North-American persons,v77_20 Neighbors: Americans, , 
+001_131_031,A124_31,"Neighbours: Haitians 
+", , ,V56_06 Neighbors: Haitians, , , 
+001_131_032,A124_32,"Neighbours: Members of new religious movements 
+", , ,V56_08 Neighbors: Members of new religious movements, , , 
+001_131_033,A124_33,"Neighbours: Jews, Arabs, Asians, gypsies, etc 
+", , ,"V56_09 Neighbors: Jews, Arabs, Asians, Gypsies, etc", , , 
+001_131_034,A124_34,"Neighbours: Black people 
+", , ,V56_10 Neighbors: Black, ,V43_17 Neighbours: Black people, 
+001_131_035,A124_35,"Neighbours: White people 
+", , ,V56_11 Neighbors: Whites, ,V43_18 Neighbours: White people, 
+001_131_036,A124_36,"Neighbours: Coloured people 
+", , ,V56_12 Neighbors: Coloured, ,V43_19 Neighbours: Coloured people, 
+001_131_037,A124_37,"Neighbours: Indians 
+", , ,V56_13 Neighbors: Indians, ,V43_20 Neighbours: Indians, 
+001_131_038,A124_38,"Neighbours: Kurds, Esids 
+", , ,"V56_15 Neighbors: Kurds, Esids",v77_18 Neighbors: Kurds,"V43_21 Neighbours: Kurds, Esids", 
+001_131_042,A124_42,"Neighbours: Unmarried couples living together 
+", , , , ,V41 Neighbours: Unmarried couples living together,V43 Would not like to have as neighbors: Unmarried couples living together
+001_131_043,A124_43,"Neighbours: People who speak a different language 
+", , , , ,V42 Neighbours: People who speak a different language,V44 Would not like to have as neighbors: People who speak a different language
+001_131_045,A124_45,"Neighbours: Sunnis 
+", , , ,v77_17 Neighbors: Sunnis,V43_09 Neighbours: Sunnis, 
+001_131_046,A124_46,"Neighbours: Shia 
+", , , ,v77_19 Neighbors: Shia,V43_10 Neighbours: Shia, 
+001_131_047,A124_47,"Neighbours: French 
+", , , ,v77_21 Neighbors: French,V43_11 Neighbours: French, 
+001_131_048,A124_48,"Neighbours: British 
+", , , ,v77_22 Neighbors: Briton,V43_12 Neighbours: British, 
+001_131_049,A124_49,"Neighbours: Iranian 
+", , , ,v77_23 Neighbors: Iranian,V43_13 Neighbours: Iranian, 
+001_131_050,A124_50,"Neighbours: Kuwaiti 
+", , , ,v77_24 Neighbors: Kuwaiti,V43_14 Neighbours: Kuwaiti, 
+001_131_051,A124_51,"Neighbours: Turkish 
+", , , ,v77_25 Neighbors: Turkish,V43_15 Neighbours: Turkish, 
+001_131_052,A124_52,"Neighbours: Jordanian 
+", , , ,v77_26 Neighbors: Jordanian,V43_16 Neighbours: Jordanian, 
+001_131_053,A124_53,"Neighbours: Kildani 
+", , , ,v77_27 Neighbors: Kildani, , 
+001_131_054,A124_54,"Neighbours: Indigenes; Aborigenes 
+", , , , ,V43_22 Neighbours: Indigenes; Aborigenes, 
+001_131_055,A124_55,"Neighbours: Maori 
+", , , , ,V43_23 Neighbours: Maori, 
+001_131_056,A124_56,"Neighbours: Pacific Islanders 
+", , , , ,V43_24 Neighbours: Pacific Islanders, 
+001_131_057,A124_57,"Neighbours: Europeans/Pakeha 
+", , , , ,V43_25 Neighbours: Europeans/Pakeha, 
+001_131_058,A124_58,"Neighbours: Americans 
+", , , , ,V43_27 Neighbours: Americans, 
+001_131_059,A124_59,"Neighbours: Chaldean 
+", , , , ,V43_28 Neighbours: Chaldean, 
+001_131_060,A124_60,"Neighbours: Mapuches 
+", , , , ,V43_29 Neighbours: Mapuches, 
+001_131_061,A124_61,"Neighbours: Russians 
+", , , , ,V43_30 Neighbours: Russians, 
+001_132,A165,"Most people can be trusted 
+",v27 Most people can be trusted,v94 Most people can be trusted,V27 Trust in people,v25 Dealing with people,V23 Most people can be trusted,V24 Most people can be trusted
+001_135,A168,"Do you think most people try to take advantage of you 
+", , , ,v26 Do you think most people try to take advantage of you, ,"V56_NZ Do you think most people would try to take advantage of you if they got a chance, or would they try to be fair? (NZ)"
+001_136,A168A,"Do you think most people try to take advantage of you (10 point scale) 
+", , , , ,V47 Do you think most people try to take advantage of you,"V56 Do you think most people would try to take advantage of you if they got a chance, or would they try to be fair?"
+001_137,A169,"Good human relationships 
+", , ,V48 Understand others´ preferences vs express one´s own preferences clearly,v38 Good human relationships, , 
+001_138,A170,"Satisfaction with your life 
+",v65 Satisfaction with your life,v96 Satisfaction with your life,V65 Life satisfaction,v81 How satisfied are you with your life,V22 How satisfied are you with your life,V23 Satisfaction with your life
+001_141,A173,"How much freedom of choice and control 
+",v66 How much freedom of choice and control,v95 How much freedom of choice and control,v66 Freedom of choice about control over life,v82 How much freedom you feel,V46 How much freedom you feel,V55 How much freedom of choice and control over own life
+001_142,A174,"Membership consumer organisation 
+", , , , ,V32 Membership consumer organisation, 
+001_143,A189,"Schwartz: It is important to this person to think up new ideas and be creative 
+", , , , ,V80 Schwartz: Important to this person to think up new ideas,V70 Schwartz: It is important to this person to think up new ideas and be creative; to do things one’s own way
+001_144,A190,"Schwartz: It is important to this person to be rich 
+", , , , ,V81 Schwartz: Important to this person to be rich,V71 Schwartz: It is important to this person to be rich; to have a lot of money and expensive things
+001_145,A191,"Schwartz: It is important to this person living in secure surroundings 
+", , , , ,V82 Schwartz: Important to this person living in secure suroundings,V72 Schwartz: Living in secure surroundings is important to this person; to avoid anything that might be dangerous
+001_146,A192,"Schwartz: It is important to this person to have a good time 
+", , , , ,V83 Schwartz: Important to this person to have a good time,V73 Schwartz: It is important to this person to have a good time; to “spoil” oneself
+001_147,A193,"Schwartz: It is important to this person to help the people nearby 
+", , , , ,V84 Schwartz: Important to this person to help the people,V74B Schwartz: It is important to help people living nearby; to care for their needs
+001_148,A194,"Schwartz: It is important to this person being very successful 
+", , , , ,V85 Schwartz: Important to this person being very successful,V75 Schwartz: Being very successful is important to this person; to have people recognize one’s achievements
+001_149,A195,"Schwartz: It is important to this person adventure and taking risks 
+", , , , ,V86 Schwartz:Important to this person adventure and taking risks,V76 Schwartz: Adventure and taking risks are important to this person; to have an exciting life
+001_150,A196,"Schwartz: It is important to this person to always behave properly 
+", , , , ,V87 Schwartz: Important to this person to always behave properly,V77 Schwartz: It is important to this person to always behave properly; to avoid doing anything people would say is wrong
+001_151,A197,"Schwartz: It is important to this person looking after the environment 
+", , , , ,V88 Schwartz: Important to this person looking after environment,V78 Schwartz: Looking after the environment is important to this person; to care for nature and save life resources
+001_152,A198,"Schwartz: It is important to this person tradition 
+", , , , ,V89 Schwartz: Important to this person tradition,V79 Schwartz: Tradition is important to this person; to follow the customs handed down by one’s religion or family
+001_153,A199,"Schwartz: It is important to this person to do something for the good of society 
+", , , , , ,V74 Schwartz: It is important to this person to do something for the good of society
+001_154,A200,"Social position: People in their 20s 
+", , , , , ,V157 Social position: People in their 20s
+001_155,A201,"Social position: People in their 40s 
+", , , , , ,V158 Social position: People in their 40s
+001_156,A202,"Social position: People in their 70s 
+", , , , , ,V159 Social position: People in their 70s
+001_157,A203,"Is a 30-year old boss acceptable 
+", , , , , ,V160 Is a 30-year old boss acceptable
+001_158,A204,"People over 70: are seen as friendly 
+", , , , , ,V161 People over 70: are seen as friendly
+001_159,A205,"People over 70: are seen as competent 
+", , , , , ,V162 People over 70: are seen as competent
+001_160,A206,"People over 70: viewed with respect 
+", , , , , ,V163 People over 70: viewed with respect
+001_161,A207,"Is a 70-year old boss acceptable 
+", , , , , ,V164 Is a 70-year old boss acceptable
+001_162,A208,"Older people are not respected much these days 
+", , , , , ,V165 Older people are not respected much these days
+001_163,A209,"Older people get more than their fair share from the government 
+", , , , , ,V166 Older people get more than their fair share from the government
+001_164,A210,"Older people are a burden on society 
+", , , , , ,V167 Older people are a burden on society
+001_165,A211,"Companies that employ young people perform better than those that employ people of different ages 
+", , , , , ,V168 Companies that employ young people perform better than those that employ people of different ages
+001_166,A212,"Old people have too much political influence 
+", , , , , ,V169 Old people have too much political influence
+001_167,A213,"I see myself as someone who: is reserved 
+", , , , , ,V160A I see myself as someone who: is reserved
+001_168,A214,"I see myself as someone who: is generally trusting 
+", , , , , ,V160B I see myself as someone who: is generally trusting
+001_169,A215,"I see myself as someone who: tends to be lazy 
+", , , , , ,V160C I see myself as someone who: tends to be lazy
+001_170,A216,"I see myself as someone who: is relaxed, handles stress well 
+", , , , , ,"V160D I see myself as someone who: is relaxed, handles stress well"
+001_171,A217,"I see myself as someone who: has few artistic interests 
+", , , , , ,V160E I see myself as someone who: has few artistic interests
+001_172,A218,"I see myself as someone who: is outgoing, sociable 
+", , , , , ,"V160F I see myself as someone who: is outgoing, sociable"
+001_173,A219,"I see myself as someone who: tends to find fault with others 
+", , , , , ,V160G I see myself as someone who: tends to find fault with others
+001_174,A220,"I see myself as someone who: does a thorough job 
+", , , , , ,V160H I see myself as someone who: does a thorough job
+001_175,A221,"I see myself as someone who: gets nervous easily 
+", , , , , ,V160I I see myself as someone who: gets nervous easily
+001_176,A222,"I see myself as someone who: has an active imagination 
+", , , , , ,V160J I see myself as someone who: has an active imagination
+002,,"Environment 
+", , , ,,, 
+002_001,B001,"Would give part of my income for the environment 
+", ,v12 Would give part of my income for the environment, ,v33 Would give part of my income for environment,V105 Would give part of my income for environment, 
+002_002,B002,"Increase in taxes if used to prevent environmental pollution 
+", ,v13 Increase in taxes if used to prevent environmental pollution,V38 Environment: I would agree to an increase in taxes if the extra money were used to prevent environmental damage,v34 Increase in taxes if extra money used to prevent environmental pollution,V106 Increase in taxes if extra money used to prevent environment, 
+002_003,B003,"Government should reduce environmental pollution 
+", ,v14 Government should reduce environmental pollution, ,v35 Government should reduce environmental pollution,V107 Government should reduce environmental pollution, 
+002_004,B004,"Would buy things at a 20% higher price if it helped to protect environment 
+", , ,V39 Environment: I would buy things at a 20% higher price if it helped to protect the environment, , , 
+002_005,B005,"All talk about the environment make people anxious 
+", ,v15 All talk about the environment make people anxious, , , , 
+002_006,B006,"Combatting unemployment, we have to accept environmental problems 
+", ,"v16 Combatting unemployment, we have to accept environmental problems", , , , 
+002_007,B007,"Protecting environment and fighting pollution is less urgent than suggested 
+", ,v17 Protecting environment and fighting pollution is less urgent than suggested, , , , 
+002_008,B008,"Protecting environment vs. Economic growth 
+", , ,V41 Environment vs economic growth,v36 Environment and economic growth,V104 Environmental vs. Economic growth,V81 Protecting environment vs. Economic growth
+002_009,B009,"Human & nature 
+", , ,V49 Human beings should master nature vs coexist with nature,v37 Human & nature, , 
+002_010,B010,"[Country]s environmental problems can be solved without any international agreements to handle them 
+", , ,V40 Environment: Environmental problems can be solved without any international agreements to handle them, , , 
+002_011,B011,"Environmental action: chosen products that are better for environment 
+", , ,V42 Environmental action: Chosen products that are better for environment, , , 
+002_012,B012,"Environmental action: recycle 
+", , ,V43 Environmental action: Recycle something rather than throw it away, , , 
+002_013,B013,"Environmental action: reduce water consumption 
+", , ,V44 Environmental action: Reduce water consumption for environmental reasons, , , 
+002_014,B014,"Environmental action: attend meeting, signed petition 
+", , ,"V45 Environmental action: Attend meeting, signed petition aimed at protecting the environment", , , 
+002_015,B015,"Environmental action: contributed to environmental organization 
+", , ,V46 Environmental action: Have you contributed to an environmental organization, , , 
+002_016,B016,"Tradition vs. high economic growth 
+", , ,V47 Tradition vs high technology, , , 
+002_017,B017,"Humanity has a bright or bleak future 
+", , ,V50 Humanity has a bright future vs Humanity has a bleak future, , , 
+002_018,B018,"Environmental problems in your community: Poor water quality. 
+", , , , ,V108 Environmental problems in your community: Poor water quality, 
+002_019,B019,"Environmental problems in your community: Poor air quality. 
+", , , , ,V109 Environmental problems in your community: Poor air quality., 
+002_020,B020,"Environmental problems in your community: Poor sewage and sanitation. 
+", , , , ,V110 Environmental problems in your community: Poor sewage and sa, 
+002_021,B021,"Environmental problems in the world: Global warming or the greenhouse effect. 
+", , , , ,V111 Environmental problems in the world: Global warming or the g, 
+002_022,B022,"Environmental problems in the world: Loss of plant or animal species or biodiversity. 
+", , , , ,V112 Environmental problems in the world: Loss of plant or animal, 
+002_023,B023,"Environmental problems in the world: Pollution of rivers, lakes and oceans. 
+", , , , ,"V113 Environmental problems in the world: Pollution of rivers, la", 
+002_030,b030,"Past two years: given money to ecological organization 
+", , , , , ,V82 Past two years: given money to ecological organization
+002_031,b031,"Past two years: participated in demonstration for environment 
+", , , , , ,V83 Past two years: participated in demonstration for environment
+003,,"Work 
+", , , ,,, 
+003_001,C001,"Jobs scarce: Men should have more right to a job than women 
+", ,v128 Jobs scarce: Men should have more right to a job than women,"V61 Unemployment: When jobs are scarce, men should have more right to a job than women",v78 When job are scarce men should have more right to a job than women,V44 When jobs are scare men should have more right to a job tha,"V45 When jobs are scarce, men should have more right to a job than women"
+003_002,C002,"Jobs scarce: Employers should give priority to (nation) people than immigrants 
+", ,v130 Jobs scarce: Employers should give priority to (nation) people than immigrants,V63 Unemployment: Jobs for our nationality,v79 Employers should give priority to (nation) people than immigrants,V45 Employers should give priority to (nation) people than immig,"V46 When jobs are scarce, employers should give priority to people of this country over immigrants."
+003_004,C004,"Jobs scarce: older people should be forced to retire 
+", ,v129 Jobs scarce: older people should be forced to retire,"V62 Unemployment: When jobs are scarce, older people should be forced to retire from work early", , , 
+003_005,C005,"Unfair to give work to handicapped people when able bodied people can´t find jobs 
+", ,v131 Unfair to give work to handicapped people when able bodied people can´t find jobs, , , , 
+003_006,C006,"Satisfaction with financial situation of household 
+",v64 Satisfaction with financial situation of household,v132 Satisfaction with financial situation of household,V64 Financial satisfaction,v80 Satisfied or dissatisfied with the financial situation of your household,V68 Satisfaction with the financial situation of household,V59 Satisfaction with financial situation of household
+003_008,C008,"Work compared with Leisure 
+", , ,V72 Work vs leisure,v83 Weight you place on work, , 
+003_009,C009,"First choice, if looking for a job 
+", , ,v73 important in job 1,"v84 Place first, if  looking for a job","V48 First choice, if looking for a job", 
+003_010,C010,"Second choice if looking for a job 
+", , ,V74 important in job 2,v85 Second choice if looking for a job,V49 Second choice if looking for a job, 
+003_011,C011,"Important in a job: good pay 
+",v75 Important in a job: good pay,v99 Important in a job: good pay,V75 Job: Good pay,v86 Important in a job: good pay, , 
+003_012,C012,"Important in a job: not too much pressure 
+",v76 Important in a job: not too much pressure,v101 Important in a job: not too much pressure,V76 Job: Not too much pressure,v87 Important in job: Not too much pressure, , 
+003_013,C013,"Important in a job: good job security 
+",v77 Important in a job: good job security,v102 Important in a job: good job security,V77 Job: Good job security,v88 Important in job: Good job security, , 
+003_014,C014,"Important in a job: a respected job 
+",v78 Important in a job: a respected job,v104 Important in a job: a respected job,V78 Job: A job respected by people in general,v89 Important in job: A job respected, , 
+003_015,C015,"Important in a job: good hours 
+",v79 Important in a job: good hours,v105 Important in a job: good hours,V79 Job: Good hours,v90 Important in job: Good hours, , 
+003_016,C016,"Important in a job: an opportunity to use initiative 
+",v80 Important in a job: an opportunity to use initiative,v106 Important in a job: an opportunity to use initiative,V80 Job: An opportunity to use initiative,v91 Important in job: An opportunity to use initiative, , 
+003_017,C017,"Important in a job: generous holidays 
+",v81 Important in a job: generous holidays,v108 Important in a job: generous holidays,V81 Job: Generous holidays,v92 Important in job: Generous holidays, , 
+003_018,C018,"Important in a job: that you can achieve something 
+",v82 Important in a job: that you can achieve something,v110 Important in a job: that you can achieve something,V82 Job: A job in which you feel you can achieve something,v93 Important in job: You can achieve something, , 
+003_019,C019,"Important in a job: a responsible job 
+",v83 Important in a job: a responsible job,v111 Important in a job: a responsible job,V83 Job: A responsible job,v94 Important in job: A responsible job, , 
+003_020,C020,"Important in a job: a job that is interesting 
+",v84 Important in a job: a job that is interesting,v112 Important in a job: a job that is interesting,V84 Job: A job that is interesting,v95 Important in job: A job that is interesting, , 
+003_021,C021,"Important in a job: a job that meets one´s abilities 
+",v85 Important in a job: a job that meets one´s abilities,v113 Important in a job: a job that meets one´s abilities,V85 Job: A job that meets one's abilities,v96 Important in job: A job that meets one´s abilities, , 
+003_022,C022,"Important in a job: pleasant people to work with 
+", ,v100 Important in a job: pleasant people to work with, , , , 
+003_023,C023,"Important in a job: good chances for promotion 
+", ,v103 Important in a job: good chances for promotion, , , , 
+003_024,C024,"Important in a job: a useful job for society 
+", ,v107 Important in a job: a useful job for society, , , , 
+003_025,C025,"Important in a job: meeting people 
+", ,v109 Important in a job: meeting people, , , , 
+003_028,C028,"Important in a job: none of these 
+", ,v114 Important in a job: none of these, , , , 
+003_031,C031,"Degree of pride in your work 
+", ,v115 Degree of pride in your work, , , , 
+003_033,C033,"Job satisfaction 
+", ,v116 Job satisfaction, , , , 
+003_034,C034,"Freedom decision taking in job 
+", ,v117 Freedom decision taking in job, , , , 
+003_036,C036,"To develop talents you need to have a job 
+", , , ,v97 To develop talents you need to have a job,V50 To develop talents you need to have a job, 
+003_037,C037,"Humiliating to receive money without having to work for it 
+", , , ,v98 It´s humiliating to receive money without having to work for it,V51 It´s humiliating to receive money without having to work for, 
+003_038,C038,"People who don´t work turn lazy 
+", , , ,v99 People who don´t work turn lazy,V52 People who don´t work turn lazy, 
+003_039,C039,"Work is a duty towards society 
+", , , ,v100 Work is a duty towards society,V53 Work is a duty towards society, 
+003_040,C040,"People should not have to work if they don´t want to 
+", , , ,v101 Not  work if they don´t want to, , 
+003_041,C041,"Work should come first even if it means less spare time 
+", , , ,v102 Work should always come first,V54 Work should always come first even if it means less spare ti, 
+003_042,C042B1,"Why people work: work is like a business transaction 
+", ,v118 Why people work: work is like a business transaction, , , , 
+003_043,C042B2,"Why people work: I do the best I can regardless of pay 
+", ,v119 Why people work: I do the best I can regardless of pay, , , , 
+003_044,C042B3,"Why people work: I wouldn’t work if I didn’t have to 
+", ,v120 Why people work: I wouldn’t work if I didn’t have to, , , , 
+003_045,C042B4,"Why people work: I wouldn´t work if work interfered my life 
+", ,v121 Why people work: I wouldn´t work if work interfered my life, , , , 
+003_046,C042B5,"Why people work: work most important in my life 
+", ,v122 Why people work: work most important in my life, , , , 
+003_047,C042B6,"Why people work: I never had a paid job 
+", ,v123 Why people work: I never had a paid job, , , , 
+003_048,C042B7,"Why people work: don’t know 
+", ,v124 Why people work: don’t know, , , , 
+003_059,C059,"Fairness: One secretary is paid more 
+",v86 Fairness: One secretary is paid more,v125 Fairness: One secretary is paid more,V86 Efficient secretary is paid more,v103 One secretary is paid more,V115 One secretary is paid more, 
+003_060,C060,"How business and industry should be managed 
+",v87 How business and industry should be managed,v126 How business and industry should be managed,V87 How business and industry should be managed,v104 How business should be managed, , 
+003_061,C061,"Following instructions at work 
+",v88 Following instructions at work,v127 Following instructions at work,v88 Following instructions at work,v105 Following instructions at work, , 
+003_062,C062,"Work: until satisfied with results 
+", , ,V67 Work: I almost always continue to work on a task until I am satisfied with the result, , , 
+003_063,C063,"Work: accomplish personal goals 
+", , ,V68 Work: I feel disappointed in myself when I don't accomplish my personal goals, , , 
+003_064,C064,"Work: stay up late to finish 
+", , ,V69 Work: I like work so much that I often stay up late at night to finish it, , , 
+004,,"Family 
+", , , ,,, 
+004_001,D001,"How much do you trust your family 
+", ,v340 How much do you trust your family, , , , 
+004_002,D001_B,"How much you trust: Your family (B) 
+", , , , ,V125 How much do you trust your family,V102 How much you trust: Your family
+004_003,D002,"Satisfaction with home life 
+", ,v180 Satisfaction with home life, , , , 
+004_004,D003,"Sharing with partner: attitudes towards religion 
+", ,v183 Sharing with partner: attitudes towards religion, , , , 
+004_005,D004,"Sharing with partner: moral standards 
+", ,v184 Sharing with partner: moral standards, , , , 
+004_006,D005,"Sharing with partner: social attitudes 
+", ,v185 Sharing with partner: social attitudes, , , , 
+004_007,D006,"Sharing with partner: political views 
+", ,v186 Sharing with partner: political views, , , , 
+004_008,D007,"Sharing with partner: sexual attitudes 
+", ,v187 Sharing with partner: sexual attitudes, , , , 
+004_009,D008,"Sharing with partner: no sharing attitudes 
+", ,v188 Sharing with partner: no sharing attitudes, , , , 
+004_010,D009,"Sharing with partner: don´t know or missing 
+", ,v189 Sharing with partner: don´t know or missing, , , , 
+004_011,D010,"Sharing with parents: attitudes towards religion 
+", ,v190 Sharing with parents: attitudes towards religion, , , , 
+004_012,D011,"Sharing with parents: moral standards´ 
+", ,v191 Sharing with parents: moral standards´, , , , 
+004_013,D012,"Sharing with parents: social attitudes 
+", ,v192 Sharing with parents: social attitudes, , , , 
+004_014,D013,"Sharing with parents: political views 
+", ,v193 Sharing with parents: political views, , , , 
+004_015,D014,"Sharing with parents: sexual attitudes 
+", ,v194 Sharing with parents: sexual attitudes, , , , 
+004_016,D015,"Sharing with parents: no sharing attitudes 
+", ,v195 Sharing with parents: no sharing attitudes, , , , 
+004_017,D016,"Sharing with parents: don´t know or missing 
+", ,v196 Sharing with parents: don´t know or missing, , , , 
+004_018,D017,"Ideal number of children 
+",v91 Ideal number of children,v213 Ideal number of children,V91 Ideal number children,v108 Ideal size of the family, , 
+004_019,D018,"Child needs a home with father and mother 
+",v92 Child needs a home with father and mother,v214 Child needs a home with father and mother,V92 Child needs both parents,v109 Child needs a home with father and mother,V57 Child needs a home with father and mother, 
+004_020,D019,"A woman has to have children to be fulfilled 
+",v93 A woman has to have children to be fulfilled,v215 A woman has to have children to be fulfilled,V93 Woman needs children,v110 Woman has to have children, , 
+004_023,D022,"Marriage is an out-dated institution 
+",v94 Marriage is an out-dated institution,v216 Marriage is an out-dated institution,V94 Marriage is outdated,v111 Marriage is an out-dated institution,V58 Marriage is an out-dated institution, 
+004_024,D023,"Woman as a single parent 
+",v96 Woman as a single parent,v217 Woman as a single parent,V96 Woman as single parent,v112 Woman as a single parent,V59 Woman as a single parent, 
+004_025,D024,"Enjoy sexual freedom 
+",v95 Enjoy sexual freedom,v197 Enjoy sexual freedom,V95 Enjoy sexual freedom, , , 
+004_026,D025,"If only one child allowed: boy or girl 
+", , ,v97 If only one child allowed: boy or girl, , , 
+004_028,D027,"Important for succesful marriage: Faithfulness 
+", ,v198 Important for succesful marriage: Faithfulness, , , , 
+004_029,D028,"Important for succesful marriage: Adequate income 
+", ,v199 Important for succesful marriage: Adequate income, , , , 
+004_030,D029,"Important for succesful marriage: Same social background 
+", ,v200 Important for succesful marriage: Same social background, , , , 
+004_031,D030,"Important for succesful marriage: Respect and appreciation 
+", ,v201 Important for succesful marriage: Respect and appreciation, , , , 
+004_032,D031,"Important for succesful marriage: Religious beliefs 
+", ,v202 Important for succesful marriage: Religious beliefs, , , , 
+004_033,D032,"Important for succesful marriage: Good housing 
+", ,v203 Important for succesful marriage: Good housing, , , , 
+004_034,D033,"Important for succesful marriage: Agreement on politics 
+", ,v204 Important for succesful marriage: Agreement on politics, , , , 
+004_035,D034,"Important in succesful marriage: Understanding and tolerance 
+", ,v205 Important in succesful marriage: Understanding and tolerance, , , , 
+004_036,D035,"Important for succesful marriage: Apart from in-laws 
+", ,v206 Important for succesful marriage: Apart from in-laws, , , , 
+004_037,D036,"Important for succesful marriage: Happy sexual relationship 
+", ,v207 Important for succesful marriage: Happy sexual relationship, , , , 
+004_038,D037,"Important for succesful marriage: Sharing household chores 
+", ,v208 Important for succesful marriage: Sharing household chores, , , , 
+004_039,D038,"Important for succesful marriage: Children 
+", ,v209 Important for succesful marriage: Children, , , , 
+004_044,D043,"Important for succesful marriage: Tastes and interests in common 
+", ,v210 Important for succesful marriage: Tastes and interests in common, , , , 
+004_056,D054,"One of main goals in life has been to make my parents proud 
+", , ,V70 Work: One of my main goals in life has been to make my parents proud,v113 Parents proud me,V64 One of main goals in life has been to make my parents proud,V49 One of my main goals in life has been to make my parents proud
+004_057,D055,"Make effort to live up to what my friends expect 
+", , ,V71 Work: I make a lot of effort to live up to what my friends expect,v114 Live up to what my friends expect,V66 Live up to what my friends expect, 
+004_058,D056,"Relationship working mother 
+", ,v218 Relationship working mother,V98 A working mother can establish just as warm and secure a relationship with her children as a mother who does not work,v115 A working mother relationship, , 
+004_059,D057,"Being a housewife just as fulfilling 
+", ,v221 Being a housewife just as fulfilling,V99 Being a housewife is just as fulfilling as working for pay,v116 Being a housewife fulfilling,V60 Being a housewife fulfilling,V54 Being a housewife is just as fulfilling as working for pay
+004_060,D058,"Husband and wife should both contribute to income 
+", ,v223 Husband and wife should both contribute to income,V100 Both the husband and wife should contribute to household income,v117 Husband and wife should contribute, , 
+004_061,D059,"Men make better political leaders than women do 
+", , ,"V101 On the whole, men make better political leaders than women do",v118 Men make better political leaders,V61 Men make better political leaders,"V51 On the whole, men make better political leaders than women do"
+004_062,D060,"University is more important for a boy than for a girl 
+", , ,V103 A university education is more important for a boy than for a girl,v119 University is more important for a boy,V62 University is more important for a boy,V52 A university education is more important for a boy than for a girl
+004_063,D061,"Pre-school child suffers with working mother 
+", ,v219 Pre-school child suffers with working mother, , , ,"V50 When a mother works for pay, the children suffer"
+004_064,D062,"Women want a home and children 
+", ,v220 Women want a home and children, , , , 
+004_065,D063,"Job best way for women to be independent 
+", ,v222 Job best way for women to be independent, , , , 
+004_065_001,D063_B,"Job best way for women to be independent (b) 
+", , , , , ,V48 Having a job is the best way for a woman to be an independent person.
+004_068,D066,"Problem if women have more income than husband 
+", , ,"V102 If a women earns more money than her husband, it's almost certain to cause problems", , , 
+004_068_001,D066_B,"Problem if women have more income than husband (B) 
+", , , , , ,"V47 If a woman earns more money than her husband, it's almost certain to cause problems"
+004_069,D067,"Traits in a woman: Woman wearing weil 
+", , , ,iv81 Woman: wearing weil, , 
+004_070,D068,"Traits in a woman: Woman good mother 
+", , , ,iv82 Woman: good mother, , 
+004_071,D069,"Traits in a woman: Woman good wife 
+", , , ,iv83 Woman: good wife, , 
+004_072,D070,"Traits in a woman: Woman religious 
+", , , ,iv84 Woman: religious, , 
+004_073,D071,"Traits in a woman: Woman educated 
+", , , ,iv85 Woman: educated, , 
+004_074,D072,"Traits in a woman: Woman being independent 
+", , , ,iv88 Woman: being independent, , 
+004_075,D073,"Traits in a woman: Woman having work outside home 
+", , , ,iv89 Woman: having work outside the home, , 
+004_076,D074,"Traits in a woman: Woman maintaining her family 
+", , , ,iv90 Woman: maintaining her family, , 
+004_077,D075,"Traits in a woman: Woman being sociable 
+", , , ,iv91 Woman: being sociable, , 
+004_078,D076,"More than one wife 
+", , , ,iv86 More than one wife, , 
+004_079,D077,"Wife must obey 
+", , , ,iv87 Wife must obey, , 
+004_080,D078,"Men make better business executives than women do 
+", , , , ,V63 Men make better business executives than women do,"V53 On the whole, men make better  business executives than women do"
+004_081,D079,"I seek to be myself rather than to follow others 
+", , , , ,V65 I seek to be myself rather than to follow others, 
+004_082,D080,"I decide my goals in life by myself 
+", , , , ,V67 I decide my goals in life by myself, 
+005,,"Politics and Society 
+", , , ,,, 
+005_001,E001,"Aims of country: first choice 
+", ,v257 Aims of country: first choice,V104 Aims of country: first choice,v120 Aims of country: First choice,V69 Aims of country: first choice,V60 Aims of country: first choice
+005_001_001,E001_HK,"Aims of country: first choice (HK) 
+", , , , ,V69_HK Aims of country: first choice (Hong-Kong), 
+005_002,E002,"Aims of country: second choice 
+", ,v258 Aims of country: second choice,v105 Aims of country: second choice,v121 Aims of country: Second choice,V70 Aims of country: second choice,V61 Aims of country: second choice
+005_002_001,E002_HK,"Aims of country: second choice (HK) 
+", , , , ,V70_HK Aims of country: second choice (Hong-Kong), 
+005_003,E003,"Aims of respondent: first choice 
+",v106 Aims of respondent: first choice,v259 Aims of respondent: first choice,v106 Aims of respondent: first choice,v122 Aims of respondent: First choice,V71 Aims of respondent: first choice,V62 Aims of respondent: first choice
+005_004,E004,"Aims of respondent: second choice 
+",v107 Aims of respondent: second choice,v260 Aims of respondent: second choice,v107 Aims of respondent: second choice,v123 Aims of respondent: Second choice,V72 Aims of respondent: second choice,V63 Aims of respondent: second choice
+005_005,E005,"Most important: first choice 
+", ,v261 Most important: first choice,v108 Most important: first choice,v124 Most important: First choice,V73 Most important: first choice,V64 Most important: first choice
+005_005_001,E005_HK,"Most important: second choice (HK) 
+", , , , ,V74_HK Most important: second choice (Hong-Kong), 
+005_006,E006,"Most important: second choice 
+", ,v262 Most important: second choice,v109 Most important: second choice,v125 Most important: Second choice,V74 Most important: second choice,V65 Most important: second choice
+005_006_001,E006_HK,"Most important: first choice (HK) 
+", , , , ,V73_HK Most important: first choice (Hong-Kong), 
+005_007,E007,"National goals: Maintaining order in the nation 
+", , ,V237A National goals: Maintain order in the nation, , , 
+005_008,E008,"National goals: Giving people more say 
+", , ,V237B National goals: Giving people more say in important government decisions, , , 
+005_009,E009,"National goals: Fighting rising prices 
+", , ,V237C National goals: Fighting rising prices, , , 
+005_010,E010,"National goals: free speech 
+", , ,V237D National goals: Protecting freedom of speech, , , 
+005_012,E012,"Willingness to fight for country 
+",v110 Willingness to fight for country,v263 Willingness to fight for country,v110 Willing to fight in war,v126 Be willing to fight for your country,V75 Be willing to fight in war for your country,V66 Willingness to fight for your country
+005_014,E014,"Future changes: Less emphasis on money and material possessions 
+",v111 Future changes: Less emphasis on money and material possessions,v264 Future changes: Less emphasis on money and material possessions,V111 Future: Less emphasis on money and material possessions,v127 Less emphasis on money, , 
+005_015,E015,"Future changes: Less importance placed on work 
+",v112 Future changes: Less importance placed on work,v265 Future changes: Less importance placed on work,V112 Future: Less importance placed on work in our lives,v128 Less importance placed on work,V76 Less importance placed on work,V67 Future changes: Less importance placed on work in our lives
+005_016,E016,"Future changes: More emphasis on technology 
+",v113 Future changes: More emphasis on technology,v266 Future changes: More emphasis on technology,V113 Future: More emphasis on the development of technology,v129 More emphasis on technology,V77 More emphasis on technology,V68 Future changes: More emphasis on the development of  technology
+005_017,E017,"Future changes: More emphasis on individual 
+", ,v267 Future changes: More emphasis on individual, , , , 
+005_018,E018,"Future changes: Greater respect for authority 
+",v114 Future changes: Greater respect for authority,v268 Future changes: Greater respect for authority,V114 Future: Greater respect for authority,v130 Greater respect for authority,V78 Greater respect for authority,V69 Future changes: Greater respect for authority
+005_019,E019,"Future changes: More emphasis on family life 
+",v115 Future changes: More emphasis on family life,v269 Future changes: More emphasis on family life,V115 Future: More emphasis on family life,v131 More emphasis on family life,V79 More emphasis on family life, 
+005_020,E020,"Future changes: A simple and more natural lifestyle 
+", ,v270 Future changes: A simple and more natural lifestyle, , , , 
+005_022,E022,"Opinion about scientific advances 
+",v116 Opinion about scientific advances,v271 Opinion about scientific advances,"V116 In the long run, do you think the scientific advances we are making will help or harm mankind",v132 Opinion about scientific advance,V90 Opinion about scientific advance, 
+005_023,E023,"Interest in politics 
+",v117 Interest in politics,v241 Interest in politics,V117 How interested would you say you are in politics,v133 Interested in politics,V95 Interested in politics,V84 Interest in politics
+005_025,E025,"Political action: signing a petition 
+",v118 Political action: signing a petition,v242 Political action: signing a petition,V118 Political Particicpation: Signing a petition,v134 Signing a petition,V96 Political action: signing a petition,V85 Political action: Signing a petition
+005_026,E025B,"Political action recently done: signing a petition 
+", , , , ,V100 Political action recently done: signing a petition,V90 Political action recently done: Signing a petition
+005_027,E026,"Political action: joining in boycotts 
+",v119 Political action: joining in boycotts,v243 Political action: joining in boycotts,V119 Political Participation: Joining in boycotts,v135 Joining in boycotts,V97 Political action: joining in boycotts,V86 Political action: Joining in boycotts
+005_028,E026B,"Political action recently done: joining in boycotts 
+", , , , ,V101 Political action recently done: joining in boycotts,V91 Political action recently done: Joining in boycotts
+005_029,E027,"Political action: attending lawful/peaceful demonstrations 
+",v120 Political action: attending lawful/peaceful demonstrations,v244 Political action: attending lawful/peaceful demonstrations,V120 Political Participation: Attending lawful demonstrations,v136 Attending lawful demonstrations,V98 Political action: Attending peaceful demonstrations,V87 Political action: Attending peaceful demonstrations
+005_030,E028,"Political action: joining unofficial strikes 
+",v121 Political action: joining unofficial strikes,v245 Political action: joining unofficial strikes,V121 Political Participation: Joining unofficial strikes,v137 Joining unofficial strikes, ,V88 Political action: Joining strikes
+005_031,E028B,"Political acition recently done: Joining strikes 
+", , , , , ,V93 Political acition recently done: Joining strikes
+005_032,E029,"Political action: occupying buildings or factories 
+",v122 Political action: occupying buildings or factories,v246 Political action: occupying buildings or factories,V122 Political Participation: Occupying buildings or factories,v138 Occupying buildings, , 
+005_035,E032,"Freedom or equality 
+", ,v247 Freedom or equality, , , , 
+005_036,E033,"Self positioning in political scale 
+",v123 Self positioning in political scale,v248 Self positioning in political scale,V123 Left-Right self placement,v139 Political scale,V114 Self positioning in political scale,V95 Self positioning in political scale
+005_037,E034,"Basic kinds of attitudes concerning society 
+",v124 Basic kinds of attitudes concerning society,v249 Basic kinds of attitudes concerning society,V124 Modes of societal change,v140 Basic kinds of attitudes concerning society, , 
+005_038,E035,"Income equality 
+", ,v250 Income equality,v125 Income equality,v141 Incomes more equal,V116 Incomes more equal,V96 Income equality
+005_039,E036,"Private vs state ownership of business 
+", ,v251 Private vs state ownership of business,v126 Ownership of business,v142 Private ownership of business,V117 Private ownership of business,V97 Private vs state ownership of business
+005_040,E037,"Government responsibility 
+", ,v252 Government responsibility,V127 Responsibility to ensure that everyone is provided for,v143 Government more responsibility,V118 Government more responsibility,V98 Government responsibility
+005_041,E038,"Job taking of the unemployed 
+", ,v253 Job taking of the unemployed, , , , 
+005_042,E039,"Competition good or harmful 
+", ,v254 Competition good or harmful,V128 Competition is good or harmful,v144 Competition is good,V119 Competition is good,V99 Competition good or harmful
+005_043,E040,"Hard work brings success 
+", ,v255 Hard work brings success,V129 Hard work or luck bring a better life, ,V120 Hard work,V100 Hard work brings success
+005_044,E041,"Wealth accumulation 
+", ,v256 Wealth accumulation,V130 Wealth accumulation, ,V121 Wealth accumulation,V101 Wealth accumulation
+005_048,E045,"Major changes in life 
+", ,v323 Major changes in life,V131 Making changes cautiously or boldly, , , 
+005_049,E046,"New and old ideas 
+", ,v324 New and old ideas,V132 New vs old ideas,v145 New ideas are better than old ones, , 
+005_050,E047,"Personal characteristics: Changes, worry or welcome possibility 
+", ,"v325 Personal characteristics: Changes, worry or welcome possibility", , , , 
+005_051,E048,"Personal characteristics: I usually count on being successful in everything I do 
+", ,v326 Personal characteristics: I usually count on being successful in everything I do, , , , 
+005_052,E049,"Personal characteristics: I enjoy convincing others of my opinion 
+", ,v327 Personal characteristics: I enjoy convincing others of my opinion, , , , 
+005_053,E050,"Personal characteristics: I serve as a model for others 
+", ,v328 Personal characteristics: I serve as a model for others, , , , 
+005_054,E051,"Personal characteristics: I am good at getting what I want 
+", ,v329 Personal characteristics: I am good at getting what I want, , , , 
+005_055,E052,"Personal characteristics: I own many things others envy me for 
+", ,v330 Personal characteristics: I own many things others envy me for, , , , 
+005_056,E053,"Personal characteristics: I like to assume responsibility 
+", ,v331 Personal characteristics: I like to assume responsibility, , , , 
+005_057,E054,"Personal characteristics: I am rarely unsure about how I should behave 
+", ,v332 Personal characteristics: I am rarely unsure about how I should behave, , , , 
+005_058,E055,"Personal characteristics: I often give others advice 
+", ,v333 Personal characteristics: I often give others advice, , , , 
+005_059,E056,"Personal characteristics: None of the above 
+", ,v334 Personal characteristics: None of the above, , , , 
+005_060,E057,"The economic system needs fundamental changes 
+", ,v335 The economic system needs fundamental changes, , , , 
+005_061,E058,"Our government should be made much more open to the public 
+", ,v336 Our government should be made much more open to the public, , , , 
+005_062,E059,"Allow more freedom for individuals 
+", ,v337 Allow more freedom for individuals, , , , 
+005_063,E060,"I could do nothing about an unjust law 
+", ,v338 I could do nothing about an unjust law, , , , 
+005_064,E061,"Political reform is moving too rapidly 
+", ,v339 Political reform is moving too rapidly, , , , 
+005_065,E062,"Importation of goods 
+", , ,V133 Import goods or strictly limite foreign goods, , , 
+005_066,E063,"Current society: Egalitarian vs. competitive society 
+", , , ,v145a Egalitarian vs. Competitive society, , 
+005_067,E064,"Current society: Extensive welfare vs. low taxes 
+", , , ,v145b Extensive Welfare vs. Low Taxes, , 
+005_068,E065,"Current society: Regulated vs. responsible society 
+", , , ,v145c Regulated vs. Responsible society, , 
+005_069,E066,"Society aimed:  egalitarian vs. competitive 
+", , , ,v145d Should: Egalitarian vs. Competitive, , 
+005_070,E067,"Society aimed: extensive welfare vs. low taxes 
+", , , ,v145e Should: Extensive welfare or Low taxes, , 
+005_071,E068,"Society aimed: regulated vs. responsible society 
+", , , ,v145f Should: Regulated - Responsible, , 
+005_072_001,E069_01,"Confidence: Churches 
+",v135 Confidence: Churches,v272 Confidence: Churches,V135 Confidence:The churches,v147 Confidence: churches,V131 Confidence: Churches,V108 Confidence: The Churches
+005_072_002,E069_02,"Confidence: Armed Forces 
+",v136 Confidence: Armed Forces,v273 Confidence: Armed Forces,V136 Confidence: The armed forces,v148 Confidence: armed forces,V132 Confidence: Armed Forces,V109 Confidence: The armed forces
+005_072_003,E069_03,"Confidence: Education System 
+", ,v274 Confidence: Education System, , ,V146_11 Confidence: Education System, 
+005_072_004,E069_04,"Confidence: The Press 
+",v138 Confidence: The Press,v276 Confidence: The Press,V138 Confidence: The press,v149 Confidence: The press,V133 Confidence: The Press,V110 Confidence: The press
+005_072_005,E069_05,"Confidence: Labour Unions 
+",v140 Confidence: Labour Unions,v277 Confidence: Labour Unions,V140 Confidence: Labor Unions,v151 Confidence: Labor unions,V135 Confidence: Labour Unions,V112 Confidence: Labour Unions
+005_072_006,E069_06,"Confidence: The Police 
+",v141 Confidence: The Police,v278 Confidence: The Police,V141 Confidence: The police,v152 Confidence: The police,V136 Confidence: The Police,V113 Confidence: The police
+005_072_007,E069_07,"Confidence: Parliament 
+",v144 Confidence: Parliament,v279 Confidence: Parliament,V144 Confidence: Parliament,v155 Confidence: Parliament,V140 Confidence: Parliament,V117 Confidence: Parliament
+005_072_008,E069_08,"Confidence: The Civil Services 
+",v145 Confidence: The Civil Services,v280 Confidence: The Civil Services,V145 Confidence: The civil service,v156 Confidence: The Civil service,V141 Confidence: The Civil Services,V118 Confidence: The Civil service
+005_072_009,E069_09,"Confidence: Social Security System 
+", ,v282 Confidence: Social Security System, , , , 
+005_072_010,E069_10,"Confidence: Television 
+", ,v283 Confidence: Television,V139 Confidence: Television,v150 Confidence: Television,V134 Confidence: Television,V111 Confidence: Television
+005_072_011,E069_11,"Confidence: The Government 
+", ,v289 Confidence: The Government,V142 Confidence: The national government,v153 Confidence: The government,V138 Confidence: The Government,V115 Confidence: The government (in your nation’s capital)
+005_072_012,E069_12,"Confidence: The Political Parties 
+", ,v285 Confidence: The Political Parties,V143 Confidence: Political Parties,v154 Confidence: The political parties,V139 Confidence: The Political Parties,V116 Confidence: Political Parties
+005_072_013,E069_13,"Confidence: Major Companies 
+",v146 Confidence: Major Companies,v281 Confidence: Major Companies,V146 Confidence: Major Companies,v157 Confidence: Major companies,V142 Confidence: Major Companies,V120 Confidence: Major Companies
+005_072_014,E069_14,"Confidence: The Environmental Protection Movement 
+", , ,V147 Confidence: The Green/Ecology movement,v158 Confidence: The Environmental Protection movement,V143 Confidence: The Environmental Protection Movement,V122 Confidence: Environmental organizations
+005_072_015,E069_15,"Confidence: The Women´s Movement 
+", , ,V148 Confidence: The women's movement,v159 Confidence: The women´s movement,V144 Confidence: The Women´s Movement,V123 Confidence: Women's organizations
+005_072_017,E069_17,"Confidence: Justice System/Courts 
+",v137 Confidence: Justice System,v275 Confidence: Justice System,V137 Confidence: The legal system, ,V137 Confidence: Justice System,V114 Confidence: The courts
+005_072_018,E069_18,"Confidence: The European Union 
+", ,v283b Confidence: The European Union,V149_00 Confidence: The European Union,v160 Confidence: The European Union,V146_00 Confidence: The European Union,V125_00 Confidence: The European Union
+005_072_019,E069_19,"Confidence: NATO 
+", ,v284 Confidence: NATO, ,v161 Confidence: NATO,V146_01 Confidence: NATO, 
+005_072_020,E069_20,"Confidence: The United Nations 
+", , ,V150 Confidence: United Nations,v162 Confidence: The United Nations,V147 Confidence: The United Nations,V126 Confidence: The United Nations
+005_072_021,E069_21,"Confidence: The Arab League 
+", , , ,v160b Confidence: The Arab League,V146_02 Confidence: The Arab League,V125_15 Confidence: The Arab League
+005_072_022,E069_22,"Confidence: The Association of South East Asian Nations -ASEAN 
+", , ,V149_06 Confidence: The Association of South East Asian Nations -ASEAN,v160c Confidence: The Association of South East Asian Nations -ASEAN, ,V125_09 Confidence: The ASEAN (Association of South East Asian Nations)
+005_072_023,E069_23,"Confidence: The Organization for African Unity-OAU 
+", , ,V149_04 Confidence: The Organization for African Unity-OAU,v160d Confidence: The Organization for African Unity-OAU,V146_04 Confidence: The Organisation for African Unity-OAU,V125_08 Confidence: The African Union
+005_072_024,E069_24,"Confidence: The NAFTA 
+", , ,V149_07 Confidence: The NAFTA,v160e Confidence: The NAFTA,V146_05 Confidence: The NAFTA,V125_05 Confidence: The NAFTA  (North American Free Trade Agreement)
+005_072_025,E069_25,"Confidence: The Andean pact 
+", , ,V149_09 Confidence: The Andean Pact,v160f Confidence: The Andean Pact, , 
+005_072_026,E069_26,"Confidence: The Mercosur 
+", , ,V149_01 Confidence: The Mercosur,v160g Confidence: The Mercosur,V146_06 Confidence: The Mercosur,V125_06 Confidence: The MERCOSUR
+005_072_027,E069_27,"Confidence: The SAARC 
+", , ,V149_02 Confidence: South Asian Association Regional Cooperation SAARC,v160h Confidence: The SAARC, ,V125_12 Confidence: SAARC
+005_072_028,E069_28,"Confidence: The ECO 
+", , , ,v160i Confidence: The ECO, , 
+005_072_029,E069_29,"Confidence: The APEC 
+", , ,V149_03 Confidence: The APEC,v160j Confidence: The APEC,V146_07 Confidence: The APEC,V125_01 Confidence: The APEC (Asia-Pacific Economic Cooperation Conference)
+005_072_030,E069_30,"Confidence: The Free Commerce Treaty (Tratado de libre comercio) 
+", , ,V149_08 Confidence: The Tratado de Libre Comercio,v160k Confidence: The Tratado de Libre Comercio, ,V125_14 Confidence: The Free Commerce Treaty (Tratado de libre comercio)
+005_072_031,E069_31,"Confidence: The United American States Organization (Organización de Estados Unidos Americanos - OEA) 
+", , ,V149_05 Confidence: The Organización de Estados Americanos (OEA),v160l Confidence: The Organización de Estados Americanos (OEA),V146_08 Confidence: The United American States Organization (Organiz, 
+005_072_032,E069_32,"Confidence: The “Movimiento en pro de Vieques”(Puerto Rico) 
+", , , ,v160m Confidence: The Movimiento en Pro de Vieques (Puerto Rico), , 
+005_072_033,E069_33,"Confidence: Local/Regional Government 
+", , , ,v160n Confidence: Local/Regional government,V146_09 Confidence: Local/Regional Government, 
+005_072_034,E069_34,"Confidence: SADC/SADEC 
+", , , ,v160o Confidence: SADC/ SADEC, , 
+005_072_035,E069_35,"Confidence: East African Cooperation (EAC) 
+", , , ,v160p Confidence: East African Cooperation (EAC), , 
+005_072_036,E069_36,"Confidence: Other television 
+", , , ,v160s Confidence: Other television, , 
+005_072_037,E069_37,"Confidence: The Americans 
+", , , ,v160t Confidende: American forces, , 
+005_072_038,E069_38,"Confidence: The Presidency 
+", , , ,v160q Confidence: The presidency, , 
+005_072_039,E069_39,"Confidence: The Civil Society Groups 
+", , , ,v160r Confidence: The civil society groups, , 
+005_072_040,E069_40,"Confidence: Charitable or humanitarian organizations 
+", , , , ,V145 Confidence: Charitable or humanitarian organizations,V124 Confidence: Charitable or humanitarian organizations
+005_072_041,E069_41,"Confidence: Banks 
+", , , , ,V146_15 Confidence: Banks,V121 Confidence: Banks
+005_072_042,E069_42,"Confidence: CARICOM 
+", , , , ,V146_19 Confidence: CARICOM,V125_02 Confidence: CARICOM
+005_072_043,E069_43,"Confidence: CIS 
+", , , , ,V146_14 Confidence: CIS,V125_07 Confidence: The CIS
+005_072_044,E069_44,"Confidence: Confidence in CER with Australia 
+", , , , ,V146_10 Confidence: Confidence in CER with Australia,V125_10 Confidence: The CER (closer economic relations) with Australia
+005_072_045,E069_45,"Confidence: International Monetary Found (IMF) 
+", , , , ,V146_18 Confidence: International Monetary Found (IMF), 
+005_072_046,E069_46,"Confidence: Non governmental Organizations (NGOs) 
+", , , , ,V146_17 Confidence: Non governmental Organizations (NGOs), 
+005_072_047,E069_47,"Confidence: The American Forces 
+", , , , ,V146_13 Confidence: The American Forces, 
+005_072_048,E069_48,"Confidence: The non-Iraqi television 
+", , , , ,V146_12 Confidence: The non-Iraqi television, 
+005_072_049,E069_49,"Confidence: TV News 
+", , , , ,V146_16 Confidence: TV News, 
+005_072_051,E069_51,"Confidence: Religious leaders 
+", , , , ,V146_20 Confidence: Religious leaders, 
+005_072_052,E069_52,"Confidence: Evangelic Church 
+", , , , ,V146_21 Confidence: Evangelical Church, 
+005_072_053,E069_54,"Confidence: Universities 
+", , , , , ,V119 Confidence: Universities
+005_072_054,E069_55,"Confidence: The Organization of the Islamic World 
+", , , , , ,V125_04 Confidence: The Organization of the Islamic World
+005_072_055,E069_56,"Confidence: The Organization of American States (OAE) 
+", , , , , ,V125_11 Confidence: The Organization of American States (OAE)
+005_072_056,E069_57,"Confidence: UNASUR 
+", , , , , ,V125_13 Confidence: UNASUR
+005_072_057,E069_58,"Confidence: The Arab Maghreb Union 
+", , , , , ,V125_03 Confidence: The Arab Maghreb Union
+005_072_058,E069_59,"Confidence: Cooperation Council for the Arab states of Gulf (GCC) 
+", , , , , ,V125_16 Confidence: Cooperation Council for the Arab states of Gulf (GCC)
+005_072_059,E069_60,"Confidence: Mainland government 
+", , , , , ,V125_17 Confidence: Mainland government
+005_073,E104,"Approval: Ecology movement or nature protection 
+", ,v290 Approval: Ecology movement or nature protection, , , , 
+005_074,E105,"Approval: Anti-nuclear energy movement 
+", ,v291 Approval: Anti-nuclear energy movement, , , , 
+005_075,E106,"Approval: Disarmament movement 
+", ,v292 Approval: Disarmament movement, , , , 
+005_076,E107,"Approval: Human rights movement 
+", ,v293 Approval: Human rights movement, , , , 
+005_077,E108,"Approval: Women’s movement 
+", ,v294 Approval: Women’s movement, , , , 
+005_078,E109,"Approval: Anti-apartheid movement 
+", ,v295 Approval: Anti-apartheid movement, , , , 
+005_079,E110,"Satisfaction with the way democracy develops 
+", , ,EE_167 Satisfaction with the way democracy is developing in your country,v168 Democracy is developing in our country, , 
+005_080,E111,"Rate political system for governing country 
+", , ,V152 Where on this scale would you put the political system as it is today,v163a Rate Political system today, , 
+005_081,E112,"Rate political system as it was before 
+", , ,V151 Rating: Previous political system,v163 Rate Political system 10 years ago, , 
+005_082,E113,"Rate political system in ten years 
+", , ,V153 Where on this scale would you put the political system as you expect it will be ten years from now?,v163b Rate Political system in 10 years, , 
+005_083,E114,"Political system: Having a strong leader 
+", , ,V154 Having a strong leader who does not have to bother with parliament and elections,v164 Having a strong leader,V148 Having a strong leader,V127 Political system: Having a strong leader who does not have  to bother with parliament and elections
+005_084,E115,"Political system: Having experts make decisions 
+", , ,"V155 Having experts, not government, make decisions according to what they think is best for the country",v165 Having experts,V149 Having experts make decisions,"V128 Political system: Having experts, not government, make decisions according to what they think is best for the country"
+005_085,E116,"Political system: Having the army rule 
+", , ,V156 Political system: Having the army rule,v166 Having the army rule,V150 Having the army rule,V129 Political system: Having the army rule
+005_086,E117,"Political system: Having a democratic political system 
+", , ,V157 Having a democratic political system,v167 Having a democratic political system,V151 Having a democratic political system,V130 Political system: Having a democratic political system
+005_086_001,E117_IQA,"Political system: Having an Islamic government, where religious authorities have absolute power 
+", , , , ,"V151_IQ_A Political system: Having an Islamic government, where religious authorities have absolute power", 
+005_086_002,E117_IQB,"Political system: Having an Arab socialist state 
+", , , , ,V151_IQ_B Political system: Having an Arab socialist state, 
+005_087,E118,"Firm party leader vs. Cooperating party leader 
+", , ,V158 Party leader behavior, , , 
+005_088,E119,"Government order vs. freedom 
+", , ,V159 Government responsibility: To maintain order in society vs respect freedom of the individual, , , 
+005_089,E120,"In democracy, the economic system runs badly 
+", , ,"V160 In democracy, the economic system runs badly","v169 In democracy , the economic system runs badly", , 
+005_090,E121,"Democracies are indecisive and have too much squabbling 
+", , ,V161 Democracies are indecisive and have too much squabbling,v170 Democracies are indecisive, , 
+005_091,E122,"Democracies aren´t good at maintaining order 
+", , ,V162 Democracies aren't good at maintaining order,v171 Democracies aren´t good, , 
+005_092,E123,"Democracy may have problems but is better 
+", , ,V163 Democracy may have problems but it's better than any other form of government,v172 Democracy may have problems but is better than any other form, , 
+005_093,E124,"Respect for individual human rights nowadays 
+", , ,EE_168 Respect for human rights in the country,v173 Respect for individual human rights,V164 Respect for individual human rights,V142 How much respect is there for individual human rights nowadays in this country
+005_094,E125,"Satisfaction with the people in national office 
+", , ,V165 Satisfaction with people in national office,v174 Agreement with the people in national office, , 
+005_095,E127,"Free market economy right for country future 
+", , ,EE_166 Creation of a free market economy is right or wrong for country’s future, , , 
+005_096,E128,"Country is run by big interest vs. for all people’s benefit 
+", ,v288 Country is run by big interest vs. for all people’s benefit,V166 Country is run by a few big interests looking out for themselves or that for the benefit of all the people,v175 Country is run by ..., , 
+005_097,E129,"Economic aid to poorer countries 
+", , , ,v176 Economic aid, , 
+005_098,E129A,"Amount of foreign aid of this country 
+", , , , ,V175 Amount of foreign aid of this country, 
+005_099,E129B,"How much more foreign aid this country should contribute 
+", , , , ,V176 How much more foreign aid this country should contribute, 
+005_100,E129C,"Be willing to pay higher taxes in order to increase country´s foreign aid 
+", , , , ,V177 Be willing to pay higher taxes in order to increase country´, 
+005_101,E129D,"Economic aid to poorer countries (favor/against) 
+", , ,V176 Economic aid to poorer countries, , , 
+005_102,E130,"Poverty compared to 10 years ago 
+", , ,V171 Poverty compared to 10 years ago, , , 
+005_103,E131,"Why are people in need 
+", , ,V172 Why are there people in this country who live in need, , , 
+005_104,E132,"Chance to escape from poverty 
+", , ,V173 Chance to escape from poverty, , , 
+005_105,E133,"How much is the government doing against poverty 
+", , ,V174 How much the government is doing for people in poverty in this country, , , 
+005_106,E134,"Amount of help for less developed countries 
+", , ,V175 Amount of help for less developed countries, , , 
+005_107,E135,"Who should decide: international peacekeeping 
+", , , ,v177 Who should decide: International peacekeeping,V179 Who should decide: international peacekeeping, 
+005_108,E136,"Who should decide: protection of the environment 
+", , , ,v178 Who should decide: Protection of the environment,V180 Who should decide: protection of the environment, 
+005_109,E137,"Who should decide: aid to developing countries 
+", , , ,v179 Who should decide: Aid to developing countries,V181 Who should decide: aid to developing countries, 
+005_110,E138,"Who should decide: refugees 
+", , , ,v180 Who should decide: Refugees,V182 Who should decide: refugees, 
+005_111,E139,"Who should decide: human rights 
+", , , ,v181 Who should decide: Human Rights,V183 Who should decide: human rights, 
+005_112,E140,"Country cannot solve environmental problems by itself 
+", , , ,v181a Country cannot solve environmental problems by itself, , 
+005_113,E141,"Country cannot solve crime problems by itself 
+", , , ,v181b Country cannot solve crime problems by itself, , 
+005_114,E142,"Country cannot solve employment problems by itself 
+", , , ,v181c Country cannot solve employment problems by itself, , 
+005_115,E143,"Immigrant policy 
+", , ,V134 Immigration policy,v146 Immigrant policy,V124 Immigrant policy, 
+005_122,E150,"How often follows politics in the news 
+", , , ,v217 How often follows politics in the news, , 
+005_151,E179,"Which party would you vote for: first choice 
+", ,v351 Which party would you vote for: first choice,V210 Which party would you vote for: First choice,V220 Which party would you vote: first choice (*),V231 Which party would you vote: first choice,V228 Which party would you vote for if there were a national election tomorrow
+005_152,E180,"Which party would you vote for: second choice 
+", ,v352 Which party would you vote for: second choice,V211 Which party would you vote for: Second choice,V221 Which party would you vote: second choice (*),V232 Which party would you vote: second choice,V228_2 Which party would you vote for if there were a national election tomorrow (2nd choice - optional)
+005_154,E182,"Party that would never vote 
+", , ,V212 Party that would never vote,V222 Party that would never vote (*),V233 Party that would never vote, 
+005_156,E184,"Aggression from neighbouring country 
+", , , ,iv186 Agression from neiboring country, , 
+005_157,E185,"Exploitation of local resources 
+", , , ,iv187 Expoitation of local resources, , 
+005_158,E186,"Cultural invasion by the west 
+", , , ,iv188 Cultural invasion by the west, , 
+005_160,E188,"Frequency watches TV 
+", , ,V228 Frequency watches TV,v237b Watch TV, , 
+005_161,E189,"TV most important entertainment 
+", , , ,v237 TV most important entertainment, , 
+005_162,E190,"Why are there people living in need: first 
+", ,v97 Why are there people living in need: first, , , , 
+005_163,E191,"Why are there people living in need: second 
+", ,v98 Why are there people living in need: second, , , , 
+005_164,E192,"Least liked group in society 
+", , ,V167 Least liked group in society, , , 
+005_165,E193,"Least liked allow: hold office 
+", , ,V168 Least liked group allowed to: Hold public office, , , 
+005_166,E194,"Least liked allow: teach 
+", , ,V169 Least liked group allowed to: Teach in our schools, , , 
+005_167,E195,"Least liked allow: demonstrate 
+", , ,V170 Least liked allowed to: Hold public demonstrations, , , 
+005_168,E196,"Extent of political corruption 
+", , ,V213 Extent of political corruption in this country, , , 
+005_170,E198,"Using violence for political goals not justified 
+", , ,V164 Using violence to pursue political goals is never justified, , , 
+005_171,E203,"Rapid implementation of market reforms have negative impact on national stability 
+", , , ,csalg133 Rapid implementation of market reforms have negative impact on national stability, , 
+005_172,E204,"Effect of market economic reforms 
+", , , ,csalg134 Opinion about market economic reforms, , 
+005_173,E205,"Political parties serve the social and political needs of people 
+", , , ,csalg150 Algerian political parties serve the social and political needs of Algerian people, , 
+005_174,E206,"Free and fair elections will reduce terrorism 
+", , , ,csalg152 Do you believe that free and fair elections will reduce terrorism?, , 
+005_175,E207,"[Country] should have close relations with France 
+", , , ,csalg158 Algeria should have close relations with France, , 
+005_176,E208,"[Country] should have close relations with United States 
+", , , ,csalg159 Algeria should have close relations with United States, , 
+005_177,E209,"Would persist to immigrate abroad if R´s economic situation was better 
+", , , ,csalg160 Would persist to inmigrate abroad if R´s economic situation was better, , 
+005_178,E211,"Opinion about the problem of Palestine and Israel 
+", , , ,isl17 Opinion about the problem of Palestine and Israel, , 
+005_179,E212,"Opinion about 11th september airliners crash action by religious fundamentalists 
+", , , ,isl18 Opinion about 11th september airliners crash action by religious fundamentalists, , 
+005_180,E213,"Woman should not work outside unless forced to do so 
+", , , ,isl20 Woman should not work outside unless forced to do so, , 
+005_181,E214,"Western democracy is the best political system for country 
+", , , ,isl21 Western democracy is the best political system for country, , 
+005_182,E215,"It is necessary to fight terrorism by military means 
+", , , ,isl23 It is necessary to fight terrorism by military means, , 
+005_183,E216,"[Country] needs foreign military cooperation to combat terrorism 
+", , , ,isl24 [Country] needs foreign military cooperation to combat terrorism, , 
+005_184,E217,"Science and technology are making our lives healthier, easier, and more comfortable 
+", , , , ,"V91 Science and technology are making our lives healthier, easie","V192 Science and technology are making our lives healthier, easier, and more comfortable"
+005_185,E218,"Because of science and technology, there will be more opportunities for the next generation 
+", , , , ,"V92 Because of science and technology, there will be more opport","V193 Because of science and technology, there will be more opportunities for the next generation"
+005_186,E219,"Science and technology make our way of life change too fast 
+", , , , ,V93 Science and technology make our way of life change too fast, 
+005_187,E220,"We depend too much on science and not enough on faith 
+", , , , ,V94 We depend too much on science and not enough on faith,V194 We depend too much on science and not enough on faith
+005_188,E221B,"Political action recently done: Attending peaceful/lawful demonstrations 
+", , , , ,V102 Political action recently done: Attending peaceful/lawful de,V92 Political action recently done: Attending peaceful demonstrations
+005_189,E222,"Political action: Other 
+", , , , ,V99 Political action: Other,V89 Political action: Any other act of protest
+005_190,E222B,"Political action recently done: Other 
+", , , , ,V103 Political action recently done: Other,V94 Political action recently done: Any other act of protest
+005_191,E224,"Democracy: Governments tax the rich and subsidize the poor. 
+", , , , ,V152 Democracy: Governments tax the rich and subsidize the poor.,V131 Democracy: Governments tax the rich and subsidize the poor.
+005_192,E225,"Democracy: Religious authorities interpret the laws. 
+", , , , ,V153 Democracy: Religious authorities interpret the laws.,V132 Democracy: Religious authorities interpret the laws.
+005_193,E226,"Democracy: People choose their leaders in free elections. 
+", , , , ,V154 Democracy: People choose their leaders in free elections.,V133 Democracy: People choose their leaders in free elections.
+005_194,E227,"Democracy: People receive state aid for unemployment. 
+", , , , ,V155 Democracy: People receive state aid for unemployment.,V134 Democracy: People receive state aid for unemployment.
+005_195,E228,"Democracy: The army takes over when government is incompetent. 
+", , , , ,V156 Democracy: The army takes over when government is incompeten,V135 Democracy: The army takes over when government is incompetent.
+005_196,E229,"Democracy: Civil rights protect people’s liberty against oppression. 
+", , , , ,V157 Democracy: Civil rights protect people´s liberty against opp,V136 Democracy: Civil rights protect people’s liberty from state oppression
+005_197,E230,"Democracy: The economy is prospering. 
+", , , , ,V158 Democracy: The economy is prospering., 
+005_198,E231,"Democracy: Criminals are severely punished. 
+", , , , ,V159 Democracy: Criminals are severely punished., 
+005_199,E232,"Democracy: People can change the laws in referendums. 
+", , , , ,V160 Democracy: People can change the laws in referendums., 
+005_200,E233,"Democracy: Women have the same rights as men. 
+", , , , ,V161 Democracy: Women have the same rights as men.,V139 Democracy: Women have the same rights as men.
+005_201,E233A,"Democracy: The state makes people's incomes equal 
+", , , , , ,V137 Democracy: The state makes people's incomes equal
+005_202,E233B,"Democracy: People obey their rulers 
+", , , , , ,V138 Democracy: People obey their rulers
+005_203,E234,"The world is better off, or worse off, because of science and technology 
+", , , , ,"V123 The world is better off, or worse off, because of science an","V197 The world is better off, or worse off, because of science and technology"
+005_204,E235,"Importance of democracy 
+", , , , ,V162 Importance of democracy,V140 Importance of democracy
+005_205,E236,"Democraticness in own country 
+", , , , ,V163 Democraticness in own country,V141 How democratically is this country being governed today
+005_206,E237,"Heard of the Millennium Development Goals 
+", , , , ,V165 Heard of the Millennium Development Goals, 
+005_207,E238,"Most serious problem of the world: 1st choice 
+", , , , ,V166 Most serious problem of the world: 1st choice,V80 Most serious problem of the world
+005_208,E239,"Most serious problem of the world: 2nd choice 
+", , , , ,V167 Most serious problem of the world: 2nd choice, 
+005_209,E240,"Most serious problem for own country: 1st choice 
+", , , , ,V168 Most serious problem for own country: 1st choice, 
+005_210,E241,"Most serious problem for own country: 2nd choice 
+", , , , ,V169 Most serious problem for own country: 2nd choice, 
+005_211,E242,"MDG: Reduce extreme poverty 
+", , , , ,V170 MDG: Reduce extreme poverty, 
+005_212,E243,"MDG: Increase primary education 
+", , , , ,V171 MDG: Increase primary education, 
+005_213,E244,"MDG: Reduce child mortality 
+", , , , ,V172 MDG: Reduce child mortality, 
+005_214,E245,"MDG: Fight HIV 
+", , , , ,V173 MDG: Fight HIV, 
+005_215,E246,"MDG: Improve housing conditions 
+", , , , ,V174 MDG: Improve housing conditions, 
+005_216,E247,"Priority: Global poverty versus National problems 
+", , , , ,V178 Priority: Global poverty versus National problems, 
+005_217,E248,"Information source: Daily newspaper 
+", , , , ,V223 Information source: Daily newspaper,"V217_ESMA Used last week: Daily newspaper (ES,MA)"
+005_217_001,E248B,"Information source: Daily newspaper (B) 
+", , , , , ,V217 Information source: Daily newspaper
+005_218,E249,"Information source: News broadcasts on radio or TV 
+", , , , ,V224 Information source: News broadcasts on radio or TV, 
+005_219,E250,"Information source: Printed magazines 
+", , , , ,V225 Information source: Printed magazines,"V218_ESMA Used last week: Printed magazines (ES,MA)"
+005_219_001,E250B,"Information source: Printed magazines (B) 
+", , , , , ,V218 Information source: Printed magazines
+005_220,E251,"Information source: In depth reports on radio or TV 
+", , , , ,V226 Information source: In depth reports on radio or TV, 
+005_221,E252,"Information source: Books 
+", , , , ,V227 Information source: Books, 
+005_222,E253,"Information source: Internet, Email 
+", , , , ,"V228 Information source: Internet, Email", 
+005_223,E254,"Information source: Talk with friends or colleagues 
+", , , , ,V229 Information source: Talk with friends or colleagues,"V224_ESMA Used last week: Talk with friends or colleagues (ES,MA)"
+005_223_001,E254B,"Information source: Talk with friends or colleagues (B) 
+", , , , , ,V224 Information source: Talk with friends or colleagues
+005_224,E255,"How often use of PC 
+", , , , ,V230 How often use of PC,V225 How often use of a personal computer
+005_225,E256,"General party preference 
+", , , , ,V233A General party preference, 
+005_226,E257,"Voted in recent parliament elections 
+", , , , ,V234 Voted in recent parliament elections, 
+005_227,E258,"Information source: TV news 
+", , , , , ,"V219_ESMA Used last week: TV news (ES,MA)"
+005_227_001,E258B,"Information source: TV news (B) 
+", , , , , ,V219 Information source: TV news
+005_228,E259,"Information source: Radio news 
+", , , , , ,"V220_ESMA Used last week: Radio news (ES,MA)"
+005_228_001,E259B,"Information source: Radio news (B) 
+", , , , , ,V220 Information source: Radio news
+005_229,E260,"Information source: Mobile phone 
+", , , , , ,"V221_ESMA Used last week: Mobile phone (ES,MA)"
+005_229_001,E260B,"Information source: Mobile phone (B) 
+", , , , , ,V221 Information source: Mobile phone
+005_230,E261,"Information source: Email 
+", , , , , ,"V222_ESMA Used last week: Email (ES,MA)"
+005_230_001,E261B,"Information source: Email (B) 
+", , , , , ,V222 Information source: Email
+005_231,E262,"Information source: Internet 
+", , , , , ,"V223_ESMA Used last week: Internet (ES,MA)"
+005_231_001,E262B,"Information source: Internet (B) 
+", , , , , ,V223 Information source: Internet
+005_232,E263,"Vote in elections: local level 
+", , , , , ,V226 Vote in elections: local level
+005_233,E264,"Vote in elections: National level 
+", , , , , ,V227 Vote in elections: National level
+005_234,E265_01,"How often in country's elections: Votes are counted fairly 
+", , , , , ,V228A How often in country's elections: Votes are counted fairly
+005_235,E265_02,"How often in country's elections: Opposition candidates are prevented from running 
+", , , , , ,V228B How often in country's elections: Opposition candidates are prevented from running
+005_236,E265_03,"How often in country's elections: TV news favors the governing party 
+", , , , , ,V228C How often in country's elections: TV news favors the governing party
+005_237,E265_04,"How often in country's elections: Voters are bribed 
+", , , , , ,V228D How often in country's elections: Voters are bribed
+005_238,E265_05,"How often in country's elections: Journalists provide fair coverage of elections 
+", , , , , ,V228E How often in country's elections: Journalists provide fair coverage of elections
+005_239,E265_06,"How often in country's elections: Election officials are fair 
+", , , , , ,V228F How often in country's elections: Election officials are fair
+005_240,E265_07,"How often in country's elections: Rich people buy elections 
+", , , , , ,V228G How often in country's elections: Rich people buy elections
+005_241,E265_08,"How often in country's elections: Voters are threatened with  violence at the polls 
+", , , , , ,V228H How often in country's elections: Voters are threatened with  violence at the polls
+005_242,E265_09,"How often in country's elections: Voters are offered a genuine choice in the elections 
+", , , , , ,V228I How often in country's elections: Voters are offered a genuine choice in the elections
+005_243,E266,"Some people think that having honest elections makes a lot of difference in their lives;  other people think that it doesn’t matter much 
+", , , , , ,V228J Degree of importance: having honest elections makes a lot of difference in you and your family's lives
+005_244,E267,"Importance of having honest elections in whether or not this country develops economically 
+", , , , , ,V228K Importance of having honest elections in whether or not this country develops economically
+006,,"Religion and Morale 
+", , , ,,, 
+006_001,F001,"Thinking about meaning and purpose of life 
+",v177 Thinking about meaning and purpose of life,v133 Thinking about meaning and purpose of life,V177 How often do you think about the meaning and purpose of life,v182 Thinking about meaning and purpose of life,V184 Thinking about meaning and purpose of life,V143 Thinking about meaning and purpose of life
+006_003,F003,"Thinking about death 
+", ,v134 Thinking about death, , , , 
+006_004,F004,"Life is meaningful because God exits 
+", ,v135 Life is meaningful because God exits, , , , 
+006_005,F005,"Try to get the best out of life 
+", ,v136 Try to get the best out of life, , , , 
+006_006,F006,"Death is inevitable 
+", ,v137 Death is inevitable, , , , 
+006_007,F007,"Death has meaning if you believe in God 
+", ,v138 Death has meaning if you believe in God, , , , 
+006_008,F008,"Death is a natural resting point 
+", ,v139 Death is a natural resting point, , , , 
+006_009,F009,"Sorrow has meaning if you believe in God 
+", ,v140 Sorrow has meaning if you believe in God, , , , 
+006_010,F010,"Life has no meaning 
+", ,v141 Life has no meaning, , , , 
+006_021,F022,"Statement: good and evil 
+",v178 Statement: good and evil,v142 Statement: good and evil,V178 Good and evil,v183 Good and evil, , 
+006_023,F024,"Belong to religious denomination 
+", ,v143 Belong to religious denomination, , , , 
+006_024,F025,"Religious denomination 
+",v179 Religious denomination,v144 Religious denomination,V179 Religious Denomination,v184 Religious denomination,V185 Religious denomination,V144 Religious denomination
+006_026,F027,"Which former religious denomination 
+", ,V145 Which former religious denomination, , , , 
+006_027,F028,"How often do you attend religious services 
+",v181 How often do you attend religious services,v147 How often do you attend religious services,v181 Attendance of services,v185 How often do you attend religious services,V186 How often do you attend religious services,V145 How often do you attend religious services
+006_028,F028B,"How often to you pray 
+", , , , , ,V146 How often to you pray
+006_029,F029,"Raised religiously 
+", ,v146 Raised religiously,V180 Raised religious, , , 
+006_031,F031,"Important: Religious service birth 
+", ,v148 Important: Religious service birth, , , , 
+006_032,F032,"Important: Religious service marriage 
+", ,v149 Important: Religious service marriage, , , , 
+006_033,F033,"Important: Religious service death 
+", ,v150 Important: Religious service death, , , , 
+006_034,F034,"Religious person 
+",v182 Religious person,v151 Religious person,V182 Are you religious,v186 Religious person,V187 Religious person,V147 Religious person
+006_035,F035,"Churches give answers: moral problems 
+", ,v152 Churches give answers: moral problems, ,v187 Churches give answers: Moral problems,V188 Churches give answers: moral problems, 
+006_036,F036,"Churches give answers: the problems of family life 
+", ,v153 Churches give answers: the problems of family life, ,v188 Churches give answers: The problems of family life,V189 Churches give answers: the problems of family life, 
+006_037,F037,"Churches give answers: people´s spiritual needs 
+", ,v154 Churches give answers: people´s spiritual needs, ,v189 Churches give answers: People´s spiritual needs,V190 Churches give answers: people´s spiritual needs, 
+006_038,F038,"Churches give answers: the social problems 
+", ,v155 Churches give answers: the social problems, ,v190 Churches give answers: The social problems,V191 Churches give answers: the social problems, 
+006_040,F040,"Churches speak out on: disarmament 
+", ,v156 Churches speak out on: disarmament, , , , 
+006_041,F041,"Churches speak out on: abortion 
+", ,v157 Churches speak out on: abortion, , , , 
+006_042,F042,"Churches speak out on: third world problems 
+", ,v158 Churches speak out on: third world problems, , , , 
+006_043,F043,"Churches speak out on: extramarital affairs 
+", ,v159 Churches speak out on: extramarital affairs, , , , 
+006_044,F044,"Churches speak out on: unemployment 
+", ,v160 Churches speak out on: unemployment, , , , 
+006_045,F045,"Churches speak out on: racial discrimination 
+", ,v161 Churches speak out on: racial discrimination, , , , 
+006_046,F046,"Churches speak out on: euthanasia 
+", ,v162 Churches speak out on: euthanasia, , , , 
+006_047,F047,"Churches speak out on: homosexuality 
+", ,v163 Churches speak out on: homosexuality, , , , 
+006_048,F048,"Churches speak out on: ecology and environmental issues 
+", ,v164 Churches speak out on: ecology and environmental issues, , , , 
+006_049,F049,"Churches speak out on: government policy 
+", ,v165 Churches speak out on: government policy, , , , 
+006_050,F050,"Believe in: God 
+",v183 Believe in: God,v166 Believe in: God,V183 Do you believe in God,v191 Believe in God, ,V148 Believe in: God
+006_051,F051,"Believe in: life after death 
+",v184 Believe in: life after death,v167 Believe in: life after death,V184 Do you believe in life after death?,v192 Believe in life after death, , 
+006_052,F052,"Believe in: people have a soul 
+",v185 Believe in: people have a soul,v168 Believe in: people have a soul,V185 Do you believe people have a soul,v193 Believe in people have a soul, , 
+006_053,F053,"Believe in: hell 
+",v187 Believe in: hell,v170 Believe in: hell,V187 Do you believe in hell,v194 Believe in hell, ,V149 Believe in: hell
+006_054,F054,"Believe in: heaven 
+",v188 Believe in: heaven,v171 Believe in: heaven,V188 Do you believe in heaven,v195 Believe in heaven, , 
+006_055,F055,"Believe in: sin 
+",v189 Believe in: sin,v172 Believe in: sin,V189 Do you believe in sin, , , 
+006_057,F057,"Believe in: re-incarnation 
+", ,v174 Believe in: re-incarnation, , , , 
+006_059,F059,"Believe in: devil 
+",v186 Believe in: devil,v169 Believe in: devil,V186 Do you believe the Devil exists, , , 
+006_060,F060,"Believe in: resurrection of the dead 
+", ,v173 Believe in: resurrection of the dead, , , , 
+006_062,F062,"Personal God vs. Spirit or Life Force 
+", ,v175 Personal God vs. Spirit or Life Force, , , , 
+006_063,F063,"How important is God in your life 
+",v190 How important is God in your life,v176 How important is God in your life,V190 Importance of God in your life,v196 How important is God in your life,V192 How important is god in your life,V152 How important is God in your life
+006_064,F064,"Get comfort and strength from religion 
+",v191 Get comfort and strength from religion,v177 Get comfort and strength from religion,V191 Get comfort and strength from religion,v197 Comfort and strength from religion, , 
+006_065,F065,"Moments of prayer, meditation... 
+", ,"v178 Moments of prayer, meditation...", ,"v198 Moments of prayer, meditation...","V193 Moments of prayer, meditation...", 
+006_066,F066,"Pray to God outside of religious services (I) 
+", , , ,v199 Pray to God outside of religious services, , 
+006_067,F067,"Pray to God outside of religious services (ii) 
+", ,v179 Pray to God outside of religious services (ii), , , , 
+006_102,F102,"Politicians who don´t believe in God are unfit for public office 
+", , , ,v200 Politicians who don´t believe in God unfit for public office,V194 Politicians who don´t believe in god unfit for public office, 
+006_103,F103,"Religious leaders should not influence how people vote 
+", , , ,v201 Religious leaders should not influence people vote,V195 Religious leaders should not influence people vote, 
+006_104,F104,"Better if more people with strong religious beliefs in public office 
+", , , ,v202 Better if more people with strong religious beliefs,V196 Better if more people with strong religious beliefs, 
+006_105,F105,"Religious leaders should not influence government 
+", , , ,v203 Religious leaders should not influence government,V197 Religious leaders should not influence government, 
+006_108,F108,"Government protects freedom 
+", , , ,iv163 Government protects freedom, , 
+006_109,F109,"Government protects religion 
+", , , ,iv164 Government protects religion, , 
+006_110,F110,"Laws: people’s wishes 
+", , , ,iv165 Laws: people´s wishes, , 
+006_111,F111,"Only laws of the Shari´a 
+", , , ,iv166 Laws of the shari´a, , 
+006_114,F114,"Justifiable: claiming government benefits 
+",v192 Justifiable: claiming government benefits,v296 Justifiable: claiming government benefits,V192 Justifiable: Claiming government benefits to which you are not entitled,v204 Justifiable: Claiming government benefits,V198 Justifiable: claiming government benefits,V198 Justifiable: Claiming government benefits to which you are not entitled
+006_115,F114_01,"Justifiable: Stealing property 
+", , , , , ,V200 Justifiable: Stealing property
+006_116,F114_02,"Justifiable: Parents beating children 
+", , , , , ,V209 Justifiable: Parents beating children
+006_117,F114_03,"Justifiable: Violence against other people 
+", , , , , ,V210 Justifiable: Violence against other people
+006_118,F115,"Justifiable: avoiding a fare on public transport 
+",v193 Justifiable: avoiding a fare on public transport,v297 Justifiable: avoiding a fare on public transport,V193 Justifiable: Avoiding a fare on public transport,v205 Justifiable: Avoiding a fare on public transport,V199 Justifiable: avoiding a fare on public transport,V199 Justifiable: Avoiding a fare on public transport
+006_119,F116,"Justifiable: cheating on taxes 
+",v194 Justifiable: cheating on taxes,v298 Justifiable: cheating on taxes,V194 Justifiable: Cheating on taxes if you have a chance,v206 Justifiable: Cheating on taxes,V200 Justifiable: cheating on taxes,V201 Justifiable: Cheating on taxes if you have a chance
+006_120,F117,"Justifiable: someone accepting a bribe 
+",v196 Justifiable: someone accepting a bribe,v306 Justifiable: someone accepting a bribe,V196 Justifiable: Someone accepting a bribe in the course of their duties,v207 Justifiable: Someone accepting a bribe,V201 Justifiable: someone accepting a bribe,V202 Justifiable: Someone accepting a bribe in the course of their duties
+006_121,F118,"Justifiable: homosexuality 
+",v197 Justifiable: homosexuality,v307 Justifiable: homosexuality,V197 Justifiable: Homosexuality,v208 Justifiable: Homosexuality,V202 Justifiable: homosexuality,V203 Justifiable: Homosexuality
+006_122,F119,"Justifiable: prostitution 
+",v198 Justifiable: prostitution,v308 Justifiable: prostitution,V198 Justifiable: Prostitution,v209 Justifiable: Prostitution,V203 Justifiable: prostitution,V203A Justifiable: Prostitution
+006_123,F120,"Justifiable: abortion 
+",v199 Justifiable: abortion,v309 Justifiable: abortion,V199 Justifiable: Abortion,v210 Justifiable: Abortion,V204 Justifiable: abortion,V204 Justifiable: Abortion
+006_124,F121,"Justifiable: divorce 
+",v200 Justifiable: divorce,v310 Justifiable: divorce,V200 Justifiable: Divorce,v211 Justifiable: Divorce,V205 Justifiable: divorce,V205 Justifiable: Divorce
+006_125,F122,"Justifiable: euthanasia 
+",v201 Justifiable: euthanasia,v312 Justifiable: euthanasia,V201 Justifiable: Euthanasia-ending the life of the incurably sick,v212 Justifiable: Euthanasia,V206 Justifiable: euthanasia,V207A Justifiable: Euthanasia
+006_126,F123,"Justifiable: suicide 
+",v202 Justifiable: suicide,v313 Justifiable: suicide,V202 Justifiable: Suicide,v213 Justifiable: Suicide,V207 Justifiable: suicide,V207 Justifiable: Suicide
+006_127,F124,"Justifiable: drinking alcohol 
+", , , ,iv167 Justifiable: Drinking alcohol, , 
+006_128,F125,"Justifiable: joyriding 
+", ,v300 Justifiable: joyriding, , , , 
+006_129,F126,"Justifiable: taking soft drugs 
+", ,v301 Justifiable: taking soft drugs, , , , 
+006_130,F127,"Justifiable: lying 
+", ,v303 Justifiable: lying, , , , 
+006_131,F128,"Justifiable: adultery 
+", ,v304 Justifiable: adultery, , , , 
+006_132,F129,"Justifiable: throwing away litter 
+", ,v318 Justifiable: throwing away litter, , , , 
+006_133,F130,"Justifiable: driving under influence of alcohol 
+", ,v319 Justifiable: driving under influence of alcohol, , , , 
+006_138,F135,"Justifiable: sex under the legal age of consent 
+", ,v305 Justifiable: sex under the legal age of consent, , , , 
+006_139,F135A,"Justifiable: Sex before marriage 
+", , , , , ,V206 Justifiable: Sex before marriage
+006_140,F136,"Justifiable: political assassination 
+", ,v317 Justifiable: political assassination, , , , 
+006_143,F139,"Justifiable: buy stolen goods 
+",v195 Justifiable: buy stolen goods,v299 Justifiable: buy stolen goods,V195 Justifiable: Buying something you knew was stolen, , , 
+006_144,F140,"Justifiable: keeping money that you have found 
+", ,v302 Justifiable: keeping money that you have found, , , , 
+006_145,F141,"Justifiable: fighting with the police 
+", ,v311 Justifiable: fighting with the police, , , , 
+006_146,F142,"Justifiable: failing to report damage you’ve done accidentally to a parked vehicle 
+", ,v314 Justifiable: failing to report damage you’ve done accidentally to a parked vehicle, , , , 
+006_147,F143,"Justifiable: threatening workers who refuse to join a strike 
+", ,v315 Justifiable: threatening workers who refuse to join a strike, , , , 
+006_148,F144,"Justifiable: killing in self-defence 
+", ,v316 Justifiable: killing in self-defence, , , , 
+006_167,F164,"Islam requires woman to dress modestly but does not require cover face with veil 
+", , , ,isl01 Islam requires woman dress modestly but does not require cover face with veil, , 
+006_168,F165,"Violation of Islam for male and female university students to attend classes together 
+", , , ,isl02 Violation of Islam for male and female university students to attend classes together, , 
+006_169,F166,"By requiring man treat all wives equally, Islam true intent is prohibit taking more than one wife 
+", , , ,"isl03 By requiring man treat all wives equally, Islam true intent is prohibit taking more than one wife", , 
+006_170,F167,"Monarchy is a form of government that is compatible with Islam 
+", , , ,isl04 Monarchy is a form of government that is compatible with Islam, , 
+006_171,F168,"Democracy is a Western form of government that is not compatible with Islam 
+", , , ,isl05 Democracy is a Western form of government that is not compatible with Islam, , 
+006_172,F169,"Nationalism is incompatible with Islam because Islam requires ´ummah´ 
+", , , ,isl06 Nationalism is incompatible with Islam because Islam requires ´ummah´, , 
+006_173,F170,"If Palestinian state established and peace with Israel, Islam would not oppose existence of Israel 
+", , , ,"isl07 If Palestinian state established and peace with Israel, Islam would not oppose existence of Israel", , 
+006_174,F171,"If country pursues policies harmful to Muslims, Islam permits killing civilians in that country 
+", , , ,"isl08 If country pursues policies harmful to Muslims, Islam permits killing civilians in that country", , 
+006_175,F172,"A truly Islamic country should not have a parliament with the right to pass laws 
+", , , ,isl09 A truly Islamic country should not have a parliament with the right to pass laws, , 
+006_176,F173,"Islam requires that political rights of non Muslims should be inferior to those of Muslims 
+", , , ,isl10 Islam requires that political rights of non Muslims should be inferior to those of Muslims, , 
+006_177,F174,"Islams requires country with majority of Muslims be governed by men of Islamic learning 
+", , , ,isl11 Islams requires country with majority of Muslims be governed by men of Islamic learning, , 
+006_178,F175,"Religions limit democratic processes 
+", , , ,isl12 Religions limit democratic processes, , 
+006_179,F176,"Some US Policies toward other countries are good and some are bad 
+", , , ,isl13 Some US Policies toward other countries are good and some are bad, , 
+006_180,F177,"While US policies toward other countries are often bad, most ordinary americans are good people 
+", , , ,"isl14 While US policies toward other countries are often bad, most ordinary Americans are good people", , 
+006_181,F178,"The culture of US and other Western countries has many positive attributes 
+", , , ,isl15 The culture of US and other Western countries has many positive attributes, , 
+006_182,F179,"Exposure to the culture of the US and other Western countries harmful effect on our country 
+", , , ,isl16 Exposure to the culture of the US and other Western countries harmful effect on our country, , 
+006_183,F186,"Religion is a cause of terrorism 
+", , , ,isl25 Religion is a cause of terrorism, , 
+006_184,F187,"The content of [Country] education contributes to religious extremism 
+", , , ,isl26 The content of [Country] education contributes to religious extremism, , 
+006_185,F188,"Which is more important as a basis for marriage:  parents´ approval or love 
+", , , ,isl27 which is more important as a basis for marriage: the parents approval or love?, , 
+006_186,F189,"When you were growing up, did your father or mother have more influence in the affairs of the house 
+", , , ,"isl28 When you were growing up, did your father or mother have more influence in the affairs of the house?", , 
+006_187,F190,"How frequently do you perform the five prescribed prayers of the Islam 
+", , , ,isl29 How frequently do you perform the five prescribed prayers?, , 
+006_188,F191,"How frequently do you perform in the mosque 
+", , , ,isl30 How frequently do you perform the five prescribed prayers?, , 
+006_189,F192,"If you feel sad and want to talk to someone, to whom do you usually turn to 
+", , , ,"isl31 If you feel sad and want to talk to someone, to whom do you usually turn?", , 
+006_190,F193,"Civil marriage is very important because it helps maintain the family 
+", , , ,isl32 Civil marriage is very important because it helps maintain the family, , 
+006_191,F194,"How important: daily prayer 
+", , , ,isl33 How important: daily prayer, , 
+006_192,F195,"How important: building a prosperous society 
+", , , ,isl34 How important: building a prosperous society, , 
+006_193,F196,"How important: forming a happy secure family 
+", , , ,isl35 How important: forming a happy secure family, , 
+006_194,F197,"How important: building a successful professional future 
+", , , ,isl36 How important: building a successful professional future, , 
+006_195,F198,"Fate versus control 
+", , , , ,V122 Fate versus control, 
+006_196,F199,"Justifiable: For a man to beat his wife 
+", , , , ,V208 Justifiable: For a man to beat his wife,V208 Justifiable: For a man to beat his wife
+006_197,F200,"Meaning of religion: To follow religious norms and ceremonies vs To do good to other people 
+", , , , , ,V150 Meaning of religion: To follow religious norms and ceremonies vs To do good to other people
+006_198,F201,"Meaning of religion: To make sense of life after death vs To make sense of life in this world 
+", , , , , ,V151 Meaning of religion: To make sense of life after death vs To make sense of life in this world
+006_199,F202,"Whenever science and religion conflict,  religion is always right 
+", , , , , ,"V153 Whenever science and religion conflict,  religion is always right"
+006_200,F203,"The only acceptable religion  is my religion 
+", , , , , ,V154 The only acceptable religion  is my religion
+006_201,F204,"All religions should be taught in public schools 
+", , , , , ,V155 All religions should be taught in public schools
+006_202,F205,"People who belong to different religions are probably just as moral as those who belong to mine 
+", , , , , ,V156 People who belong to different religions are probably just as moral as those who belong to mine
+007,,"National Identity 
+", , , ,,, 
+007_001,G001,"Geographical groups belonging to first 
+",v203 Geographical groups belonging to first,v320 Geographical groups belonging to first,V203 Geographical group belongs first,v214 Geographical groups belong first, , 
+007_002,G001CS,"Geographical groups belonging to first (country specific) 
+", ,g001_cs Geographical groups belonging to first (country specific),g001_cs Geographical Group 1 (country specific),g001_cs Geographical groups belong first (country specific), , 
+007_003,G002,"Geographical groups belonging to second 
+",v204 Geographical groups belonging to second,v321 Geographical groups belonging to second,V204 Geographical groups belongs second,v215 Second geographical group belongs to, , 
+007_004,G002CS,"Geographical groups belonging to second  (country specific) 
+", ,g002_cs Geographical groups belonging to second  (country specific),g002_cs Geographical Group 2 (country specific),g002_cs Geographical groups belong second (country specific), , 
+007_006,G003CS,"Geographical groups belonging to least of all (country specific) 
+", ,V350 Geographical groups belonging to least of all, , , , 
+007_008,G005,"Citizen of [country] 
+", , , , ,V264 Are you a citizen of this country, 
+007_009,G006,"How proud of nationality 
+",v205 How proud of nationality,v322 How proud of nationality,V205 How proud are you to be [nationality],v216 How proud of nationality,V209 How proud of nationality,V211 How proud of nationality
+007_010_001,G007_01,"Trust: Other people in country 
+", ,v341 Trust: Other people in country, , , , 
+007_010_002,G007_02,"Trust: French 
+", ,v342 Trust: French, , , , 
+007_010_003,G007_03,"Trust: Nepalis 
+", ,v347_19 Trust: Nepalis, , , , 
+007_010_004,G007_04,"Trust: Korean residents in Japan 
+", ,v347_20 Trust: Korean residents in Japan, , , , 
+007_010_005,G007_05,"Trust: Chinese residents in Japan 
+", ,v347_21 Trust: Chinese residents in Japan, , , , 
+007_010_006,G007_06,"Trust: Mestizo 
+", ,v347_22 Trust: Mestizo, , , , 
+007_010_007,G007_07,"Trust: Indians 
+", ,v347_23 Trust: Indians, , , , 
+007_010_008,G007_08,"Trust: Central Americans 
+", ,v347_24 Trust: Central Americans, , , , 
+007_010_009,G007_09,"Trust: Hausas 
+", ,v347_25 Trust: Hausas, , , , 
+007_010_010,G007_10,"Trust: Igbos 
+", ,v347_26 Trust: Igbos, , , , 
+007_010_011,G007_11,"Trust: Yorubas 
+", ,v347_27 Trust: Yorubas, , , , 
+007_010_012,G007_12,"Trust: Ghanaians 
+", ,v347_28 Trust: Ghanaians, , , , 
+007_010_013,G007_13,"Trust: Czechs 
+", ,v347_29 Trust: Czechs, , , , 
+007_010_016,G007_16,"Trust: West Germans 
+", ,v347_30 Trust: West Germans, , , , 
+007_010_017,G007_17,"Trust: Your friends 
+", ,v347_31 Trust: Your friends, , , , 
+007_010_018,G007_18,"Trust: Your neighborhood 
+", ,v347_32 Trust: Your neighborhood, , , , 
+007_010_018_001,G007_18_B,"Trust: Your neighborhood (B) 
+", , , , ,V126 Trust: Your neighborhood,V103 How much you trust: Your neighborhood
+007_010_019,G007_19,"Trust: White South Africans 
+", ,v347_33 Trust: White South Africans, , , , 
+007_010_020,G007_20,"Trust: Black South Africans 
+", ,v347_34 Trust: Black South Africans, , , , 
+007_010_021,G007_21,"Trust: Coloured South Africans 
+", ,v347_35 Trust: Coloured South Africans, , , , 
+007_010_022,G007_22,"Trust: Asian South Africans 
+", ,v347_36 Trust: Asian South Africans, , , , 
+007_010_028,G007_28,"Trust: Moroccans 
+", ,v347_37 Trust: Moroccans, , , , 
+007_010_030,G007_30,"Trust: Portuguese 
+", ,v347_38 Trust: Portuguese, , , , 
+007_010_031,G007_31,"Trust: Koreans 
+", ,v347_39 Trust: Koreans, , , , 
+007_010_032,G007_32,"Trust: Soviet Union people 
+", ,v347_40 Trust: Soviet Union people, , , , 
+007_010_033_001,G007_33_B,"Trust: People you know personally (B) 
+", , , , ,V127 Trust: People you know personally,V104 How much you trust: People you know personally
+007_010_034_001,G007_34_B,"Trust: People you meet for the first time (B) 
+", , , , ,V128 Trust: People you meet for the first time,V105 How much you trust: People you meet for the first time
+007_010_035_001,G007_35_B,"Trust: People of another religion (B) 
+", , , , ,V129 Trust: People of another religion,V106 How much you trust: People of another religion
+007_010_036_001,G007_36_B,"Trust: People of another nationality (B) 
+", , , , ,V130 Trust: People of another nationality,V107 How much you trust: People of another nationality
+007_010_037,G007_37,"Trust: Americans 
+", ,v344 Trust: Americans, , , , 
+007_010_039,G007_39,"Trust: Russians 
+", ,v346 Trust: Russians, , , , 
+007_010_040,G007_40,"Trust: Chinese 
+", ,v347 Trust: Chinese, , , , 
+007_010_041,G007_41,"Trust: Italians 
+", ,v347_01 Trust: Italians, , , , 
+007_010_042,G007_42,"Trust: Latin Americans 
+", ,v347_02 Trust: Latin Americans, , , , 
+007_010_043,G007_43,"Trust: Japanese 
+", ,v347_03 Trust: Japanese, , , , 
+007_010_044,G007_44,"Trust: Blacks 
+", ,v347_04 Trust: Blacks, , , , 
+007_010_045,G007_45,"Trust: Germans 
+", ,v347_05 Trust: Germans, , , , 
+007_010_048,G007_48,"Trust: Mapuche Indians 
+", ,v347_06 Trust: Mapuche Indians, , , , 
+007_010_049,G007_49,"Trust: Pascuences 
+", ,v347_07 Trust: Pascuences, , , , 
+007_010_050,G007_50,"Trust: Argentines 
+", ,v347_08 Trust: Argentines, , , , 
+007_010_051,G007_51,"Trust: Peruvians 
+", ,v347_09 Trust: Peruvians, , , , 
+007_010_052,G007_52,"Trust: Chinese Zhuan Nationality 
+", ,v347_10 Trust: Chinese Zhuan Nationality, , , , 
+007_010_053,G007_53,"Trust: Chinese Hui Nationality 
+", ,v347_11 Trust: Chinese Hui Nationality, , , , 
+007_010_054,G007_54,"Trust: English 
+", ,v347_12 Trust: English, , , , 
+007_010_055,G007_55,"Trust: Slovaks 
+", ,v347_13 Trust: Slovaks, , , , 
+007_010_056,G007_56,"Trust: Gypsies 
+", ,v347_14 Trust: Gypsies, , , , 
+007_010_057,G007_57,"Trust: Poles 
+", ,v347_15 Trust: Poles, , , , 
+007_010_058,G007_58,"Trust: Indian Hindus 
+", ,v347_16 Trust: Indian Hindus, , , , 
+007_010_059,G007_59,"Trust: Indian Non-Hindus 
+", ,v347_17 Trust: Indian Non-Hindus, , , , 
+007_010_060,G007_60,"Trust: Pakistanis 
+", ,v347_18 Trust: Pakistanis, , , , 
+007_010_061,G007_61,"Trust: Canadian people in general 
+", , , , ,V130_CA_1 Trust: Canadian people in general, 
+007_010_062,G007_62,"Trust: Christians 
+", , , , ,V130_IQ_4 Trust: Christians, 
+007_010_063,G007_63,"Trust: Kurds 
+", , , , ,V130_IQ_3 Trust: Kurds, 
+007_010_064,G007_64,"Trust: People in general 
+", , , , ,V130_NZ_2 Trust: People in general, 
+007_010_065,G007_65,"Trust: Relatives 
+", , , , ,V130_NZ_1 Trust: Relatives, 
+007_010_066,G007_66,"Trust: Shi´i 
+", , , , ,V130_IQ_1 Trust: Shi´i, 
+007_010_067,G007_67,"Trust: Sunni 
+", , , , ,V130_IQ_2 Trust: Sunni, 
+007_012,G015,"Which of the following best describes you 
+", , ,v208 National identity, , , 
+007_013,G015B,"Which of the following best describes you (B) 
+", , , ,V218 Which of the following best describes you (*), , 
+007_014,G016,"Language at home 
+", , ,V209 Language at home,V219 Language at home (*),V222 Language at home,V247 Language at home
+007_015,G017,"Born in this country: birth country 
+", ,v348 Born in this country: birth country,V206 Born in this country, , , 
+007_016,G018,"When came to country 
+", ,v349 When came to country,V207 When came to country, , , 
+007_017,G019,"I see myself as a world citizen 
+", , , , ,V210 I see myself as a world citizen,V212 I see myself as a world citizen
+007_018,G020,"I see myself as member of my local community 
+", , , , ,V211 I see myself as member of my local community,V213 I see myself as part of my local community
+007_019,G021,"I see myself as citizen of the [country] nation 
+", , , , ,V212 I see myself as citizen of the [country] nation,V214 I see myself as part of the [country] nation
+007_020,G022A,"I see myself as citizen of [Latinamerica] 
+", , , , ,V213A I see myself as citizen of [Latinamerica],V215_08 I see myself as part of the Latin-American Community
+007_021,G022B,"I see myself as citizen of [North America] 
+", , , , ,V213B I see myself as citizen of [North America],V215_07 I see myself as part of [North America]
+007_022,G022C,"I see myself as citizen of the [European Union] 
+", , , , ,V213C I see myself as citizen of the [European Union],V215_01 I see myself as citizen of the [European Union]
+007_023,G022D,"I see myself as citizen of [APEC] 
+", , , , ,V213D I see myself as citizen of [APEC],V215_02 I see myself as citizen of the [APEC]
+007_024,G022E,"I see myself as citizen of [ASIA] 
+", , , , ,V213E I see myself as citizen of [ASIA],V215_14 I see myself as part of ASIA
+007_025,G022F,"I see myself as citizen of [Mercosur] 
+", , , , ,V213F I see myself as citizen of [Mercosur],V215_10 I see myself as part of [Mercosur]
+007_026,G022G,"I see myself as citizen of [my province or region] 
+", , , , ,V213G I see myself as citizen of [my province or region], 
+007_027,G022H,"I see myself as citizen of [a country other than mine] 
+", , , , ,V213H I see myself as citizen of [a country other than mine], 
+007_028,G022I,"I see myself as citizen of [CIS] 
+", , , , , ,V215_11 I see myself as part of [CIS]
+007_029,G022J,"I see myself as citizen of [The Caribbean] 
+", , , , , ,V215_04 I see myself as part of [The Caribbean]
+007_030,G022K,"I see myself as citizen of [The African Union] 
+", , , , ,V213K I see myself as citizen of [The African Union],V215_12 I see myself as part of [The African Union]
+007_031,G022L,"I see myself as citizen of [Arab Maghreb Union] 
+", , , , ,V213L I see myself as citizen of [Arab Maghreb Union],V215_05 I see myself as part of [Arab Maghreb Union]
+007_032,G022M,"I see myself as citizen of [ASEAN] 
+", , , , ,V213M I see myself as citizen of [ASEAN],V215_13 I see myself as part of the [ASEAN]
+007_033,G022N,"I see myself as citizen of [Arab Union] 
+", , , , ,V213N I see myself as citizen of [Arab Union],V215_06 I see myself as part of the [Arab Union]
+007_034,G022O,"I see myself as citizen of the [Northeast Asia Region] 
+", , , , , ,V215_03 I see myself as part of the [Northeast Asia Region]
+007_035,G022P,"I see myself as citizen of the [UNASUR] 
+", , , , , ,V215_15 I see myself as part of the [UNASUR]
+007_036,G022Q,"I see myself as citizen of the [Islamic nation] 
+", , , , , ,V215_16 I see myself as part of the [Islamic nation]
+007_037,G022R,"I see myself as part of the Cooperation Council for the Arab states of Gulf (GCC) 
+", , , , , ,V215_17 I see myself as part of the Cooperation Council for the Arab states of Gulf (GCC)
+007_038,G022S,"I see myself as part of  [SAARC] 
+", , , , , ,V215_18 I see myself as part of  [SAARC]
+007_039,G023,"I see myself as an autonomous individual 
+", , , , ,V214 I see myself as an autonomous individual,V216 I see myself as an autonomous individual
+007_040,G024,"What thing are you proud of in your country -1st 
+", ,v286 What thing are you proud of in your country -1st, , , , 
+007_041,G025,"What thing are you proud of in your country -2nd 
+", ,v287 What thing are you proud of in your country -2nd, , , , 
+007_042,G026,"Mother immigrant 
+", , , , ,V215 Mother immigrant,V243 Mother immigrant
+007_042_001,G026_01,"Mother's Country of origin 
+", , , , , ,V243_AU Mother's Country of origin (AU)
+007_043,G027,"Father immigrant 
+", , , , ,V216 Father immigrant,V244 Father immigrant
+007_043_001,G027_01,"Father's Country of origin 
+", , , , , ,V244_AU Father's Country of origin (AU)
+007_044,G027A,"Respondent immigrant 
+", , , , , ,V245 Respondent immigrant
+007_045,G027B,"Respondent citizen 
+", , , , , ,V246 Respondent citizen
+007_046,G028,"Requirements for citizenship: having ancestors from my country 
+", , , , ,V217 Requirements for citizenship: having ancestors from my count, 
+007_047,G029,"Requirements for citizenship: being born on my country’s soil 
+", , , , ,V218 Requirements for citizenship: being born on my country´s soi, 
+007_048,G030,"Requirements for citizenship: adopting the customs of my country 
+", , , , ,V219 Requirements for citizenship: adopting the customs of my country, 
+007_049,G031,"Requirements for citizenship: abiding by my country´s laws 
+", , , , ,V220 Requirements for citizenship: abiding by my country´s laws, 
+007_050,G032,"Ethnic diversity 
+", , , , ,V221 Ethnic diversity, 
+008,,"Security 
+", , , , , , 
+008_001,H001,"Secure in neighborhood 
+", , , , , ,V170 Secure in neighborhood
+008_002,H002_01,"Frequency in your neighborhood: Robberies 
+", , , , , ,V171 How frequently do the following things occur in your neighborhood: Robberies
+008_003,H002_02,"Frequency in your neighborhood: Alcohol consumed in the streets 
+", , , , , ,V172 How frequently do the following things occur in your neighborhood: Alcohol consumed in the streets
+008_004,H002_03,"Frequency in your neighborhood: Police or military interfere with people’s private life 
+", , , , , ,V173 How frequently do the following things occur in your neighborhood: Police or military interfere with people’s private life
+008_005,H002_04,"Frequency in your neighborhood: Racist behavior 
+", , , , , ,V174 How frequently do the following things occur in your neighborhood: Racist behavior
+008_006,H002_05,"Frequency in your neighborhood: Drug sale in streets 
+", , , , , ,V175 How frequently do the following things occur in your neighborhood: Drug sale in streets
+008_007,H003_01,"Things done for reasons of security: Didn’t carry much money 
+", , , , , ,V176 Things done for reasons of security: Didn’t carry much money
+008_008,H003_02,"Things done for reasons of security: Preferred not to go out at night 
+", , , , , ,V177 Things done for reasons of security: Preferred not to go out at night
+008_009,H003_03,"Things done for reasons of security: Carried a knife, gun or other weapon 
+", , , , , ,"V178 Things done for reasons of security: Carried a knife, gun or other weapon"
+008_010,H004,"Respondent was victim of a crime during the past year 
+", , , , , ,V179 Respondent was victim of a crime during the past year
+008_011,H005,"Respondent's family was victim of a crime during last year 
+", , , , , ,V180 Respondent's family was victim of a crime during last year
+008_012,H006_01,"Worries: Losing my job or not finding a job 
+", , , , , ,V181 Worries: Losing my job or not finding a job
+008_013,H006_02,"Worries: Not being able to give one's children a good education 
+", , , , , ,V182 Worries: Not being able to give one's children a good education
+008_014,H006_03,"Worries: A war involving my country 
+", , , , , ,V183 Worries: A war involving my country
+008_015,H006_04,"Worries: A terrorist attack 
+", , , , , ,V184 Worries: A terrorist attack
+008_016,H006_05,"Worries: A civil war 
+", , , , , ,V185 Worries: A civil war
+008_017,H006_06,"Worries: Government wire-tapping or reading my mail or email 
+", , , , , ,V186 Worries: Government wire-tapping or reading my mail or email
+008_018,H007,"Under some conditions, war is necessary to obtain justice 
+", , , , , ,"V187 Under some conditions, war is necessary to obtain justice"
+008_019,H008_01,"Frequency you/family (last 12 month): Gone without enough food to eat 
+", , , , , ,"V188 In the last 12 month, how often have you or your family: Gone without enough food to eat"
+008_020,H008_02,"Frequency you/family (last 12 month): Felt unsafe from crime in your own home 
+", , , , , ,"V189 In the last 12 month, how often have you or your family: Felt unsafe from crime in your own home"
+008_021,H008_03,"Frequency you/family (last 12 month): Gone without needed medicine or treatment that you needed 
+", , , , , ,"V190 In the last 12 month, how often have you or your family: Gone without needed medicine or treatment that you needed"
+008_022,H008_04,"Frequency you/family (last 12 month): Gone without a cash income 
+", , , , , ,"V191 In the last 12 month, how often have you or your family: Gone without a cash income"
+009,,"Science 
+", , , , , , 
+009_001,I001,"One of the bad effects of science is that it breaks down people’s ideas of right and wrong 
+", , , , , ,V195 One of the bad effects of science is that it breaks down people’s ideas of right and wrong
+009_002,I002,"It is not important for me to know about science in my daily life 
+", , , , , ,V196 It is not important for me to know about science in my daily life
+010,,"Structure of the file 
+", , , ,S Structure of the file, , 
+010_001,S001,"Study 
+",S001 Study,S001 Study,S001 Study,S001 Study,S001 Study, 
+010_002,S002,"Wave 
+",V1 Wave,V1 WVS wave,V1 Wave,v1 Wave,V1 wave number,V1 Wave
+010_004,S003,"Country/region 
+",V2 Country/region,v2 Country/region,V2 Country,v2 Country/Region,V2 Country/Region,V2 Country Code
+010_005,S003A,"Country/regions [with split ups] 
+",V2A Country/region [with split ups], ,V2A Country/region [with split ups],V2A Country/regions [with split ups],V2A Country/regions [with split ups],V2A Country/regions [with split ups]
+010_006,S004,"Set 
+", , ,V2B Dataset (when more than one), , , 
+010_007,S006,"Original respondent number 
+",v3 Original respondent number,v3 Original respondent number,v3 Interview number,v3 Interview number,V3 Original respondent number,V3 Interview number
+010_008,S007,"Unified respondent number 
+",S007 Unified respondent number,S007 Unified respondent number,S007 Unified respondent number,S007 Unified respondent number,S007 Unified respondent number,S007 Unified respondent number
+010_008_001,s007_01,"Unified respondent number (EVS/WVS LF) 
+",S007_01 Unified respondent number (EVS/WVS LF),S007_01 Unified respondent number,S007_01 Unified respondent number,S007_01 Unified respondent number,S007_01 Unified respondent number,S007_01 UNified respondent number
+010_010,S010,"Total length of interview 
+", ,v366 Total length of interview,V230 Interview duration in Hours:Minutes,v239 Total length of interview, , 
+010_011,S011,"Time at the end of interview 
+", ,v365 Time at the end of interview,V229 Time at end,v238 Time at the end of the interview, , 
+010_012,S012,"Date interview 
+", , , , ,V261 Interview date,V261 Date of interview
+010_013,S013,"Respondent interested during the interview 
+", ,v367 Respondent interested during the interview,V231 Interest in interview,v240 Interest during the interview,V254 Interest during the interview,V251 Respondent interested during the interview
+010_013_001,S013B,"Interview privacy 
+", , , , , ,V252 Interview privacy
+010_016,S016,"Language in which interview was conducted 
+", ,V373 Language in which interview was conducted,V235 Interview language,V244 Language in which interview was conducted (*),V258 Language in which interview was conducted,V257 Language in which interview was conducted
+010_017,S017,"Weight 
+",V236 Weight,V376 Weight,V236 Original weight,v245 WEIGHT,V259 Weight,V258 Weight
+010_018,S017A,"Weight [with split ups] 
+",V236A Country weight Splitted,V376A Weight with split ups,V236A Weight [with split ups],V245A Weight with split ups,V259A Weight [with split ups],V258A Weight with split ups
+010_019,S018,"Equilibrated weight-1000 
+",S018 Equilibrated weight-1000,S018 Equilibrated weight-1000,S018 1000 equilibrated weight,S018 1000 equilibrated weight,S018 1000 equilibrated weight,S018 1000 equilibrated weight
+010_020,S018A,"Equilibrated weight-1000 [with split ups] 
+",S018A Equilibrated weight-1000,S018A Equilibrated weight 1000-with split ups,S018A 1000 equilibrated weight with split ups,S018A 1000 equilibrated weight with split ups,S018AMV 1000-equilibrated weight with split ups,S018A 1000 equilibrated weight with split ups
+010_021,S019,"Equilibrated weight-1500 
+",S019 Equilibrated weight-1500,S019 1500 equilibrated weight,S019 1500 equilibrated weight,S019 1500 equilibrated weight,S019 1500 equilibrated weight,S019 1500 equilibrated weight
+010_022,S019A,"Equilibrated weight-1500 [with split ups] 
+",S019A Equilibrated weight-1500,S019A 1500 equilibrated weight with split ups,S019A 1500 equilibrated weight with split ups,S019A 1500 equilibrated weight with split ups,S019A 1500 equilibraed weight with split ups,S019A 1500 equilibrated Weight with split ups
+010_023,S020,"Year survey 
+",V237 Year survey,v377 Year survey,V238 Year of survey,V246 Survey year,V260 Year survey,V262 Survey year
+010_028,S024,"Country - wave 
+",V238 Nation-Wave,v378 Nation-Wave,V239 Nation-Wave,V247 Nation-Wave,V266 Nation-Wave,V263 Nation-Wave
+010_030,S025,"Country - year 
+",V239 Nation Year,v379 Nation Year,V240 Nation Year,V248 Nation Year,V267 Nation Year,V264 Nation Year
+010_033,S027,"split ballot 
+", , , , ,V1B split ballot, 
+010_034,S028,"split oecd 
+", , , , ,V1A split oecd, 
+014,,"Socio-demographics 
+", , , ,,, 
+014_001,X001,"Sex 
+",v214 Sex,v353 Sex,V214 Sex,v223 Sex,V235 Sex,V240 Sex
+014_002,X002,"Year of birth 
+",v215 Year of birth,v354 Year of birth,V215 Year of birth,v224 Year of birth,V236 Year of birth,V241 Year of birth
+014_003,X003,"Age 
+",v216 Age,v355 Age,V216 Age,v225 Age,V237 Age,V242 Age
+014_009,X007,"Marital status 
+",v89 Marital status,v181 Marital status,V89 Marital status,v106 Marital status,V55 Marital status,V57 Marital status
+014_010,X008,"Have you been married before 
+", ,v182 Have you been married before, , , , 
+014_012,X010,"Where r lived after married 
+", , , ,iv67 Where Respondent live after marriage, , 
+014_013,X011,"How many children do you have 
+",v90 How many children do you have,v211 How many children do you have,V90 How many children,v107 Have you had any children,V56 How many children,V58 How many children do you have
+014_014,X011A,"Have you had any children 
+",v90a Have you had any children, , , , , 
+014_015,X012,"How many are still living at home 
+", ,v212 How many are still living at home, , , , 
+014_016,X013,"Number of people in household 
+", , , , ,V265 Number of Household members, 
+014_026,X023,"What age did you complete your education 
+",v218 What age did you complete your education, ,V218 What age did you complete your education,v227 What age did you complete your education,V239 What age did you complete your education,V249 What age did you complete your education
+014_027,X023R,"What age did you complete your education (recoded in intervals) 
+", ,v356 What age did you complete your education, , , , 
+014_029,X024B,"Respondent - literate 
+", , , , ,V262 Was the respondent literate?, 
+014_030,X025,"Highest educational level attained 
+", ,v375 Highest educational level attained,V217 Highest educational level attained,v226 Highest educational level attained,V238 Highest educational level attained,V248 Highest educational level attained
+014_034,X025CS,"Education (country specific) 
+", ,V375CS Education (country specific),V217CS Education (CS),V226CS Education (Country Specific),V238CS Education (country specific),V248_CS Education (country specific)
+014_036,X025LIT,"Was the respondent literate 
+", , , , , ,V255 Was the respondent literate
+014_037,X026,"Do you live with your parents 
+",v219 Do you live with your parents,v357 Do you live with your parents,V219 Do you live with your parents,v228 Do you live whit your parents,V240 Do you live with your parents,V250 Do you live with your parents
+014_039,X028,"Employment status 
+",v220 Employment status,v358 Employment status,V220 Employment status,v229 Are you employed now,V241 Employment status,V229 Employment status
+014_042,X031,"Are you supervising someone 
+", , , , ,V247 Supervising someone,V234 Are you supervising someone
+014_052,X036,"Profession/job 
+",v221 Profession/job,v359 Profession/job,V221 Occupation/job,v230 Profession,V242 Profession/job,V265 Respondent's occupation
+014_060,X040,"Are you the chief wage earner in your house 
+",v222 Are you the chief wage earner in your house,v360 Are you the chief wage earner in your house,V222 Are you the chief wage earner in your house,v231 Are you the chief wage earner in your house,V248 Are you the chief wage earner in your house,V235 Are you the chief wage earner in your house
+014_061,X041,"Is the chief wage earner employed now 
+", ,V361 Is the chief wage earner employed now,V223 Is the chief wage earner employed now,v232 Is the chief wage earner employed now,V249 Is the chief wage earner employed now,V236 Is the chief wage earner employed now or not
+014_063,X043,"Chief wage earner profession/job 
+",v224 Chief wage earner profession/job,v362 Chief wage earner profession/job,V224 Chief wage earner occupation,v233 Chief wage earner occupation,V250 Chief wage earner profession/job, 
+014_064,X044,"Family savings during past year 
+", , ,V225 Family savings during past year,v234 Family savings during past year,V251 Family savings during past year,V237 Family savings during past year
+014_065,X045,"Social class (subjective) 
+",v226 Social class (subjective), ,V226 Subjective social class position,v235 Social class (subjective),V252 Social class (subjective),V238 Social class (subjective)
+014_066,X045B,"Social class (subjective) with 6 categories 
+", , , , ,V252B Social class (subjective) with 6 categories, 
+014_067,X046,"Socio-economic status of respondent 
+", ,v364 Socio-economic status of respondent, , , , 
+014_068,X047,"Scale of incomes 
+",v227 Scale of incomes,v363 Scale of incomes,V227 Subjective scale of income,v236 Scale of incomes,V253 Scale of incomes,V239 Scale of incomes
+014_072,X047CS,"Income (country specific) 
+", ,v363cs Income (country specific),V227CS Income (CS),v236cs Income (Country Specific),V253CS Income (country specific), 
+014_075,X048,"Region where the interview was conducted 
+",v234 Region where the interview was conducted,v370 Region where the interview was conducted,V234 Region,V243 Region where the interview was conducted (*),V257 Region where the interview was conducted,V256 Region where the interview was conducted
+014_083,X049,"Size of town 
+", ,v368 Size of town,V232 Size of town,v241 Size of town,V255 Size of town,V253 Size of town
+014_084,X049CS,"Size of town (country specific) 
+", ,V368CS Size of town (country specific),V232CS Size of town (Country specific),v241cs Size of town: Country specific,V255CS Size of town (country specific),V253_CS Size of town (country specific)
+014_085,X050,"Type of habitat 
+",v232 Type of habitat,v372 Type of habitat, , , , 
+014_086,X051,"Ethnic group 
+",V233 Ethnic group,v369 Ethnic group,V233 Ethnic group,V242 Ethnic group (*),V256 Ethnic group,V254 Ethnic group
+014_087,X052,"Institution of occupation 
+", , , , ,V243 Sector of employment,V230 Sector of employment
+014_088,X053,"Nature of tasks: manual vs. Cognitive 
+", , , , ,V244 Nature of tasks: manual vs. Cognitive,V231 Nature of tasks: manual vs. intellectual
+014_089,X054,"Nature of tasks: routine vs. Creative 
+", , , , ,V245 Nature of tasks: routine vs. Creative,V232 Nature of tasks: routine vs. creative
+014_090,X055,"Nature of tasks: independence 
+", , , , ,V246 Nature of tasks: independence,V233 Nature of tasks: independence
+015,,"Special Indexes 
+", , , , , , 
+015_001,Y001,"Post-Materialist index 12-item 
+", ,Y001 Materialist/postmaterialist 12-item index,Y001 Materialist/postmaterialist 12-item index,Y001 Materialist/postmaterialist 12-item index,Y001 Materialist/postmaterialist 12-item index,Y001 Materialist/postmaterialist 12-item index
+015_002,Y002,"Post-Materialist index 4-item 
+",Y002 Post-materialist index (4-item),Y002 Post-materialist index (4-item),Y002 Post-materialist index (4-item),Y002 Post-materialist index (4-item),Y002 Post-materialist index (4-item),Y002 Post-materialist index (4-item)
+015_003,Y003,"Autonomy Index 
+",Y003 Autonomy Index,Y003 Autonomy Index,Y003 Autonomy Index,Y003 Autonomy Index,Y003 Autonomy Index,Y003 Autonomy Index
+016,,"Sylatech module 
+", , , , , , 
+016_001,ZMEN_001,"Approximately, total hours a month were you active in voluntary organizations 
+", , , , , ,MN_35A Approximately how many total hours a month were you active in voluntary organizations
+016_002,ZMEN_002,"Most people view those between the ages of 18 to 29: as friendly 
+", , , , , ,MN_163A How likely it is that most people view those between the ages of 18 to 29 as friendly
+016_003,ZMEN_003,"Most people view those between the ages of 18 to 29: as competent 
+", , , , , ,MN_163B How likely it is that most people view those between the ages of 18 to 29 as competent
+016_004,ZMEN_004,"Most people view those between the ages of 18 to 29: with respect 
+", , , , , ,MN_163C How likely it is that most people view those between the ages of 18 to 29 with respect
+016_005,ZMEN_005,"In the city or area where you live, satisfaction with quality of: The public transportation systems 
+", , , , , ,MN_228S1 Degree of satisfaction (city/area where you live): The public transportation systems
+016_006,ZMEN_006,"In the city or area where you live, satisfaction with quality of: The roads and highways 
+", , , , , ,MN_228S2 Degree of satisfaction (city/area where you live): The roads and highways
+016_007,ZMEN_007,"In the city or area where you live, satisfaction with the quality: The schools 
+", , , , , ,MN_228S3 Degree of satisfaction (city/area where you live): The schools
+016_008,ZMEN_008,"In the city or area where you live, satisfaction with the quality of: The quality of air 
+", , , , , ,MN_228S4 Degree of satisfaction (city/area where you live): The quality of air
+016_009,ZMEN_009,"In the city or area where you live, satisfaction with the quality of: The quality of water 
+", , , , , ,MN_228S5 Degree of satisfaction (city/area where you live): The quality of water
+016_010,ZMEN_010,"In the city or area where you live, satisfaction with the quality of: The quality of health care 
+", , , , , ,MN_228S6 Degree of satisfaction (city/area where you live): The quality of health care
+016_011,ZMEN_011,"In the city or area where you live, satisfaction with the quality of: The quality of housing 
+", , , , , ,MN_228S7 Degree of satisfaction (city/area where you live): The quality of housing
+016_012,ZMEN_012,"In the city or area where you live, satisfaction with the quality of: The beauty or physical setting 
+", , , , , ,MN_228S8 Degree of satisfaction (city/area where you live): The beauty or physical setting
+016_013,ZMEN_013,"Satisfaction with: salary and benefits of your current primary job 
+", , , , , ,MN_233A Degree of satisfaction: Salary and benefits of your current primary job
+016_014,ZMEN_014,"Satisfaction with: opportunities for professional development and promotion in your current primary job 
+", , , , , ,MN_233B Degree of satisfaction: Opportunities for professional development/promotion in your current primary job
+016_015,ZMEN_015,"Own business or have taken tangible steps to start a business during past 12 months 
+", , , , , ,MN_234A Have a business/have taken steps to start a business (by yourself/with others) during last year
+016_016,ZMEN_016,"Over the past year, did you or a member of your family living with you borrow money 
+", , , , , ,MN_237A You/member of your family living with you (over last year) - borrow money
+016_017,ZMEN_017,"Borrow money from any of the following places: Microfinance Institution 
+", , , , , ,"MN_237B1 If 'borrow money', from any of the following places: Microfinance Institution"
+016_018,ZMEN_018,"Borrow money from any of the following places: Commercial Bank 
+", , , , , ,"MN_237B2 If 'borrow money', from any of the following places: Commercial Bank"
+016_019,ZMEN_019,"Borrow money from any of the following places:  Public Bank 
+", , , , , ,"MN_237B3 If 'borrow money', from any of the following places: Public Bank"
+016_020,ZMEN_020,"Borrow money from any of the following places:  Friends or Family 
+", , , , , ,"MN_237B4 If 'borrow money', from any of the following places: Friends or Family"
+016_021,ZMEN_021,"Borrow money from any of the following places: Informal Savings & Lending Association 
+", , , , , ,"MN_237B5 If 'borrow money', from any of the following places: Informal Savings and Lending Association (e.g. Jamiyat)"
+016_022,ZMEN_022,"Borrow money from any of the following places: Credit Supplier 
+", , , , , ,"MN_237B6 If 'borrow money', from any of the following places: Credit Supplier"
+016_023,ZMEN_023,"Borrow money from any of the following places: Other 
+", , , , , ,"MN_237B7 If 'borrow money', from any of the following places: Other"
+016_024,ZMEN_024,"The loan used for: Starting or Growing a Business 
+", , , , , ,"MN_237C1 If 'borrow money', the loan was used for: Starting or Growing a Business"
+016_025,ZMEN_025,"Tthe loan used for: Buying or Improving a Home 
+", , , , , ,"MN_237C2 If 'borrow money', the loan was used for: Buying or Improving a Home"
+016_026,ZMEN_026,"The loan used for: Getting Married 
+", , , , , ,"MN_237C3 If 'borrow money', the loan was used for: Getting Married"
+016_027,ZMEN_027,"The loan used for: For Household Purchases 
+", , , , , ,"MN_237C4 If 'borrow money', the loan was used for:  Household Purchases"
+016_028,ZMEN_028,"The loan used for: For emergencies 
+", , , , , ,"MN_237C5 If 'borrow money', the loan was used for:  Emergencies"
+016_029,ZMEN_029,"The loan used for: Others 
+", , , , , ,"MN_237C6 If 'borrow money', the loan was used for: Others"
+016_030,ZMEN_030,"Formal education system provides people with skills/training they need to find employment 
+", , , , , ,MN_249A1 Formal education system [country] provides people with skills/ training: To find employment
+016_031,ZMEN_031,"Formal education system provides people with skills/training they need to perform their jobs well 
+", , , , , ,MN_249A2 Formal education system [country] provides people with skills/ training: To perform their jobs well
+016_032,ZMEN_032,"Formal education system provides people with skills/training they need to start a business 
+", , , , , ,MN_249A3 Formal education system [country] provides people with skills/ training: To start a business
+016_033,ZMEN_033,"If you had your preference, in which of the following would you prefer to work 
+", , , , , ,"MN_228L If you had your preference, in which of the following would you prefer to work"
+016_034,ZMEN_034,"How widespread do you think that corruption is within businesses in your country 
+", , , , , ,MN_228M How widespread: Corruption is within businesses in your country
+016_035,ZMEN_035,"How widespread do you think that corruption is within the government in your country 
+", , , , , ,MN_228N How widespread: Corruption is within the government in your country
+016_036,ZMEN_036,"Level of corruption in this country respect to five years ago 
+", , , , , ,MN_228O Level of corruption in this country than it was five years ago
+016_037,ZMEN_037,"The government of your country is doing enough to fight corruption 
+", , , , , ,MN_228P Government of your country is doing enough to fight corruption
+016_038,ZMEN_038,"In last 12 months, you faced with: People give a bribe/receive services 
+", , , , , ,MN_228Q Faced with (last year): People give a bribe/present to solve their problems which are supposed to be for free
+016_039,ZMEN_039,"Opinion of those who start and run their own businesses 
+", , , , , ,MN_228R Opinion of those who start and run their own businesses
+016_040,ZMEN_040,"Have you actively looked for work in the past four weeks 
+", , , , , ,MN_229A Have you actively looked for work in the past four weeks
+016_041,ZMEN_041,"Employment opportunity, would you be interested and able to start working 
+", , , , , ,MN_229B If you received an employment opportunity (last/next month): you would be interested and able to start working
+016_042,ZMEN_042,"Are you registered through your employer with the Social Security in [country] 
+", , , , , ,MN_230A Are you registered through your employer with the Social Security in [country]
